@@ -19,7 +19,7 @@ integrate.tritrypdb.org        tryp-inc    apicommN  trypdbintegrate       uga_f
 
 q1.amoebadb.org                ameb-inc    apicommN  amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-rbld   apicommN  cryptodbwww           uga_fed
-q1.eupathdb.org                eupaBn      apicommN  apidbwww              uga_fed
+q1.eupathdb.org                eupaBs      apicommS  apidbwww              uga_fed
 q1.fungidb.org                 fungbl3n    apicommN  fungidbwww            uga_fed
 q1.giardiadb.org               giar-inc    apicommN  giardiadbwww          uga_fed
 q1.microsporidiadb.org         micr-rbld   apicommN  microwww              uga_fed
