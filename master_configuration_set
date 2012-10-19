@@ -17,6 +17,9 @@ integrate.toxodb.org           toxo-rbld    apicommN  toxodbintegrate       uga_
 integrate.trichdb.org          tvag-inc    apicommN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc    apicommN  trypdbintegrate       uga_fed
 
+a1.fungidb.org                 fung200s    apicommS  fungidbwww            uga_fed
+a2.fungidb.org                 fung200n    apicommN  fungidbwww            uga_fed
+
 q1.amoebadb.org                ameb-inc    apicommN  amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-rbld   apicommN  cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBs      apicommS  apidbwww              uga_fed
