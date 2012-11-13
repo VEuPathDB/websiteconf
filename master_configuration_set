@@ -12,7 +12,7 @@ integrate.giardiadb.org        giar254s    apicommS  giardiadbintegrate    uga_f
 integrate.microsporidiadb.org  micr301s    apicommS  microintegrate        uga_fed
 integrate.orthomcl.org         orth500s    apicommS  orthointegrate        uga_fed
 integrate.piroplasmadb.org     piro201s    apicommS  pirointegrate         uga_fed
-integrate.plasmodb.org         plas-inc    apicommS  plasmodbintegrate     uga_fed
+integrate.plasmodb.org         plas-inc    apicommN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo800s    apicommS  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag134s    apicommS  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp421s    apicommS  trypdbintegrate       uga_fed
