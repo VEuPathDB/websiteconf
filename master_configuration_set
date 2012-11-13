@@ -49,7 +49,7 @@ q2.tritrypdb.org               tryp421n    apicommN  trypdbwww             uga_f
 w1.amoebadb.org                ameb172s    apicommS  amoebadbwww           uga_fed
 w1.cryptodb.org                cryp500s    apicommS  cryptodbwww           uga_fed
 w1.eupathdb.org                eupaAs      apicommS  apidbwww              uga_fed
-w1.fungidb.org                 fung201s    apicommS  fungidbwww            uga_fed
+w1.fungidb.org                 fung210s    apicommS  fungidbwww            uga_fed
 w1.giardiadb.org               giar253s    apicommS  giardiadbwww          uga_fed
 w1.microsporidiadb.org         micr300s    apicommS  microwww              uga_fed
 w1.orthomcl.org                orth500s    apicommS  orthowww              uga_fed
@@ -62,7 +62,7 @@ w1.tritrypdb.org               tryp420s    apicommS  trypdbwww             uga_f
 w2.amoebadb.org                ameb172n    apicommN  amoebadbwww           uga_fed
 w2.cryptodb.org                cryp500n    apicommN  cryptodbwww           uga_fed
 w2.eupathdb.org                eupaAn      apicommN  apidbwww              uga_fed
-w2.fungidb.org                 fung201n    apicommN  fungidbwww            uga_fed
+w2.fungidb.org                 fung210n    apicommN  fungidbwww            uga_fed
 w2.giardiadb.org               giar253n    apicommN  giardiadbwww          uga_fed
 w2.microsporidiadb.org         micr300n    apicommN  microwww              uga_fed
 w2.orthomcl.org                orth500n    apicommN  orthowww              uga_fed
