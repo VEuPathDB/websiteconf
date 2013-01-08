@@ -22,6 +22,8 @@ a2.fungidb.org                 fung200n    apicommN     fungidbwww            ug
 a1.orthomcl.org                orth501n    apicommDevN  orthopatch            uga_fed
 a2.orthomcl.org                orth501n    apicommDevN  orthopatch            uga_fed
 
+mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
+
 q1.amoebadb.org                ameb-rbld    apicommN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-inc    apicommN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaAn      apicommN     apidbwww              uga_fed
