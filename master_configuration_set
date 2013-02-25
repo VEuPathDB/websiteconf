@@ -13,7 +13,7 @@ integrate.microsporidiadb.org  micr017n    apicommDevN  microintegrate        ug
 integrate.orthomcl.org         orth500n    apicommDevN  orthointegrate        uga_fed
 integrate.piroplasmadb.org     piro017n    apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas017n    apicommDevN  plasmodbintegrate     uga_fed
-integrate.toxodb.org           tryp017n    apicommDevN  toxodbintegrate       uga_fed
+integrate.toxodb.org           toxo017n    apicommDevN  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag017n    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp017n    apicommDevN  trypdbintegrate       uga_fed
 
@@ -33,7 +33,7 @@ q1.microsporidiadb.org         micr017n    apicommN     microwww              ug
 q1.orthomcl.org                orth500n    apicommN     orthowww              uga_fed
 q1.piroplasmadb.org            piro017n    apicommN     pirowww               uga_fed
 q1.plasmodb.org                plas017n    apicommN     plasmodbwww           uga_fed
-q1.toxodb.org                  tryp017n    apicommN     toxodbwww             uga_fed
+q1.toxodb.org                  toxo017n    apicommN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag017n    apicommN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp017n    apicommN     trypdbwww             uga_fed
 
@@ -46,7 +46,7 @@ q2.microsporidiadb.org         micr017n    apicommN     microwww              ug
 q2.orthomcl.org                orth500n    apicommN     orthowww              uga_fed
 q2.piroplasmadb.org            piro017n    apicommN     pirowww               uga_fed
 q2.plasmodb.org                plas017n    apicommN     plasmodbwww           uga_fed
-q2.toxodb.org                  tryp017n    apicommN     toxodbwww             uga_fed
+q2.toxodb.org                  toxo017n    apicommN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag017n    apicommN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp017n    apicommN     trypdbwww             uga_fed
 
