@@ -4,18 +4,18 @@
 #
 # site                         appdb       userdb    alogin                ulogin   
 #
-integrate.amoebadb.org         ameb017n    apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp017n    apicommDevN  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaAn      apicommDevN  apidbintegrate        uga_fed
+integrate.amoebadb.org         ameb017s    apicommDevS  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp017s    apicommDevS  cryptodbintegrate     uga_fed
+integrate.eupathdb.org         eupaAs      apicommDevS  apidbintegrate        uga_fed
 integrate.fungidb.org          fung-inc    apicommDevN  fungidbintegrate      uga_fed
-integrate.giardiadb.org        giar017n    apicommDevN  giardiadbintegrate    uga_fed
-integrate.microsporidiadb.org  micr017n    apicommDevN  microintegrate        uga_fed
+integrate.giardiadb.org        giar017s    apicommDevS  giardiadbintegrate    uga_fed
+integrate.microsporidiadb.org  micr017s    apicommDevS  microintegrate        uga_fed
 integrate.orthomcl.org         orth501n    apicommDevN  orthointegrate        uga_fed
-integrate.piroplasmadb.org     piro017n    apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas017n    apicommDevN  plasmodbintegrate     uga_fed
-integrate.toxodb.org           toxo017n    apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag017n    apicommDevN  trichdbintegrate      uga_fed
-integrate.tritrypdb.org        tryp017n    apicommDevN  trypdbintegrate       uga_fed
+integrate.piroplasmadb.org     piro017s    apicommDevS  pirointegrate         uga_fed
+integrate.plasmodb.org         plas017s    apicommDevS  plasmodbintegrate     uga_fed
+integrate.toxodb.org           toxo017s    apicommDevS  toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag017s    apicommDevS  trichdbintegrate      uga_fed
+integrate.tritrypdb.org        tryp017s    apicommDevS  trypdbintegrate       uga_fed
 
 a1.fungidb.org                 fung200s    apicommS     fungidbwww            uga_fed
 a2.fungidb.org                 fung200n    apicommN     fungidbwww            uga_fed
@@ -24,18 +24,18 @@ a2.orthomcl.org                orth501n    apicommDevN  orthopatch            ug
 
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
-q1.amoebadb.org                ameb017n    apicommN     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp017n    apicommN     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaAn      apicommN     apidbwww              uga_fed
+q1.amoebadb.org                ameb017s    apicommS     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp017s    apicommS     cryptodbwww           uga_fed
+q1.eupathdb.org                eupaAs      apicommS     apidbwww              uga_fed
 q1.fungidb.org                 fung-inc    apicommN     fungidbwww            uga_fed
-q1.giardiadb.org               giar017n    apicommN     giardiadbwww          uga_fed
-q1.microsporidiadb.org         micr017n    apicommN     microwww              uga_fed
+q1.giardiadb.org               giar017s    apicommS     giardiadbwww          uga_fed
+q1.microsporidiadb.org         micr017s    apicommS     microwww              uga_fed
 q1.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
-q1.piroplasmadb.org            piro017n    apicommN     pirowww               uga_fed
-q1.plasmodb.org                plas017n    apicommN     plasmodbwww           uga_fed
-q1.toxodb.org                  toxo017n    apicommN     toxodbwww             uga_fed
-q1.trichdb.org                 tvag017n    apicommN     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp017n    apicommN     trypdbwww             uga_fed
+q1.piroplasmadb.org            piro017s    apicommS     pirowww               uga_fed
+q1.plasmodb.org                plas017s    apicommS     plasmodbwww           uga_fed
+q1.toxodb.org                  toxo017s    apicommS     toxodbwww             uga_fed
+q1.trichdb.org                 tvag017s    apicommS     trichdbwww            uga_fed
+q1.tritrypdb.org               tryp017s    apicommS     trypdbwww             uga_fed
 
 q2.amoebadb.org                ameb017n    apicommN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp017n    apicommN     cryptodbwww           uga_fed
