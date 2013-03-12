@@ -50,16 +50,16 @@ q2.tritrypdb.org               tryp017n    apicommN     trypdbwww             ug
 q2.fungidb.org                 fung-inc    apicommN     fungidbwww            uga_fed
 q2.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
 
-w1.amoebadb.org                ameb173s    apicommS     amoebadbwww           uga_fed
-w1.cryptodb.org                cryp501s    apicommS     cryptodbwww           uga_fed
-w1.eupathdb.org                eupaBs      apicommS     apidbwww              uga_fed
-w1.giardiadb.org               giar254s    apicommS     giardiadbwww          uga_fed
-w1.microsporidiadb.org         micr301s    apicommS     microwww              uga_fed
-w1.piroplasmadb.org            piro201s    apicommS     pirowww               uga_fed
-w1.plasmodb.org                plas920s    apicommS     plasmodbwww           uga_fed
-w1.toxodb.org                  toxo800s    apicommS     toxodbwww             uga_fed
-w1.trichdb.org                 tvag134s    apicommS     trichdbwww            uga_fed
-w1.tritrypdb.org               tryp421s    apicommS     trypdbwww             uga_fed
+w1.amoebadb.org                ameb017s    apicommS     amoebadbwww           uga_fed
+w1.cryptodb.org                cryp017s    apicommS     cryptodbwww           uga_fed
+w1.eupathdb.org                eupaAs      apicommS     apidbwww              uga_fed
+w1.giardiadb.org               giar017s    apicommS     giardiadbwww          uga_fed
+w1.microsporidiadb.org         micr017s    apicommS     microwww              uga_fed
+w1.piroplasmadb.org            piro017s    apicommS     pirowww               uga_fed
+w1.plasmodb.org                plas017s    apicommS     plasmodbwww           uga_fed
+w1.toxodb.org                  toxo017s    apicommS     toxodbwww             uga_fed
+w1.trichdb.org                 tvag017s    apicommS     trichdbwww            uga_fed
+w1.tritrypdb.org               tryp017s    apicommS     trypdbwww             uga_fed
 w1.fungidb.org                 fung210s    apicommS     fungidbwww            uga_fed
 w1.orthomcl.org                orth500s    apicommS     orthowww              uga_fed
 
