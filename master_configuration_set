@@ -8,6 +8,7 @@ integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     ug
 integrate.cryptodb.org         cryp-inc    apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupaBs      apicommDevN  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    uga_fed
+integrate.hostdb.org           hostbl1n    apicommDevN  cryptodbintegrate     uga_fed
 integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-inc    apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-inc    apicommDevN  plasmodbintegrate     uga_fed
@@ -28,6 +29,7 @@ q1.amoebadb.org                ameb-inc    apicommN     amoebadbwww           ug
 q1.cryptodb.org                cryp-inc    apicommN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBn      apicommN     apidbwww              uga_fed
 q1.giardiadb.org               giar-inc    apicommN     giardiadbwww          uga_fed
+q1.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q1.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
 q1.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommN     plasmodbwww           uga_fed
@@ -41,6 +43,7 @@ q2.amoebadb.org                ameb-inc    apicommN     amoebadbwww           ug
 q2.cryptodb.org                cryp-inc    apicommN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupaBn      apicommN     apidbwww              uga_fed
 q2.giardiadb.org               giar-inc    apicommN     giardiadbwww          uga_fed
+q2.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q2.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
 q2.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommN     plasmodbwww           uga_fed
