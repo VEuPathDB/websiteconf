@@ -8,24 +8,24 @@
 fold-change-graph.plasmodb.org plas017N    apicommN     plasmodbpatch         uga_fed
 results-page.toxodb.org        toxo017n    apicommN     toxodbpatch           uga_fed
 
-integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp-inc    apicommDevN  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaBs      apicommDevN  apidbintegrate        uga_fed
-integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    uga_fed
-integrate.hostdb.org           hostbl1n    apicommDevN  cryptodbintegrate     uga_fed
-integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro-inc    apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas-inc    apicommDevN  plasmodbintegrate     uga_fed
-integrate.toxodb.org           toxo-inc    apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
-integrate.tritrypdb.org        tryp-rbld   apicommDevN  trypdbintegrate       uga_fed
-integrate.fungidb.org          fung-inc    apicommDevN  fungidbintegrate      uga_fed
-integrate.orthomcl.org         orth501n    apicommDevN  orthointegrate        uga_fed
+integrate.amoebadb.org         ameb-inc    apicommN     amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp-inc    apicommN     cryptodbintegrate     uga_fed
+integrate.eupathdb.org         eupaBs      apicommN     apidbintegrate        uga_fed
+integrate.giardiadb.org        giar-inc    apicommN     giardiadbintegrate    uga_fed
+integrate.hostdb.org           hostbl1n    apicommN     cryptodbintegrate     uga_fed
+integrate.microsporidiadb.org  micr-inc    apicommN     microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-inc    apicommN     pirointegrate         uga_fed
+integrate.plasmodb.org         plas-inc    apicommN     plasmodbintegrate     uga_fed
+integrate.toxodb.org           toxo-inc    apicommN     toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag-inc    apicommN     trichdbintegrate      uga_fed
+integrate.tritrypdb.org        tryp-rbld   apicommN     trypdbintegrate       uga_fed
+integrate.fungidb.org          fung-inc    apicommN     fungidbintegrate      uga_fed
+integrate.orthomcl.org         orth501n    apicommN     orthointegrate        uga_fed
 
 a1.fungidb.org                 fung200s    apicommS     fungidbwww            uga_fed
 a2.fungidb.org                 fung200n    apicommN     fungidbwww            uga_fed
-a1.orthomcl.org                orth501n    apicommDevN  orthopatch            uga_fed
-a2.orthomcl.org                orth501n    apicommDevN  orthopatch            uga_fed
+a1.orthomcl.org                orth501n    apicommN     orthopatch            uga_fed
+a2.orthomcl.org                orth501n    apicommN     orthopatch            uga_fed
 
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
