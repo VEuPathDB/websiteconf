@@ -19,7 +19,7 @@ integrate.plasmodb.org         plas-inc    apicommN     plasmodbintegrate     ug
 integrate.toxodb.org           toxo-inc    apicommN     toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag-inc    apicommN     trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-rbld   apicommN     trypdbintegrate       uga_fed
-integrate.fungidb.org          fung-inc    apicommN     fungidbintegrate      uga_fed
+integrate.fungidb.org          fung005n    apicommN     fungidbintegrate      uga_fed
 integrate.orthomcl.org         orth501n    apicommN     orthointegrate        uga_fed
 
 a1.fungidb.org                 fung200s    apicommS     fungidbwww            uga_fed
@@ -40,7 +40,7 @@ q1.plasmodb.org                plas-inc    apicommN     plasmodbwww           ug
 q1.toxodb.org                  toxo-inc    apicommN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-rbld   apicommN     trypdbwww             uga_fed
-q1.fungidb.org                 fung-inc    apicommN     fungidbwww            uga_fed
+q1.fungidb.org                 fung005n    apicommN     fungidbwww            uga_fed
 q1.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommN     amoebadbwww           uga_fed
@@ -54,7 +54,7 @@ q2.plasmodb.org                plas-inc    apicommN     plasmodbwww           ug
 q2.toxodb.org                  toxo-inc    apicommN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-rbld   apicommN     trypdbwww             uga_fed
-q2.fungidb.org                 fung-inc    apicommN     fungidbwww            uga_fed
+q2.fungidb.org                 fung005n    apicommN     fungidbwww            uga_fed
 q2.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
 
 w1.amoebadb.org                ameb017s    apicommS     amoebadbwww           uga_fed
