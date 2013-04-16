@@ -16,7 +16,7 @@ integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    ug
 integrate.hostdb.org           hostbl1n    apicommDevN  cryptodbintegrate     uga_fed
 integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-inc    apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas-inc    apicommDevN  plasmodbintegrate     uga_fed
+integrate.plasmodb.org         plas-rbld    apicommDevN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo-inc    apicommDevN  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-rbld   apicommDevN  trypdbintegrate       uga_fed
@@ -37,7 +37,7 @@ q1.giardiadb.org               giar-inc    apicommN     giardiadbwww          ug
 q1.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q1.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
 q1.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
-q1.plasmodb.org                plas-inc    apicommN     plasmodbwww           uga_fed
+q1.plasmodb.org                plas-rbld    apicommN     plasmodbwww           uga_fed
 q1.toxodb.org                  toxo-inc    apicommN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-rbld   apicommN     trypdbwww             uga_fed
@@ -51,7 +51,7 @@ q2.giardiadb.org               giar-inc    apicommN     giardiadbwww          ug
 q2.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q2.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
 q2.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
-q2.plasmodb.org                plas-inc    apicommN     plasmodbwww           uga_fed
+q2.plasmodb.org                plas-rbld    apicommN     plasmodbwww           uga_fed
 q2.toxodb.org                  toxo-inc    apicommN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-rbld   apicommN     trypdbwww             uga_fed
