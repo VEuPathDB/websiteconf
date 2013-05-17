@@ -6,7 +6,7 @@
 #
 
 fold-change-graph.plasmodb.org plas017N    apicommDevN     plasmodbpatch         uga_fed
-strat-ui-graph.plasmodb.org plas017N       apicommDevN     toxodbpatch         uga_fed
+strat-ui.plasmodb.org plas017N       apicommDevN     toxodbpatch         uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb018n    apicommDevN  amoebadbintegrate     uga_fed
