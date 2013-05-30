@@ -16,7 +16,7 @@ integrate.giardiadb.org        giar018s    apicommDevS  giardiadbintegrate    ug
 integrate.hostdb.org           hostbl1n    apicommDevN  cryptodbintegrate     uga_fed
 integrate.microsporidiadb.org  micr018s    apicommDevS  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro018s    apicommDevS  pirointegrate         uga_fed
-integrate.plasmodb.org         plas018n    apicommDevN  plasmodbintegrate     uga_fed
+integrate.plasmodb.org         plas018s    apicommDevN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo018n    apicommDevS  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag018s    apicommDevS  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp018n    apicommDevN  trypdbintegrate       uga_fed
@@ -37,7 +37,7 @@ q1.giardiadb.org               giar018s    apicommS     giardiadbwww          ug
 q1.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q1.microsporidiadb.org         micr018s    apicommS     microwww              uga_fed
 q1.piroplasmadb.org            piro018s    apicommS     pirowww               uga_fed
-q1.plasmodb.org                plas018n    apicommN     plasmodbwww           uga_fed
+q1.plasmodb.org                plas018s    apicommN     plasmodbwww           uga_fed
 q1.toxodb.org                  toxo018n    apicommN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag018s    apicommS     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp018n    apicommN     trypdbwww             uga_fed
