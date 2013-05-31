@@ -11,15 +11,15 @@ strat-ui.plasmodb.org          plas017N    apicommN     toxodbintegrate       ug
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb018s    apicommDevS  amoebadbintegrate     uga_fed
 integrate.cryptodb.org         cryp018n    apicommDevS  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaBn      apicommDevN  apidbintegrate        uga_fed
+integrate.eupathdb.org         eupaBs      apicommDevS  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar018s    apicommDevS  giardiadbintegrate    uga_fed
 integrate.hostdb.org           hostbl1n    apicommDevN  cryptodbintegrate     uga_fed
 integrate.microsporidiadb.org  micr018s    apicommDevS  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro018s    apicommDevS  pirointegrate         uga_fed
-integrate.plasmodb.org         plas018s    apicommDevN  plasmodbintegrate     uga_fed
-integrate.toxodb.org           toxo018n    apicommDevS  toxodbintegrate       uga_fed
+integrate.plasmodb.org         plas018s    apicommDevS  plasmodbintegrate     uga_fed
+integrate.toxodb.org           toxo018s    apicommDevS  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag018s    apicommDevS  trichdbintegrate      uga_fed
-integrate.tritrypdb.org        tryp018s    apicommDevN  trypdbintegrate       uga_fed
+integrate.tritrypdb.org        tryp018s    apicommDevS  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung005s    apicommDevS  fungidbintegrate      uga_fed
 integrate.orthomcl.org         orth501n    apicommDevN  orthointegrate        uga_fed
 
@@ -32,15 +32,15 @@ mheiges.orthomcl.org           orth500s    apicommS     mheiges               ug
 
 q1.amoebadb.org                ameb018s    apicommS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp018s    apicommS     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaBn      apicommN     apidbwww              uga_fed
+q1.eupathdb.org                eupaBs      apicommS     apidbwww              uga_fed
 q1.giardiadb.org               giar018s    apicommS     giardiadbwww          uga_fed
 q1.hostdb.org                  hostbl1n    apicommN     cryptodbintegrate     uga_fed
 q1.microsporidiadb.org         micr018s    apicommS     microwww              uga_fed
 q1.piroplasmadb.org            piro018s    apicommS     pirowww               uga_fed
-q1.plasmodb.org                plas018s    apicommN     plasmodbwww           uga_fed
-q1.toxodb.org                  toxo018n    apicommN     toxodbwww             uga_fed
+q1.plasmodb.org                plas018s    apicommS     plasmodbwww           uga_fed
+q1.toxodb.org                  toxo018s    apicommS     toxodbwww             uga_fed
 q1.trichdb.org                 tvag018s    apicommS     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp018s    apicommN     trypdbwww             uga_fed
+q1.tritrypdb.org               tryp018s    apicommS     trypdbwww             uga_fed
 q1.fungidb.org                 fung005s    apicommS     fungidbwww            uga_fed
 q1.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
 
