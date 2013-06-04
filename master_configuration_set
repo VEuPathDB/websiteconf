@@ -5,8 +5,8 @@
 # site                         appdb       userdb    alogin                ulogin   
 #
 
-fold-change-graph.plasmodb.org plas017N    apicommN     plasmodbpatch         uga_fed
-strat-ui.plasmodb.org          plas017N    apicommN     toxodbintegrate       uga_fed
+fold-change-graph.plasmodb.org plas018N    apicommN     plasmodbpatch         uga_fed
+strat-ui.plasmodb.org          plas018N    apicommN     toxodbintegrate       uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
