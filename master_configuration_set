@@ -21,7 +21,7 @@ integrate.toxodb.org           toxo019s    apicommDevN  toxodbintegrate       ug
 integrate.trichdb.org          tvag019s    apicommDevs  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp019s    apicommDevs  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc    apicommDevN  fungidbintegrate      uga_fed
-integrate.orthomcl.org         orth501n    apicommDevN  orthointegrate        uga_fed
+integrate.orthomcl.org         orth501s    apicommDevS  orthointegrate        uga_fed
 
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
@@ -37,7 +37,7 @@ q1.trichdb.org                 tvag019s    apicommDevs     trichdbwww           
 q1.tritrypdb.org               tryp019s    apicommDevs     trypdbwww             uga_fed
 q1.fungidb.org                 fung-inc    apicommDevn     fungidbwww            uga_fed
 q1.hostdb.org                  hostbl2n    apicommDevn     hostdbwww             uga_fed
-q1.orthomcl.org                orth501n    apicommDevN     orthowww              uga_fed
+q1.orthomcl.org                orth501s    apicommDevs     orthowww              uga_fed
 
 q2.amoebadb.org                ameb019n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp019n    apicommDevN     cryptodbwww           uga_fed
