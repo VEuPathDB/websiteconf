@@ -10,12 +10,12 @@ strat-ui.plasmodb.org          plas018N    apicommN     toxodbintegrate       ug
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp-inc    apicommDevN  cryptodbintegrate     uga_fed
+integrate.cryptodb.org         cryp-rbld    apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupaBn      apicommDevN  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    uga_fed
 integrate.hostdb.org           hostbl2n    apicommDevN  hostdbintegrate       uga_fed
-integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro-inc    apicommDevN  pirointegrate         uga_fed
+integrate.microsporidiadb.org  micr-rbld    apicommDevN  microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-rbld    apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-inc    apicommDevN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo-inc    apicommDevN  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
@@ -26,11 +26,11 @@ integrate.orthomcl.org         orth501s    apicommDevN  orthointegrate        ug
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 q1.amoebadb.org                ameb-inc    apicommN     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp-inc    apicommN     cryptodbwww           uga_fed
+q1.cryptodb.org                cryp-rbld    apicommN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBn      apicommN     apidbwww              uga_fed
 q1.giardiadb.org               giar-inc    apicommN     giardiadbwww          uga_fed
-q1.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
-q1.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
+q1.microsporidiadb.org         micr-rbld    apicommN     microwww              uga_fed
+q1.piroplasmadb.org            piro-rbld    apicommN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommN    plasmodbwww           uga_fed
 q1.toxodb.org                  toxo-inc    apicommN    toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
@@ -40,11 +40,11 @@ q1.hostdb.org                  hostbl2n    apicommN     hostdbwww             ug
 q1.orthomcl.org                orth501s    apicommN     orthowww              uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommN     amoebadbwww           uga_fed
-q2.cryptodb.org                cryp-inc    apicommN     cryptodbwww           uga_fed
+q2.cryptodb.org                cryp-rbld    apicommN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupaBn      apicommN     apidbwww              uga_fed
 q2.giardiadb.org               giar-inc    apicommN     giardiadbwww          uga_fed
-q2.microsporidiadb.org         micr-inc    apicommN     microwww              uga_fed
-q2.piroplasmadb.org            piro-inc    apicommN     pirowww               uga_fed
+q2.microsporidiadb.org         micr-rbld    apicommN     microwww              uga_fed
+q2.piroplasmadb.org            piro-rbld    apicommN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommN     plasmodbwww           uga_fed
 q2.toxodb.org                  toxo-inc    apicommN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommN     trichdbwww            uga_fed
