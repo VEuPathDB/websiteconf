@@ -37,7 +37,7 @@ q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww           
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q1.hostdb.org                  hostbl2n    apicommDevN     hostdbwww             uga_fed
-q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
+q1.orthomcl.org                orth020n    apicommDevN     orthowww              uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp-rbld    apicommDevN     cryptodbwww           uga_fed
@@ -51,7 +51,7 @@ q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww           
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.hostdb.org                  hostbl2n    apicommDevN     hostdbwww             uga_fed
-q2.orthomcl.org                orth501n    apicommDevN     orthowww              uga_fed
+q2.orthomcl.org                orth020n    apicommDevN     orthowww              uga_fed
 
 w1.amoebadb.org                ameb019s    apicommS     amoebadbwww           uga_fed
 w1.cryptodb.org                cryp019s    apicommS     cryptodbwww           uga_fed
