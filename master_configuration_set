@@ -26,7 +26,7 @@ integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk
 
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
-q1.amoebadb.org                ameb020n    apicommDevN     amoebadbwww           uga_fed
+q1.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp020n    apicommDevN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
 q1.giardiadb.org               giar020n    apicommDevN     giardiadbwww          uga_fed
@@ -40,7 +40,7 @@ q1.fungidb.org                 fungbl2n    apicommDevN     fungidbwww           
 q1.hostdb.org                  hostbl2n    apicommDevN     hostdbwww             uga_fed
 q1.orthomcl.org                orth020n    apicommDevN     orthowww              uga_fed
 
-q2.amoebadb.org                ameb020n    apicommDevN     amoebadbwww           uga_fed
+q2.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp020n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
 q2.giardiadb.org               giar020n    apicommDevN     giardiadbwww          uga_fed
