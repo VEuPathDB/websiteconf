@@ -8,19 +8,19 @@
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb020s    apicommS  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp020s    apicommS  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaBs      apicommS  apidbintegrate        uga_fed
-integrate.giardiadb.org        giar020s    apicommS  giardiadbintegrate    uga_fed
-integrate.hostdb.org           host020s    apicommS  hostdbintegrate       uga_fed
-integrate.microsporidiadb.org  micr020s    apicommS  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro020s    apicommS  pirointegrate         uga_fed
-integrate.plasmodb.org         plas020s    apicommS  plasmodbintegrate     uga_fed
-integrate.toxodb.org           toxo020s    apicommS  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag020s    apicommS  trichdbintegrate      uga_fed
-integrate.tritrypdb.org        tryp020s    apicommS  trypdbintegrate       uga_fed
-integrate.fungidb.org          fungbl2n    apicommS  fungidbintegrate      uga_fed
-integrate.orthomcl.org         orth020n    apicommDevN  orthointegrate        uga_fed
+integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp-rbld   apicommDevN  cryptodbintegrate     uga_fed
+integrate.eupathdb.org         eupaBn      apicommDevN  apidbintegrate        uga_fed
+integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    uga_fed
+integrate.hostdb.org           hostbl2n    apicommDevN  hostdbintegrate       uga_fed
+integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-rbld   apicommDevN  pirointegrate         uga_fed
+integrate.plasmodb.org         plas-inc    apicommDevN  plasmodbintegrate     uga_fed
+integrate.toxodb.org           toxo-inc    apicommDevN  toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
+integrate.tritrypdb.org        tryp-inc    apicommDevN  trypdbintegrate       uga_fed
+integrate.fungidb.org          fungbl2n    apicommDevN  fungidbintegrate      uga_fed
+integrate.orthomcl.org         orth501s    apicommDevN  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 
