@@ -10,7 +10,7 @@ mheiges.orthomcl.org           orth500s    apicommS     mheiges               ug
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
 integrate.cryptodb.org         cryp-rbld   apicommDevN  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaBn      apicommDevN  apidbintegrate        uga_fed
+integrate.eupathdb.org         eupaAn      apicommDevN  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar-inc    apicommDevN  giardiadbintegrate    uga_fed
 integrate.microsporidiadb.org  micr-inc    apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-rbld   apicommDevN  pirointegrate         uga_fed
@@ -26,7 +26,7 @@ integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk
 
 q1.amoebadb.org                ameb-inc     apicommS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-rbld    apicommS     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaBn       apicommS     apidbwww              uga_fed
+q1.eupathdb.org                eupaAn       apicommS     apidbwww              uga_fed
 q1.giardiadb.org               giar-inc     apicommS     giardiadbwww          uga_fed
 q1.microsporidiadb.org         micr-inc     apicommS     microwww              uga_fed
 q1.piroplasmadb.org            piro-rbld    apicommS     pirowww               uga_fed
@@ -40,7 +40,7 @@ q1.orthomcl.org                orth501s    apicommDevN  orthowww              ug
 
 q2.amoebadb.org                ameb-inc     apicommN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp-rbld    apicommN     cryptodbwww           uga_fed
-q2.eupathdb.org                eupaBn       apicommN     apidbwww              uga_fed
+q2.eupathdb.org                eupaAn       apicommN     apidbwww              uga_fed
 q2.giardiadb.org               giar-inc     apicommN     giardiadbwww          uga_fed
 q2.microsporidiadb.org         micr-inc     apicommN     microwww              uga_fed
 q2.piroplasmadb.org            piro-rbld    apicommN     pirowww               uga_fed
