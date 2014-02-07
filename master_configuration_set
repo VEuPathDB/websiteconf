@@ -35,7 +35,7 @@ q1.toxodb.org                  toxo-inc     apicommS     toxodbwww             u
 q1.trichdb.org                 tvag-inc     apicommS     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc     apicommS     trypdbwww             uga_fed
 q1.fungidb.org                 fungbl2n    apicommS     fungidbwww            uga_fed
-q1.hostdb.org                  host020s    apicommS     hostdbwww             uga_fed
+q1.hostdb.org                  hostbl2n    apicommS     hostdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevN  orthowww              uga_fed
 
 q2.amoebadb.org                ameb-inc     apicommN     amoebadbwww           uga_fed
@@ -49,7 +49,7 @@ q2.toxodb.org                  toxo-inc     apicommN     toxodbwww             u
 q2.trichdb.org                 tvag-inc     apicommN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-inc     apicommN     trypdbwww             uga_fed
 q2.fungidb.org                 fungbl2n    apicommN     fungidbwww            uga_fed
-q2.hostdb.org                  host020n    apicommN     hostdbwww             uga_fed
+q2.hostdb.org                  hostbl2n    apicommN     hostdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN  orthowww              uga_fed
 
 w1.amoebadb.org                ameb020s    apicommS     amoebadbwww           uga_fed
