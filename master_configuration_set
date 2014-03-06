@@ -77,3 +77,6 @@ w2.trichdb.org                 tvag020n    apicommN     trichdbwww            ug
 w2.tritrypdb.org               tryp020n    apicommN     trypdbwww             uga_fed
 w2.fungidb.org                 fung005n    apicommN     fungidbwww            uga_fed
 w2.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
+
+# other
+icemr.plasmodb.org             icembl1n     apicommDevN     plasmodbwww           uga_fed
