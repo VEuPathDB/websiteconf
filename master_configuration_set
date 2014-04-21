@@ -18,7 +18,7 @@ integrate.plasmodb.org         plas021n     apicommDevN  plasmodbintegrate     u
 integrate.toxodb.org           toxo021n     apicommDevN  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag021n     apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp021n     apicommDevN  trypdbintegrate       uga_fed
-integrate.fungidb.org          fungbl2n     apicommDevN  fungidbintegrate      uga_fed
+integrate.fungidb.org          fung006n     apicommDevN  fungidbintegrate      uga_fed
 integrate.hostdb.org           host021n     apicommDevN  hostdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s     apicommDevN  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
@@ -34,7 +34,7 @@ q1.plasmodb.org                plas021n     apicommDevN     plasmodbwww         
 q1.toxodb.org                  toxo021n     apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag021n     apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp021n     apicommDevN     trypdbwww             uga_fed
-q1.fungidb.org                 fungbl2n     apicommDevN     fungidbwww            uga_fed
+q1.fungidb.org                 fung006n     apicommDevN     fungidbwww            uga_fed
 q1.hostdb.org                  host021n     apicommDevN     hostdbwww             uga_fed
 q1.orthomcl.org                orth501s     apicommDevN  orthowww              uga_fed
 
@@ -48,7 +48,7 @@ q2.plasmodb.org                plas021n     apicommDevN     plasmodbwww         
 q2.toxodb.org                  toxo021n     apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag021n     apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp021n     apicommDevN     trypdbwww             uga_fed
-q2.fungidb.org                 fungbl2n     apicommDevN     fungidbwww            uga_fed
+q2.fungidb.org                 fung006n     apicommDevN     fungidbwww            uga_fed
 q2.hostdb.org                  host021n     apicommDevN     hostdbwww             uga_fed
 q2.orthomcl.org                orth501n     apicommDevN  orthowww              uga_fed
  
