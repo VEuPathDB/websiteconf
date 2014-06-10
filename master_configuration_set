@@ -5,6 +5,9 @@
 # site                         appdb       userdb    alogin                ulogin   
 #
 
+#https://redmine.apidb.org/issues/16402
+galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_fed
+
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
