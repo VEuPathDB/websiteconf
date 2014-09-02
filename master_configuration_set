@@ -11,8 +11,8 @@ galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb-inc     apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp-inc     apicommDevN  cryptodbintegrate     uga_fed
+integrate.amoebadb.org         ameb022n     apicommDevN  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp022n     apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupaBn       apicommDevN  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar022n     apicommDevN  giardiadbintegrate    uga_fed
 integrate.microsporidiadb.org  micr022n     apicommDevN  microintegrate        uga_fed
@@ -27,8 +27,8 @@ integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        u
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 
-q1.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q1.amoebadb.org                ameb022n    apicommDevN     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp022n    apicommDevN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
 q1.giardiadb.org               giar022n    apicommDevN     giardiadbwww          uga_fed
 q1.microsporidiadb.org         micr022n    apicommDevN     microwww              uga_fed
@@ -41,8 +41,8 @@ q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww           
 q1.hostdb.org                  host022n    apicommDevN     hostdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
 
-q2.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
-q2.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q2.amoebadb.org                ameb022n    apicommDevN     amoebadbwww           uga_fed
+q2.cryptodb.org                cryp022n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
 q2.giardiadb.org               giar022n    apicommDevN     giardiadbwww          uga_fed
 q2.microsporidiadb.org         micr022n    apicommDevN     microwww              uga_fed
