@@ -29,7 +29,7 @@ integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk
 
 q1.amoebadb.org                ameb022s    apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp022s    apicommDevN     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
+q1.eupathdb.org                eupaBs      apicommDevN     apidbwww              uga_fed
 q1.giardiadb.org               giar022s    apicommDevN     giardiadbwww          uga_fed
 q1.microsporidiadb.org         micr022s    apicommDevN     microwww              uga_fed
 q1.piroplasmadb.org            piro022s    apicommDevN     pirowww               uga_fed
