@@ -11,18 +11,18 @@ galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb022n     apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp022n     apicommDevN  cryptodbintegrate     uga_fed
+integrate.amoebadb.org         ameb-inc     apicommDevN  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp-inc     apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupaBn       apicommDevN  apidbintegrate        uga_fed
-integrate.giardiadb.org        giar022n     apicommDevN  giardiadbintegrate    uga_fed
-integrate.microsporidiadb.org  micr022n     apicommDevN  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro022n     apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas022n     apicommDevN  plasmodbintegrate     uga_fed
-integrate.toxodb.org           toxo022n     apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag022n     apicommDevN  trichdbintegrate      uga_fed
-integrate.tritrypdb.org        tryp022n     apicommDevN  trypdbintegrate       uga_fed
+integrate.giardiadb.org        giar-inc     apicommDevN  giardiadbintegrate    uga_fed
+integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
+integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
+integrate.toxodb.org           toxo-inc     apicommDevN  toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag-inc     apicommDevN  trichdbintegrate      uga_fed
+integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
-integrate.hostdb.org           host022n     apicommDevN  hostdbintegrate       uga_fed
+integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
 integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
