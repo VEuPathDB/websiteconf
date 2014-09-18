@@ -65,7 +65,7 @@ w1.plasmodb.org                plas022s    apicommS     plasmodbwww           ug
 w1.toxodb.org                  toxo022s    apicommS     toxodbwww             uga_fed
 w1.trichdb.org                 tvag022s    apicommS     trichdbwww            uga_fed
 w1.tritrypdb.org               tryp022s    apicommS     trypdbwww             uga_fed
-w1.fungidb.org                 fung006s    apicommS     fungidbwww            uga_fed
+w1.fungidb.org                 fung007s    apicommS     fungidbwww            uga_fed
 w1.orthomcl.org                orth501s    apicommS     orthowww              uga_fed
 
 w2.amoebadb.org                ameb022n    apicommN     amoebadbwww           uga_fed
@@ -78,7 +78,7 @@ w2.plasmodb.org                plas022n    apicommN     plasmodbwww           ug
 w2.toxodb.org                  toxo022n    apicommN     toxodbwww             uga_fed
 w2.trichdb.org                 tvag022n    apicommN     trichdbwww            uga_fed
 w2.tritrypdb.org               tryp022n    apicommN     trypdbwww             uga_fed
-w2.fungidb.org                 fung006n    apicommN     fungidbwww            uga_fed
+w2.fungidb.org                 fung007n    apicommN     fungidbwww            uga_fed
 w2.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
 
 # other
