@@ -37,7 +37,7 @@ q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww          
 q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
-q1.fungidb.org                 fung007s    apicommDevS     fungidbwww            uga_fed
+q1.fungidb.org                 fung-inc    apicommDevS     fungidbwww            uga_fed
 q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
 
@@ -51,7 +51,7 @@ q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww          
 q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
-q2.fungidb.org                 fung007n    apicommDevN     fungidbwww            uga_fed
+q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthowww              uga_fed
  
