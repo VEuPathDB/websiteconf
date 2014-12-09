@@ -19,7 +19,7 @@ integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        u
 integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo-inc     apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag-rbld     apicommDevN  trichdbintegrate      uga_fed
+integrate.trichdb.org          tvag-rbld    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
 integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
@@ -86,5 +86,18 @@ b2.hostdb.org                  host022n    apicommN     hostdbwww          uga_f
 
 # other
 icemr.plasmodb.org             icembl1n     icmrcomm     plasmodbwww           uga_fed
-prism.plasmodb.org             prisbl1n     prsmcomm        plasmodbwww           uga_fed
+prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
+
+maint.amoebadb.org             ameb-inc     apicommDevN   aurreco2      uga_fed
+maint.cryptodb.org             cryp-inc     apicommDevN   aurreco2      uga_fed
+maint.eupathdb.org             eupaBn       apicommDevN   aurreco2      uga_fed
+maint.giardiadb.org            giar-inc     apicommDevN   aurreco2      uga_fed
+maint.microsporidiadb.org      micr-inc     apicommDevN   aurreco2      uga_fed
+maint.piroplasmadb.org         piro-inc     apicommDevN   aurreco2      uga_fed
+maint.plasmodb.org             plas-inc     apicommDevN   aurreco2      uga_fed
+maint.toxodb.org               toxo-inc     apicommDevN   aurreco2      uga_fed
+maint.trichdb.org              tvag-rbld    apicommDevN   aurreco2      uga_fed
+maint.tritrypdb.org            tryp-inc     apicommDevN   aurreco2      uga_fed
+maint.fungidb.org              fung-inc     apicommDevN   aurreco2      uga_fed
+maint.hostdb.org               host-inc     apicommDevN   aurreco2      uga_fed
