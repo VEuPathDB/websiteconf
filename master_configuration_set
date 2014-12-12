@@ -88,16 +88,16 @@ b2.hostdb.org                  host022n    apicommN     hostdbwww          uga_f
 icemr.plasmodb.org             icembl1n     icmrcomm     plasmodbwww           uga_fed
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
-
-maint.amoebadb.org             ameb-inc     apicommDevN   aurreco2      uga_fed
-maint.cryptodb.org             cryp-inc     apicommDevN   aurreco2      uga_fed
-maint.eupathdb.org             eupaBn       apicommDevN   aurreco2      uga_fed
-maint.giardiadb.org            giar-inc     apicommDevN   aurreco2      uga_fed
-maint.microsporidiadb.org      micr-inc     apicommDevN   aurreco2      uga_fed
-maint.piroplasmadb.org         piro-inc     apicommDevN   aurreco2      uga_fed
-maint.plasmodb.org             plas-inc     apicommDevN   aurreco2      uga_fed
-maint.toxodb.org               toxo-inc     apicommDevN   aurreco2      uga_fed
-maint.trichdb.org              tvag-rbld    apicommDevN   aurreco2      uga_fed
-maint.tritrypdb.org            tryp-inc     apicommDevN   aurreco2      uga_fed
-maint.fungidb.org              fung-inc     apicommDevN   aurreco2      uga_fed
-maint.hostdb.org               host-inc     apicommDevN   aurreco2      uga_fed
+# the maint databases need to be un sync with QA sites
+maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
+maint.cryptodb.org             cryp-inc     rm15873   aurreco2      uga_fed
+maint.eupathdb.org             eupaBn       rm15873   aurreco2      uga_fed
+maint.giardiadb.org            giar-inc     rm15873   aurreco2      uga_fed
+maint.microsporidiadb.org      micr-inc     rm15873   aurreco2      uga_fed
+maint.piroplasmadb.org         piro-inc     rm15873   aurreco2      uga_fed
+maint.plasmodb.org             plas-inc     rm15873   aurreco2      uga_fed
+maint.toxodb.org               toxo-inc     rm15873   aurreco2      uga_fed
+maint.trichdb.org              tvag-rbld    rm15873   aurreco2      uga_fed
+maint.tritrypdb.org            tryp-inc     rm15873   aurreco2      uga_fed
+maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
+maint.hostdb.org               host-inc     rm15873   aurreco2      uga_fed
