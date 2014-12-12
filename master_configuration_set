@@ -13,7 +13,7 @@ mheiges.orthomcl.org           orth500s    apicommS     mheiges               ug
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc     apicommDevN  amoebadbintegrate     uga_fed
 integrate.cryptodb.org         cryp-inc     apicommDevN  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupaBn       apicommDevN  apidbintegrate        uga_fed
+integrate.eupathdb.org         eupaAn       apicommDevN  apidbintegrate        uga_fed
 integrate.giardiadb.org        giar-inc     apicommDevN  giardiadbintegrate    uga_fed
 integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
@@ -91,7 +91,7 @@ prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           u
 # the maint databases need to be un sync with QA sites
 maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
 maint.cryptodb.org             cryp-inc     rm15873   aurreco2      uga_fed
-maint.eupathdb.org             eupaBn       rm15873   aurreco2      uga_fed
+maint.eupathdb.org             eupaAn       rm15873   aurreco2      uga_fed
 maint.giardiadb.org            giar-inc     rm15873   aurreco2      uga_fed
 maint.microsporidiadb.org      micr-inc     rm15873   aurreco2      uga_fed
 maint.piroplasmadb.org         piro-inc     rm15873   aurreco2      uga_fed
