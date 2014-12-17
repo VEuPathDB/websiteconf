@@ -34,7 +34,7 @@ q1.giardiadb.org               giar023n    apicommDevN     giardiadbwww         
 q1.microsporidiadb.org         micr023n    apicommDevN     microwww              uga_fed
 q1.piroplasmadb.org            piro023n    apicommDevN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
-q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
+q1.toxodb.org                  toxo023n    apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag023n    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp023n    apicommDevN     trypdbwww             uga_fed
 q1.fungidb.org                 fung-inc    apicommDevS     fungidbwww            uga_fed
@@ -48,7 +48,7 @@ q2.giardiadb.org               giar023n    apicommDevN     giardiadbwww         
 q2.microsporidiadb.org         micr023n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro023n    apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
-q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
+q2.toxodb.org                  toxo023n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag023n    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp023n    apicommDevN     trypdbwww             uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
@@ -96,7 +96,7 @@ maint.giardiadb.org            giar023n     rm15873   aurreco2      uga_fed
 maint.microsporidiadb.org      micr023n     rm15873   aurreco2      uga_fed
 maint.piroplasmadb.org         piro023n     rm15873   aurreco2      uga_fed
 maint.plasmodb.org             plas-inc     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo-inc     rm15873   aurreco2      uga_fed
+maint.toxodb.org               toxo023n     rm15873   aurreco2      uga_fed
 maint.trichdb.org              tvag023n    rm15873   aurreco2      uga_fed
 maint.tritrypdb.org            tryp023n     rm15873   aurreco2      uga_fed
 maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
