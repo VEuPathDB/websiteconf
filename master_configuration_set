@@ -27,19 +27,19 @@ integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        u
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 
-q1.amoebadb.org                ameb023s    apicommDevN     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp023s    apicommDevN     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaAs      apicommDevN     apidbwww              uga_fed
-q1.giardiadb.org               giar023s    apicommDevN     giardiadbwww          uga_fed
-q1.microsporidiadb.org         micr023s    apicommDevN     microwww              uga_fed
-q1.piroplasmadb.org            piro023s    apicommDevN     pirowww               uga_fed
-q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q1.amoebadb.org                ameb023s    apicommDevS     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp023s    apicommDevS     cryptodbwww           uga_fed
+q1.eupathdb.org                eupaAs      apicommDevS     apidbwww              uga_fed
+q1.giardiadb.org               giar023s    apicommDevS     giardiadbwww          uga_fed
+q1.microsporidiadb.org         micr023s    apicommDevS     microwww              uga_fed
+q1.piroplasmadb.org            piro023s    apicommDevS     pirowww               uga_fed
+q1.plasmodb.org                plas023n    apicommDevN     plasmodbwww           uga_fed
 q1.toxodb.org                  toxo023n    apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag023n    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp023n    apicommDevN     trypdbwww             uga_fed
-q1.fungidb.org                 fung-inc    apicommDevS     fungidbwww            uga_fed
-q1.hostdb.org                  host023s    apicommDevN     hostdbwww             uga_fed
-q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
+q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
+q1.hostdb.org                  host023s    apicommDevS     hostdbwww             uga_fed
+q1.orthomcl.org                orth501s    apicommDevS     orthowww              uga_fed
 
 q2.amoebadb.org                ameb023n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp023n    apicommDevN     cryptodbwww           uga_fed
@@ -47,7 +47,7 @@ q2.eupathdb.org                eupaAn      apicommDevN     apidbwww             
 q2.giardiadb.org               giar023n    apicommDevN     giardiadbwww          uga_fed
 q2.microsporidiadb.org         micr023n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro023n    apicommDevN     pirowww               uga_fed
-q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q2.plasmodb.org                plas023n    apicommDevN     plasmodbwww           uga_fed
 q2.toxodb.org                  toxo023n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag023n    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp023n    apicommDevN     trypdbwww             uga_fed
@@ -89,15 +89,15 @@ icemr.plasmodb.org             icembl1n     icmrcomm     plasmodbwww           u
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
 # the maint databases need to be un sync with Q1 sites
-maint.amoebadb.org             ameb023n     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp023n     rm15873   aurreco2      uga_fed
-maint.eupathdb.org             eupaAn       rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar023n     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr023n     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro023n     rm15873   aurreco2      uga_fed
-maint.plasmodb.org             plas-inc     rm15873   aurreco2      uga_fed
+maint.amoebadb.org             ameb023s     rm15873   aurreco2      uga_fed
+maint.cryptodb.org             cryp023s     rm15873   aurreco2      uga_fed
+maint.eupathdb.org             eupaAs       rm15873   aurreco2      uga_fed
+maint.giardiadb.org            giar023s     rm15873   aurreco2      uga_fed
+maint.microsporidiadb.org      micr023s     rm15873   aurreco2      uga_fed
+maint.piroplasmadb.org         piro023s     rm15873   aurreco2      uga_fed
+maint.plasmodb.org             plas023n     rm15873   aurreco2      uga_fed
 maint.toxodb.org               toxo023n     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag023n    rm15873   aurreco2      uga_fed
+maint.trichdb.org              tvag023n     rm15873   aurreco2      uga_fed
 maint.tritrypdb.org            tryp023n     rm15873   aurreco2      uga_fed
 maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
-maint.hostdb.org               host023n     rm15873   aurreco2      uga_fed
+maint.hostdb.org               host023s     rm15873   aurreco2      uga_fed
