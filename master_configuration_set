@@ -85,8 +85,8 @@ b1.hostdb.org                  host022s    apicomms     hostdbwww          uga_f
 b2.hostdb.org                  host022n    apicommN     hostdbwww          uga_fed
 
 # other
-icemr.plasmodb.org             icembl1n     icmrcomm     plasmodbwww           uga_fed
-prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
+icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           uga_fed
+prism.plasmodb.org             rm17226      prsmcomm     plasmodbwww           uga_fed
 
 # the maint databases need to be un sync with Q1 sites
 maint.amoebadb.org             ameb023s     rm15873   aurreco2      uga_fed
