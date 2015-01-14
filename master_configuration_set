@@ -89,15 +89,15 @@ icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           u
 prism.plasmodb.org             rm17226      prsmcomm     plasmodbwww           uga_fed
 
 # the maint databases need to be un sync with Q1 sites
-maint.amoebadb.org             ameb023s     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp023s     rm15873   aurreco2      uga_fed
-maint.eupathdb.org             eupaAs       rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar023s     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr023s     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro023s     rm15873   aurreco2      uga_fed
-maint.plasmodb.org             plas023s     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo023s     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag023s     rm15873   aurreco2      uga_fed
-maint.tritrypdb.org            tryp023s     rm15873   aurreco2      uga_fed
-maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
-maint.hostdb.org               host023s     rm15873   aurreco2      uga_fed
+maint.amoebadb.org             ameb023s     apicomms   aurreco2      uga_fed
+maint.cryptodb.org             cryp023s     apicomms   aurreco2      uga_fed
+maint.eupathdb.org             eupaAs       apicomms   aurreco2      uga_fed
+maint.giardiadb.org            giar023s     apicomms   aurreco2      uga_fed
+maint.microsporidiadb.org      micr023s     apicomms   aurreco2      uga_fed
+maint.piroplasmadb.org         piro023s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             plas023s     apicomms   aurreco2      uga_fed
+maint.toxodb.org               toxo023s     apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag023s     apicomms   aurreco2      uga_fed
+maint.tritrypdb.org            tryp023s     apicomms   aurreco2      uga_fed
+maint.fungidb.org              fung-inc     apicomms   aurreco2      uga_fed
+maint.hostdb.org               host023s     apicomms   aurreco2      uga_fed
