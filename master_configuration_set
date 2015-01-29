@@ -19,7 +19,7 @@ integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        u
 integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
 integrate.toxodb.org           toxo-inc     apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag-rbld    apicommDevN  trichdbintegrate      uga_fed
+integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
 integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
@@ -35,7 +35,7 @@ q1.microsporidiadb.org         micr-inc    apicommDevN     microwww             
 q1.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
-q1.trichdb.org                 tvag-rbld   apicommDevN     trichdbwww            uga_fed
+q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
@@ -49,7 +49,7 @@ q2.microsporidiadb.org         micr-inc    apicommDevN     microwww             
 q2.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
 q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
-q2.trichdb.org                 tvag-rbld   apicommDevN     trichdbwww            uga_fed
+q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
@@ -94,7 +94,7 @@ maint.microsporidiadb.org      micr-inc     apicomms   aurreco2      uga_fed
 maint.piroplasmadb.org         piro-inc     apicomms   aurreco2      uga_fed
 maint.plasmodb.org             plas-inc     apicomms   aurreco2      uga_fed
 maint.toxodb.org               toxo-inc     apicomms   aurreco2      uga_fed
-maint.trichdb.org              tvag-rbld    apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag-inc    apicomms   aurreco2      uga_fed
 maint.tritrypdb.org            tryp-inc     apicomms   aurreco2      uga_fed
 maint.fungidb.org              fung-inc     apicomms   aurreco2      uga_fed
 maint.hostdb.org               host-inc     apicomms   aurreco2      uga_fed
