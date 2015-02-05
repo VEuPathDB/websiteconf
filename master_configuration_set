@@ -98,3 +98,6 @@ maint.trichdb.org              tvag-inc    apicomms   aurreco2      uga_fed
 maint.tritrypdb.org            tryp-inc     apicomms   aurreco2      uga_fed
 maint.fungidb.org              fung-inc     apicomms   aurreco2      uga_fed
 maint.hostdb.org               host-inc     apicomms   aurreco2      uga_fed
+
+panda.toxodb.org               toxo023t     apicommy   toxodbwww     uga_fed
+wombat.toxodb.org              toxo023c     apicommx   toxodbwww     uga_fed
