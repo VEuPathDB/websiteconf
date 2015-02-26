@@ -18,8 +18,9 @@ integrate.giardiadb.org        giar-inc     apicommDevN  giardiadbintegrate    u
 integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
+integrate.schistodb.net        schi-rbld    apicommDevN  schistointegrate      uga_fed
 integrate.toxodb.org           toxo-inc     apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
+integrate.trichdb.org          tvag-inc     apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
 integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
@@ -34,6 +35,7 @@ q1.giardiadb.org               giar-inc    apicommDevN     giardiadbwww         
 q1.microsporidiadb.org         micr-inc    apicommDevN     microwww              uga_fed
 q1.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q1.schistodb.net               schi-rbld   apicommDevN     schistowww            uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
@@ -48,6 +50,7 @@ q2.giardiadb.org               giar-inc    apicommDevN     giardiadbwww         
 q2.microsporidiadb.org         micr-inc    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q2.schistodb.net               schi-rbld   apicommDevN     schistowww            uga_fed
 q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
