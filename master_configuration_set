@@ -39,7 +39,7 @@ q1.schistodb.net               schi-rbld   apicommDevN     schistowww           
 q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
-q1.fungidb.org                 fung008s    apicommDevS     fungidbwww            uga_fed
+q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevS     orthowww              uga_fed
 
@@ -54,7 +54,7 @@ q2.schistodb.net               schi-rbld   apicommDevN     schistowww           
 q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
-q2.fungidb.org                 fung008n    apicommDevN     fungidbwww            uga_fed
+q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthowww              uga_fed
  
