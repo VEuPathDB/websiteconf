@@ -89,18 +89,18 @@ icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           u
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
 # the maint databases need to be un sync with Q1 sites
-maint.amoebadb.org             ameb-inc     apicomms   aurreco2      uga_fed
-maint.cryptodb.org             cryp-inc     apicomms   aurreco2      uga_fed
-maint.eupathdb.org             eupaBn       apicomms   aurreco2      uga_fed
-maint.giardiadb.org            giar-inc     apicomms   aurreco2      uga_fed
-maint.microsporidiadb.org      micr-inc     apicomms   aurreco2      uga_fed
-maint.piroplasmadb.org         piro-inc     apicomms   aurreco2      uga_fed
-maint.plasmodb.org             plas-inc     apicomms   aurreco2      uga_fed
-maint.toxodb.org               toxo-inc     apicomms   aurreco2      uga_fed
-maint.trichdb.org              tvag-inc    apicomms   aurreco2      uga_fed
-maint.tritrypdb.org            tryp-inc     apicomms   aurreco2      uga_fed
-maint.fungidb.org              fung-inc     apicomms   aurreco2      uga_fed
-maint.hostdb.org               host-inc     apicomms   aurreco2      uga_fed
+maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
+maint.cryptodb.org             cryp-inc     rm15873   aurreco2      uga_fed
+maint.eupathdb.org             eupaBn       rm15873   aurreco2      uga_fed
+maint.giardiadb.org            giar-inc     rm15873   aurreco2      uga_fed
+maint.microsporidiadb.org      micr-inc     rm15873   aurreco2      uga_fed
+maint.piroplasmadb.org         piro-inc     rm15873   aurreco2      uga_fed
+maint.plasmodb.org             plas-inc     rm15873   aurreco2      uga_fed
+maint.toxodb.org               toxo-inc     rm15873   aurreco2      uga_fed
+maint.trichdb.org              tvag-inc    rm15873   aurreco2      uga_fed
+maint.tritrypdb.org            tryp-inc     rm15873   aurreco2      uga_fed
+maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
+maint.hostdb.org               host-inc     rm15873   aurreco2      uga_fed
 
 panda.toxodb.org               toxo023t     apicommy   toxodbwww     uga_fed
 wombat.toxodb.org              toxo023c     apicommx   toxodbwww     uga_fed
