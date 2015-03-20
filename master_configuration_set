@@ -27,6 +27,7 @@ integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       u
 integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
+qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 q1.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
