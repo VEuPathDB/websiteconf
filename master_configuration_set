@@ -102,5 +102,18 @@ maint.tritrypdb.org            tryp-inc     rm15873   aurreco2      uga_fed
 maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
 maint.hostdb.org               host-inc     rm15873   aurreco2      uga_fed
 
-panda.toxodb.org               toxo023t     apicommy   toxodbwww     uga_fed
-wombat.toxodb.org              toxo023c     apicommx   toxodbwww     uga_fed
+# Feature Sites, https://redmine.apidb.org/issues/18965
+feature.amoebadb.org           ameb-inc    apicommDevN   amoebadbpatch    uga_fed
+feature.cryptodb.org           cryp-inc    apicommDevN   cryptodbpatch    uga_fed
+feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fed
+feature.giardiadb.org          giar-inc    apicommDevN   giardiadbpatch   uga_fed
+feature.microsporidiadb.org    micr-inc    apicommDevN   micropatch       uga_fed
+feature.piroplasmadb.org       piro-inc    apicommDevN   piropatch        uga_fed
+feature.plasmodb.org           plas-inc    apicommDevN   plasmodbpatch    uga_fed
+feature.schistodb.net          schi-rbld   apicommDevN   schistopatch     uga_fed
+feature.toxodb.org             toxo-inc    apicommDevN   toxodbpatch      uga_fed
+feature.trichdb.org            tvag-inc    apicommDevN   trichdbpatch     uga_fed
+feature.tritrypdb.org          tryp-inc    apicommDevN   trypdbpatch      uga_fed
+feature.fungidb.org            fung-inc    apicommDevN   fungidbpatch     uga_fed
+feature.hostdb.org             host-inc    apicommDevN   hostdbpatch      uga_fed
+feature.orthomcl.org           orth501n    apicommDevN   orthopatch       uga_fed
