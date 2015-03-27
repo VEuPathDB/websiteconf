@@ -27,8 +27,6 @@ integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       u
 integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
-qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
-
 q1.amoebadb.org                ameb024n    apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp024n    apicommDevN     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaBn      apicommDevN     apidbwww              uga_fed
@@ -88,6 +86,7 @@ w2.orthomcl.org                orth501n    apicommN     orthowww              ug
 # other
 icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           uga_fed
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
+qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 # the maint databases need to be un sync with Q1 sites
 maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
