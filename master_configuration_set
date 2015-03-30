@@ -89,31 +89,31 @@ prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           u
 qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 # the maint databases need to be un sync with Q1 sites
-maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp-inc     rm15873   aurreco2      uga_fed
-maint.eupathdb.org             eupaBn       rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar-inc     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr-inc     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro-inc     rm15873   aurreco2      uga_fed
-maint.plasmodb.org             plas-inc     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo-inc     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag-inc    rm15873   aurreco2      uga_fed
-maint.tritrypdb.org            tryp-inc     rm15873   aurreco2      uga_fed
-maint.fungidb.org              fung-inc     rm15873   aurreco2      uga_fed
-maint.hostdb.org               host-inc     rm15873   aurreco2      uga_fed
+maint.amoebadb.org             ameb024s     rm15873   aurreco2      uga_fed
+maint.cryptodb.org             cryp024s     rm15873   aurreco2      uga_fed
+maint.eupathdb.org             eupaBs       rm15873   aurreco2      uga_fed
+maint.giardiadb.org            giar024s     rm15873   aurreco2      uga_fed
+maint.microsporidiadb.org      micr024s     rm15873   aurreco2      uga_fed
+maint.piroplasmadb.org         piro024s     rm15873   aurreco2      uga_fed
+maint.plasmodb.org             plas024s     rm15873   aurreco2      uga_fed
+maint.toxodb.org               toxo024s     rm15873   aurreco2      uga_fed
+maint.trichdb.org              tvag024s     rm15873   aurreco2      uga_fed
+maint.tritrypdb.org            tryp024s     rm15873   aurreco2      uga_fed
+maint.fungidb.org              fung024s     rm15873   aurreco2      uga_fed
+maint.hostdb.org               host024s     rm15873   aurreco2      uga_fed
 
-# Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           ameb-inc    apicommDevN   amoebadbpatch    uga_fed
-feature.cryptodb.org           cryp-inc    apicommDevN   cryptodbpatch    uga_fed
+# Feature Sites, https://redmine.apidb.org/issues/18965, databases need to be un sync with Q2 sites
+feature.amoebadb.org           ameb024n    apicommDevN   amoebadbpatch    uga_fed
+feature.cryptodb.org           cryp024n    apicommDevN   cryptodbpatch    uga_fed
 feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fed
-feature.giardiadb.org          giar-inc    apicommDevN   giardiadbpatch   uga_fed
-feature.microsporidiadb.org    micr-inc    apicommDevN   micropatch       uga_fed
-feature.piroplasmadb.org       piro-inc    apicommDevN   piropatch        uga_fed
-feature.plasmodb.org           plas-inc    apicommDevN   plasmodbpatch    uga_fed
-feature.schistodb.net          schi-rbld   apicommDevN   schistopatch     uga_fed
-feature.toxodb.org             toxo-inc    apicommDevN   toxodbpatch      uga_fed
-feature.trichdb.org            tvag-inc    apicommDevN   trichdbpatch     uga_fed
-feature.tritrypdb.org          tryp-inc    apicommDevN   trypdbpatch      uga_fed
-feature.fungidb.org            fung-inc    apicommDevN   fungidbpatch     uga_fed
-feature.hostdb.org             host-inc    apicommDevN   hostdbpatch      uga_fed
+feature.giardiadb.org          giar024n    apicommDevN   giardiadbpatch   uga_fed
+feature.microsporidiadb.org    micr024n    apicommDevN   micropatch       uga_fed
+feature.piroplasmadb.org       piro024n    apicommDevN   piropatch        uga_fed
+feature.plasmodb.org           plas024n    apicommDevN   plasmodbpatch    uga_fed
+feature.schistodb.net          schi024n    apicommDevN   schistopatch     uga_fed
+feature.toxodb.org             toxo024n    apicommDevN   toxodbpatch      uga_fed
+feature.trichdb.org            tvag024n    apicommDevN   trichdbpatch     uga_fed
+feature.tritrypdb.org          tryp024n    apicommDevN   trypdbpatch      uga_fed
+feature.fungidb.org            fung024n    apicommDevN   fungidbpatch     uga_fed
+feature.hostdb.org             host024n    apicommDevN   hostdbpatch      uga_fed
 feature.orthomcl.org           orth501n    apicommDevN   orthopatch       uga_fed
