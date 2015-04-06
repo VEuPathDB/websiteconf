@@ -24,7 +24,7 @@ integrate.trichdb.org          tvag-inc     apicommDevN  trichdbintegrate      u
 integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
 integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
 integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
-integrate.orthomcl.org         orth501n     apicommDevN  orthointegrate        uga_fed
+integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 q1.amoebadb.org                ameb024s    apicommDevS     amoebadbwww           uga_fed
