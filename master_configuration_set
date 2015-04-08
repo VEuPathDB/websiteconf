@@ -89,18 +89,18 @@ prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           u
 qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 # the maint databases need to be un sync with Q1 sites
-maint.amoebadb.org             ameb024s     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp024s     rm15873   aurreco2      uga_fed
-maint.eupathdb.org             eupaBs       rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar024s     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr024s     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro024s     rm15873   aurreco2      uga_fed
-maint.plasmodb.org             plas024s     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo024s     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag024s     rm15873   aurreco2      uga_fed
-maint.tritrypdb.org            tryp024s     rm15873   aurreco2      uga_fed
-maint.fungidb.org              fung024s     rm15873   aurreco2      uga_fed
-maint.hostdb.org               host024s     rm15873   aurreco2      uga_fed
+maint.amoebadb.org             ameb024s     apicomms   aurreco2      uga_fed
+maint.cryptodb.org             cryp024s     apicomms   aurreco2      uga_fed
+maint.eupathdb.org             eupaBs       apicomms   aurreco2      uga_fed
+maint.giardiadb.org            giar024s     apicomms   aurreco2      uga_fed
+maint.microsporidiadb.org      micr024s     apicomms   aurreco2      uga_fed
+maint.piroplasmadb.org         piro024s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             plas024s     apicomms   aurreco2      uga_fed
+maint.toxodb.org               toxo024s     apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag024s     apicomms   aurreco2      uga_fed
+maint.tritrypdb.org            tryp024s     apicomms   aurreco2      uga_fed
+maint.fungidb.org              fung024s     apicomms   aurreco2      uga_fed
+maint.hostdb.org               host024s     apicomms   aurreco2      uga_fed
 
 # Feature Sites, https://redmine.apidb.org/issues/18965, databases need to be un sync with Q2 sites
 feature.amoebadb.org           ameb024n    apicommDevN   amoebadbpatch    uga_fed
