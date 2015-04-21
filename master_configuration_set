@@ -112,7 +112,7 @@ feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fe
 feature.giardiadb.org          giar024n    apicommDevN   giardiadbpatch   uga_fed
 feature.microsporidiadb.org    micr024n    apicommDevN   micropatch       uga_fed
 feature.piroplasmadb.org       piro024n    apicommDevN   piropatch        uga_fed
-feature.plasmodb.org           plas024s    apicommDevs   plasmodbpatch    uga_fed
+feature.plasmodb.org           rm18210     apicommDevn   plasmodbpatch    uga_fed
 feature.schistodb.net          schi024n    apicommDevN   schistopatch     uga_fed
 feature.toxodb.org             toxo024s    apicommDevS   toxodbpatch      uga_fed
 feature.trichdb.org            tvag024n    apicommDevN   trichdbpatch     uga_fed
