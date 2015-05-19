@@ -89,7 +89,7 @@ w2.orthomcl.org                orth501n    apicommN     orthowww              ug
 icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           uga_fed
 qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 prism.plasmodb.org             prisbl2n     prsmcomm     plasmodbwww           uga_fed
-qa.prism.plasmodb.org          prisbl2n     prsmcomm     plasmodbwww           uga_fed
+qa.prism.plasmodb.org          prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
 # the maint databases need to be un sync with Q1 sites
 maint.amoebadb.org             ameb024s     apicomms   aurreco2      uga_fed
