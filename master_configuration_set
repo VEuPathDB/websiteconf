@@ -91,30 +91,30 @@ qa.wdk.apidb.org               pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 qa.prism.plasmodb.org          prisbl1n     prsmcomm     plasmodbwww           uga_fed
 
-# the maint databases need to be un sync with Q1 sites
+# Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 maint.amoebadb.org             ameb024s     apicomms   aurreco2      uga_fed
 maint.cryptodb.org             cryp024s     apicomms   aurreco2      uga_fed
 maint.eupathdb.org             eupaBs       apicomms   aurreco2      uga_fed
 maint.giardiadb.org            giar024s     apicomms   aurreco2      uga_fed
 maint.microsporidiadb.org      micr024s     apicomms   aurreco2      uga_fed
 maint.piroplasmadb.org         piro024s     apicomms   aurreco2      uga_fed
-maint.plasmodb.org             plas024s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             rm18210      apicommdevn   aurreco2      uga_fed
 maint.toxodb.org               toxo024s     apicomms   aurreco2      uga_fed
 maint.trichdb.org              tvag024s     apicomms   aurreco2      uga_fed
 maint.tritrypdb.org            tryp024s     apicomms   aurreco2      uga_fed
 maint.fungidb.org              fung024s     apicomms   aurreco2      uga_fed
 maint.hostdb.org               host024s     apicomms   aurreco2      uga_fed
 
-# Feature Sites, https://redmine.apidb.org/issues/18965, databases need to be un sync with Q2 sites
+# Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb024n    apicommDevN   amoebadbpatch    uga_fed
-feature.cryptodb.org           cryp024n    apicommDevN   cryptodbpatch    uga_fed
+feature.cryptodb.org           cryp-inc    apicommDevN   cryptodbpatch    uga_fed
 feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fed
 feature.giardiadb.org          giar024n    apicommDevN   giardiadbpatch   uga_fed
 feature.microsporidiadb.org    micr024n    apicommDevN   micropatch       uga_fed
 feature.piroplasmadb.org       piro024n    apicommDevN   piropatch        uga_fed
 feature.plasmodb.org           rm18210     apicommDevn   plasmodbpatch    uga_fed
 feature.schistodb.net          schi024n    apicommDevN   schistopatch     uga_fed
-feature.toxodb.org             toxo024s    apicommDevS   toxodbpatch      uga_fed
+feature.toxodb.org             toxo024n    apicommDevn   toxodbpatch      uga_fed
 feature.trichdb.org            tvag024n    apicommDevN   trichdbpatch     uga_fed
 feature.tritrypdb.org          tryp024n    apicommDevN   trypdbpatch      uga_fed
 feature.fungidb.org            fung024n    apicommDevN   fungidbpatch     uga_fed
