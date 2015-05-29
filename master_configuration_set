@@ -106,10 +106,10 @@ maint.fungidb.org              fung024s     apicomms   aurreco2      uga_fed
 maint.hostdb.org               host024s     apicomms   aurreco2      uga_fed
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           ameb024n    apicommDevN   amoebadbpatch    uga_fed
+feature.amoebadb.org           ameb-inc    apicommDevN   amoebadbpatch    uga_fed
 feature.cryptodb.org           cryp-inc    apicommDevN   cryptodbpatch    uga_fed
 feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fed
-feature.giardiadb.org          giar024n    apicommDevN   giardiadbpatch   uga_fed
+feature.giardiadb.org          giar-inc    apicommDevN   giardiadbpatch   uga_fed
 feature.microsporidiadb.org    micr024n    apicommDevN   micropatch       uga_fed
 feature.piroplasmadb.org       piro024n    apicommDevN   piropatch        uga_fed
 feature.plasmodb.org           rm18210     apicommDevn   plasmodbpatch    uga_fed
