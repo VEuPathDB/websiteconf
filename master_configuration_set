@@ -27,20 +27,20 @@ integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       u
 integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        pitaya.rcc.uga.edu/wdk200s pitaya.rcc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
-q1.amoebadb.org                ameb025n    apicommDevN     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp025n    apicommDevN     cryptodbwww           uga_fed
-q1.eupathdb.org                eupaAs      apicommDevN     apidbwww              uga_fed
-q1.fungidb.org                 fung025n    apicommDevN     fungidbwww            uga_fed
-q1.giardiadb.org               giar-inc    apicommDevN     giardiadbwww          uga_fed
-q1.microsporidiadb.org         micr025n    apicommDevN     microwww              uga_fed
-q1.piroplasmadb.org            piro025n    apicommDevN     pirowww               uga_fed
-q1.plasmodb.org                plas025n    apicommDevN     plasmodbwww           uga_fed
-q1.schistodb.net               schi025n    apicommDevN     schistowww            uga_fed
-q1.toxodb.org                  toxo025n    apicommDevN     toxodbwww             uga_fed
-q1.trichdb.org                 tvag025n    apicommDevN     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp025n    apicommDevN     trypdbwww             uga_fed
-q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
-q1.hostdb.org                  host025n    apicommDevN     hostdbwww             uga_fed
+q1.amoebadb.org                ameb025s    apicommDevS     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp025s    apicommDevS     cryptodbwww           uga_fed
+q1.eupathdb.org                eupaAs      apicommDevS     apidbwww              uga_fed
+q1.fungidb.org                 fung025s    apicommDevS     fungidbwww            uga_fed
+q1.giardiadb.org               giar-inc    apicommDevS     giardiadbwww          uga_fed
+q1.microsporidiadb.org         micr025s    apicommDevS     microwww              uga_fed
+q1.piroplasmadb.org            piro025s    apicommDevS     pirowww               uga_fed
+q1.plasmodb.org                plas025s    apicommDevS     plasmodbwww           uga_fed
+q1.schistodb.net               schi025s    apicommDevS     schistowww            uga_fed
+q1.toxodb.org                  toxo025s    apicommDevS     toxodbwww             uga_fed
+q1.trichdb.org                 tvag025s    apicommDevS     trichdbwww            uga_fed
+q1.tritrypdb.org               tryp025s    apicommDevS     trypdbwww             uga_fed
+q1.orthomcl.org                orth501s    apicommDevS     orthowww              uga_fed
+q1.hostdb.org                  host025s    apicommDevS     hostdbwww             uga_fed
 
 q2.amoebadb.org                ameb025n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp025n    apicommDevN     cryptodbwww           uga_fed
