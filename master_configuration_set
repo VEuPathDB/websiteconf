@@ -31,7 +31,7 @@ q1.amoebadb.org                ameb025s    apicommDevS     amoebadbwww          
 q1.cryptodb.org                cryp025s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupaAs      apicommDevS     apidbwww              uga_fed
 q1.fungidb.org                 fung025s    apicommDevS     fungidbwww            uga_fed
-q1.giardiadb.org               giar-inc    apicommDevS     giardiadbwww          uga_fed
+q1.giardiadb.org               giar025s    apicommDevS     giardiadbwww          uga_fed
 q1.microsporidiadb.org         micr025s    apicommDevS     microwww              uga_fed
 q1.piroplasmadb.org            piro025s    apicommDevS     pirowww               uga_fed
 q1.plasmodb.org                plas025s    apicommDevS     plasmodbwww           uga_fed
@@ -46,7 +46,7 @@ q2.amoebadb.org                ameb025n    apicommDevN     amoebadbwww          
 q2.cryptodb.org                cryp025n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupaAn      apicommDevN     apidbwww              uga_fed
 q2.fungidb.org                 fung025n    apicommDevN     fungidbwww            uga_fed
-q2.giardiadb.org               giar-inc    apicommDevN     giardiadbwww          uga_fed
+q2.giardiadb.org               giar025n    apicommDevN     giardiadbwww          uga_fed
 q2.microsporidiadb.org         micr025n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro025n    apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas025n    apicommDevN     plasmodbwww           uga_fed
