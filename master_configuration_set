@@ -92,6 +92,7 @@ icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           u
 qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 prism.plasmodb.org             prisbl1n     prsmcomm     plasmodbwww           uga_fed
 qa.prism.plasmodb.org          prisbl2n     prsmcomm     plasmodbwww           uga_fed
+amazonia.plasmodb.org          amaz-rbld    apicommdevn  plasmodbwww           uga_fed
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sies used by the portal
