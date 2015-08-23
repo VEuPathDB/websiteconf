@@ -103,8 +103,7 @@ maint.fungidb.org              fung025s     apicomms   aurreco2      uga_fed
 maint.giardiadb.org            giar025s     apicomms   aurreco2      uga_fed
 maint.microsporidiadb.org      micr025s     apicomms   aurreco2      uga_fed
 maint.piroplasmadb.org         piro025s     apicomms   aurreco2      uga_fed
-# maint.plasmodb.org             plas025s     apicomms   aurreco2      uga_fed
-maint.plasmodb.org             rm20608     apicommdevs   aurreco2      uga_fed
+maint.plasmodb.org             plas025s     apicomms   aurreco2      uga_fed
 maint.toxodb.org               toxo025s     apicomms   aurreco2      uga_fed
 maint.trichdb.org              tvag025s     apicomms   aurreco2      uga_fed
 maint.tritrypdb.org            tryp025s     apicomms   aurreco2      uga_fed
@@ -128,7 +127,7 @@ feature.eupathdb.org           eupaBn      apicommDevN   apidbpatch       uga_fe
 feature.giardiadb.org          giar-inc    apicommDevN   giardiadbpatch   uga_fed
 feature.microsporidiadb.org    micr024n    apicommDevN   micropatch       uga_fed
 feature.piroplasmadb.org       piro024n    apicommDevN   piropatch        uga_fed
-feature.plasmodb.org           rm18210     apicommDevn   plasmodbpatch    uga_fed
+feature.plasmodb.org           rm19351     apicommDevn   plasmodbpatch    uga_fed
 feature.schistodb.net          schi024n    apicommDevN   schistopatch     uga_fed
 feature.toxodb.org             toxo024n    apicommDevn   toxodbpatch      uga_fed
 feature.trichdb.org            tvag024n    apicommDevN   trichdbpatch     uga_fed
