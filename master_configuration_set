@@ -26,6 +26,7 @@ integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      u
 integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
+integrate.gus4.plasmodb.org    rm19351      gus4commN    plasmodbintegrate     uga_fed
 
 q1.amoebadb.org                ameb-inc    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-inc    apicommDevS     cryptodbwww           uga_fed
