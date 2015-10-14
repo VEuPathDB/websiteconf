@@ -62,7 +62,7 @@ q2.gus4.plasmodb.org           rm19351     gus4commN       plasmodbwww          
 
 w1.amoebadb.org                ameb026s    apicommS     amoebadbwww           uga_fed
 w1.cryptodb.org                cryp026s    apicommS     cryptodbwww           uga_fed
-w1.eupathdb.org                eupa026s    apicommS     apidbwww              uga_fed
+w1.eupathdb.org                eupa026s    apicommS     eupawww               uga_fed
 w1.fungidb.org                 fung026s    apicommS     fungidbwww            uga_fed
 w1.giardiadb.org               giar026s    apicommS     giardiadbwww          uga_fed
 b1.hostdb.org                  host026s    apicommS     hostdbwww             uga_fed
@@ -77,7 +77,7 @@ w1.orthomcl.org                orth501s    apicommS     orthowww              ug
 
 w2.amoebadb.org                ameb026n    apicommN     amoebadbwww           uga_fed
 w2.cryptodb.org                cryp026n    apicommN     cryptodbwww           uga_fed
-w2.eupathdb.org                eupa026n    apicommN     apidbwww              uga_fed
+w2.eupathdb.org                eupa026n    apicommN     eupawww               uga_fed
 w2.fungidb.org                 fung026n    apicommN     fungidbwww            uga_fed
 w2.giardiadb.org               giar026n    apicommN     giardiadbwww          uga_fed
 b2.hostdb.org                  host026n    apicommN     hostdbwww             uga_fed
