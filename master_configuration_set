@@ -28,6 +28,8 @@ integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        u
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 integrate.gus4.plasmodb.org    plas-rbld    gus4commN    plasmodbintegrate     uga_fed
 
+integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
+
 q1.amoebadb.org                ameb027s    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp027s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
