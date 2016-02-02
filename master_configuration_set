@@ -17,7 +17,7 @@ integrate.eupathdb.org         eupa-inc     apicommDevN  eupaintegrate         u
 integrate.giardiadb.org        giar027n     apicommDevN  giardiadbintegrate    uga_fed
 integrate.microsporidiadb.org  micr027n     apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro027n     apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
+integrate.plasmodb.org         plas027n     apicommDevN  plasmodbintegrate     uga_fed
 integrate.schistodb.net        schi027n     apicommDevN  schistointegrate      uga_fed
 integrate.toxodb.org           toxo027n     apicommDevN  toxodbintegrate       uga_fed
 integrate.trichdb.org          tvag027n     apicommDevN  trichdbintegrate      uga_fed
@@ -38,7 +38,7 @@ q1.giardiadb.org               giar027s    apicommDevS     giardiadbwww         
 q1.hostdb.org                  host027s    apicommDevS     hostdbwww             uga_fed
 q1.microsporidiadb.org         micr027s    apicommDevS     microwww              uga_fed
 q1.piroplasmadb.org            piro027s    apicommDevS     pirowww               uga_fed
-q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q1.plasmodb.org                plas027s    apicommDevS     plasmodbwww           uga_fed
 q1.schistodb.net               schi027s    apicommDevS     schistowww            uga_fed
 q1.toxodb.org                  toxo027s    apicommDevS     toxodbwww             uga_fed
 q1.trichdb.org                 tvag027s    apicommDevS     trichdbwww            uga_fed
@@ -54,7 +54,7 @@ q2.giardiadb.org               giar027n    apicommDevN     giardiadbwww         
 q2.hostdb.org                  host027n    apicommDevN     hostdbwww             uga_fed
 q2.microsporidiadb.org         micr027n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro027n    apicommDevN     pirowww               uga_fed
-q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q2.plasmodb.org                plas027n    apicommDevN     plasmodbwww           uga_fed
 q2.schistodb.net               schi027n    apicommDevN     schistowww            uga_fed
 q2.toxodb.org                  toxo027n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag027n    apicommDevN     trichdbwww            uga_fed
