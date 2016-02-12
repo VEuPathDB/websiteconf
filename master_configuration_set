@@ -42,7 +42,7 @@ q1.plasmodb.org                plas027s    apicommDevS     plasmodbwww          
 q1.schistodb.net               schi027s    apicommDevS     schistowww            uga_fed
 q1.toxodb.org                  toxo027s    apicommDevS     toxodbwww             uga_fed
 q1.trichdb.org                 tvag027s    apicommDevS     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q1.tritrypdb.org               tryp027s    apicommDevS     trypdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevN     orthowww              uga_fed
 q1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
 
@@ -58,7 +58,7 @@ q2.plasmodb.org                plas027n    apicommDevN     plasmodbwww          
 q2.schistodb.net               schi027n    apicommDevN     schistowww            uga_fed
 q2.toxodb.org                  toxo027n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag027n    apicommDevN     trichdbwww            uga_fed
-q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q2.tritrypdb.org               tryp027n    apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthowww              uga_fed
 q2.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
 
