@@ -11,19 +11,19 @@ galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb027n     apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp027n     apicommDevN  cryptodbintegrate     uga_fed
+integrate.amoebadb.org         ameb-inc     apicommDevN  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp-inc     apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupa-inc     apicommDevN  eupaintegrate         uga_fed
-integrate.giardiadb.org        giar027n     apicommDevN  giardiadbintegrate    uga_fed
-integrate.microsporidiadb.org  micr027n     apicommDevN  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro027n     apicommDevN  pirointegrate         uga_fed
-integrate.plasmodb.org         plas027n     apicommDevN  plasmodbintegrate     uga_fed
-integrate.schistodb.net        schi027n     apicommDevN  schistointegrate      uga_fed
-integrate.toxodb.org           toxo027n     apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag027n     apicommDevN  trichdbintegrate      uga_fed
+integrate.giardiadb.org        giar-inc     apicommDevN  giardiadbintegrate    uga_fed
+integrate.microsporidiadb.org  micr-inc     apicommDevN  microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-inc     apicommDevN  pirointegrate         uga_fed
+integrate.plasmodb.org         plas-inc     apicommDevN  plasmodbintegrate     uga_fed
+integrate.schistodb.net        schi-inc     apicommDevN  schistointegrate      uga_fed
+integrate.toxodb.org           toxo-inc     apicommDevN  toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag-inc     apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc     apicommDevN  trypdbintegrate       uga_fed
-integrate.fungidb.org          fung027n     apicommDevN  fungidbintegrate      uga_fed
-integrate.hostdb.org           host027n     apicommDevN  hostdbintegrate       uga_fed
+integrate.fungidb.org          fung-inc     apicommDevN  fungidbintegrate      uga_fed
+integrate.hostdb.org           host-inc     apicommDevN  hostdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 integrate.gus4.plasmodb.org    plas-rbld    gus4commN    plasmodbintegrate     uga_fed
@@ -32,7 +32,7 @@ integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_
 
 q1.amoebadb.org                ameb027s    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp027s    apicommDevS     cryptodbwww           uga_fed
-q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
+q1.eupathdb.org                eupa027s    apicommDevS     eupawww               uga_fed
 q1.fungidb.org                 fung027s    apicommDevS     fungidbwww            uga_fed
 q1.giardiadb.org               giar027s    apicommDevS     giardiadbwww          uga_fed
 q1.hostdb.org                  host027s    apicommDevS     hostdbwww             uga_fed
@@ -48,7 +48,7 @@ q1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww          
 
 q2.amoebadb.org                ameb027n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp027n    apicommDevN     cryptodbwww           uga_fed
-q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
+q2.eupathdb.org                eupa027n    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung027n    apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar027n    apicommDevN     giardiadbwww          uga_fed
 q2.hostdb.org                  host027n    apicommDevN     hostdbwww             uga_fed
