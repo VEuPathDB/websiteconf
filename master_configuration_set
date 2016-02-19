@@ -67,7 +67,7 @@ w1.cryptodb.org                cryp026s    apicommS     cryptodbwww           ug
 w1.eupathdb.org                eupa026s    apicommS     eupawww               uga_fed
 w1.fungidb.org                 fung026s    apicommS     fungidbwww            uga_fed
 w1.giardiadb.org               giar026s    apicommS     giardiadbwww          uga_fed
-b1.hostdb.org                  host026s    apicommS     hostdbwww             uga_fed
+b1.hostdb.org                  host027s    apicommS     hostdbwww             uga_fed
 w1.microsporidiadb.org         micr026s    apicommS     microwww              uga_fed
 w1.piroplasmadb.org            piro026s    apicommS     pirowww               uga_fed
 w1.plasmodb.org                plas026s    apicommS     plasmodbwww           uga_fed
@@ -82,7 +82,7 @@ w2.cryptodb.org                cryp026n    apicommN     cryptodbwww           ug
 w2.eupathdb.org                eupa026n    apicommN     eupawww               uga_fed
 w2.fungidb.org                 fung026n    apicommN     fungidbwww            uga_fed
 w2.giardiadb.org               giar026n    apicommN     giardiadbwww          uga_fed
-b2.hostdb.org                  host026n    apicommN     hostdbwww             uga_fed
+b2.hostdb.org                  host027n    apicommN     hostdbwww             uga_fed
 w2.microsporidiadb.org         micr026n    apicommN     microwww              uga_fed
 w2.piroplasmadb.org            piro026n    apicommN     pirowww               uga_fed
 w2.plasmodb.org                plas026n    apicommN     plasmodbwww           uga_fed
