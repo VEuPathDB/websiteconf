@@ -30,16 +30,16 @@ integrate.gus4.plasmodb.org    plas-rbld    gus4commN    plasmodbintegrate     u
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
-q1.amoebadb.org                ameb-inc    apicommDevS     amoebadbwww           uga_fed
+q1.amoebadb.org                ameb028s    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp028s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevS     eupawww               uga_fed
 q1.fungidb.org                 fung-inc    apicommDevS     fungidbwww            uga_fed
-q1.giardiadb.org               giar-inc    apicommDevS     giardiadbwww          uga_fed
+q1.giardiadb.org               giar028s    apicommDevS     giardiadbwww          uga_fed
 q1.hostdb.org                  host-inc    apicommDevS     hostdbwww             uga_fed
-q1.microsporidiadb.org         micr-inc    apicommDevS     microwww              uga_fed
-q1.piroplasmadb.org            piro-inc    apicommDevS     pirowww               uga_fed
+q1.microsporidiadb.org         micr028s    apicommDevS     microwww              uga_fed
+q1.piroplasmadb.org            piro028s    apicommDevS     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommDevS     plasmodbwww           uga_fed
-q1.schistodb.net               schi-inc    apicommDevS     schistowww            uga_fed
+q1.schistodb.net               schi028s    apicommDevS     schistowww            uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevS     toxodbwww             uga_fed
 q1.trichdb.org                 tvag028s    apicommDevS     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevS     trypdbwww             uga_fed
@@ -58,7 +58,7 @@ q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww          
 q2.schistodb.net               schi028n    apicommDevN     schistowww            uga_fed
 q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag028n    apicommDevN     trichdbwww            uga_fed
-q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q2.tritrypdb.org               tryp028n    apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                rm16352     apicommDevN     orthowww              uga_fed
 q2.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
 
@@ -97,8 +97,11 @@ icemr.plasmodb.org             icembl2n     icmrcomm     plasmodbwww           u
 qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 pr1.plasmodb.org               prisbl1s     prsmcommS    plasmodbwww           uga_fed
 pr2.plasmodb.org               prisbl1n     prsmcommN    plasmodbwww           uga_fed
-qa.prism.plasmodb.org          prisbl2n     prsmcommN    plasmodbwww           uga_fed
+q1.prism.plasmodb.org          prisbl2n     prsmcommN    plasmodbwww           uga_fed
+q2.prism.plasmodb.org          prisbl2n     prsmcommN    plasmodbwww           uga_fed
 amazonia.plasmodb.org          amaz-inc     amazcommN    plasmodbwww           uga_fed
+cdi.plasmodb.org               amaz-inc     amazcommN    plasmodbwww           uga_fed
+qa.cdi.plasmodb.org            amaz-inc     amazcommN    plasmodbwww           uga_fed
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sies used by the portal
