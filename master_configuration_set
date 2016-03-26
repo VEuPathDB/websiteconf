@@ -32,7 +32,7 @@ integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_
 
 q1.amoebadb.org                ameb028s    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp028s    apicommDevS     cryptodbwww           uga_fed
-q1.eupathdb.org                eupa028s    apicommDevS     eupawww               uga_fed
+q1.eupathdb.org                eupa-inc    apicommDevS     eupawww               uga_fed
 q1.fungidb.org                 fung028s    apicommDevS     fungidbwww            uga_fed
 q1.giardiadb.org               giar028s    apicommDevS     giardiadbwww          uga_fed
 q1.hostdb.org                  host028s    apicommDevS     hostdbwww             uga_fed
@@ -48,7 +48,7 @@ q1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww          
 
 q2.amoebadb.org                ameb028n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp028n    apicommDevN     cryptodbwww           uga_fed
-q2.eupathdb.org                eupa028n    apicommDevN     eupawww               uga_fed
+q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung028n    apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar028n    apicommDevN     giardiadbwww          uga_fed
 q2.hostdb.org                  host028n    apicommDevN     hostdbwww             uga_fed
