@@ -100,8 +100,8 @@ pr2.plasmodb.org               prisbl1n     prsmcommN    plasmodbwww           u
 q1.prism.plasmodb.org          prisbl2n     prsmcommN    plasmodbwww           uga_fed
 q2.prism.plasmodb.org          prisbl2n     prsmcommN    plasmodbwww           uga_fed
 amazonia.plasmodb.org          amaz-inc     amazcommN    plasmodbwww           uga_fed
-cdi.plasmodb.org               amaz-inc     amazcommN    plasmodbwww           uga_fed
-qa.cdi.plasmodb.org            amaz-inc     amazcommN    plasmodbwww           uga_fed
+cdi.plasmodb.org               amaz-rbld     amazcommN    plasmodbwww           uga_fed
+qa.cdi.plasmodb.org            amaz-rbld     amazcommN    plasmodbwww           uga_fed
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sies used by the portal
