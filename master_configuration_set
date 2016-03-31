@@ -30,19 +30,19 @@ integrate.gus4.plasmodb.org    plas-rbld    gus4commN    plasmodbintegrate     u
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
-q1.amoebadb.org                ameb-inc    apicommDevS     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp-inc    apicommDevS     cryptodbwww           uga_fed
-q1.eupathdb.org                eupa-inc    apicommDevS     eupawww               uga_fed
-q1.fungidb.org                 fung-inc    apicommDevS     fungidbwww            uga_fed
-q1.giardiadb.org               giar-inc    apicommDevS     giardiadbwww          uga_fed
-q1.hostdb.org                  host-inc    apicommDevS     hostdbwww             uga_fed
-q1.microsporidiadb.org         micr-inc    apicommDevS     microwww              uga_fed
-q1.piroplasmadb.org            piro-inc    apicommDevS     pirowww               uga_fed
-q1.plasmodb.org                plas-inc    apicommDevS     plasmodbwww           uga_fed
-q1.schistodb.net               schi-inc    apicommDevS     schistowww            uga_fed
-q1.toxodb.org                  toxo-inc    apicommDevS     toxodbwww             uga_fed
-q1.trichdb.org                 tvag-inc    apicommDevS     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp-inc    apicommDevS     trypdbwww             uga_fed
+q1.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
+q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
+q1.giardiadb.org               giar-inc    apicommDevN     giardiadbwww          uga_fed
+q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
+q1.microsporidiadb.org         micr-inc    apicommDevN     microwww              uga_fed
+q1.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
+q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
+q1.schistodb.net               schi-inc    apicommDevN     schistowww            uga_fed
+q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
+q1.trichdb.org                 tvag-inc    apicommDevN     trichdbwww            uga_fed
+q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q1.orthomcl.org                rm16352     apicommDevN     orthowww              uga_fed
 q1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
 
