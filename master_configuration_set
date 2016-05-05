@@ -31,8 +31,8 @@ integrate.gus4.toxodb.org      toxo-rbld    gus4commN    plasmodbintegrate     u
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
-a1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww        uga_fed
-a2.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww         uga_fed
+a1.plasmodb.org                plas-rbld   gus4commN       plasmodbwww         uga_fed
+a2.plasmodb.org                plas-rbld   gus4commN       plasmodbwww         uga_fed
 
 q1.amoebadb.org                ameb-inc    apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
