@@ -66,7 +66,7 @@ q2.trichdb.org                 tvag-inc    apicommDevN     trichdbwww           
 q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                rm16352     apicommDevN     orthowww              uga_fed
 q2.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
-q2.gus4.toxodb.org             toxo-rbld   gus4commT       plasmodbwww           uga_fed
+q2.gus4.toxodb.org             toxo-rbld   gus4commN       plasmodbwww           uga_fed
 
 w1.amoebadb.org                ameb028s    apicommS     amoebadbwww           uga_fed
 w1.cryptodb.org                cryp028s    apicommS     cryptodbwww           uga_fed
