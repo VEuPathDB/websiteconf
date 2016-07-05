@@ -26,8 +26,6 @@ integrate.trichdb.org          tvag-rbld    apicommDevN  trichdbintegrate      u
 integrate.tritrypdb.org        tryp-rbld    apicommDevN  trypdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
-integrate.gus4.plasmodb.org    plas-rbld    gus4commN    plasmodbintegrate     uga_fed
-integrate.gus4.toxodb.org      toxo-rbld    gus4commN    plasmodbintegrate     uga_fed
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
@@ -48,8 +46,6 @@ q1.toxodb.org                  toxo-rbld   apicommDevN     toxodbwww            
 q1.trichdb.org                 tvag-rbld   apicommDevN     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-rbld   apicommDevN     trypdbwww             uga_fed
 q1.orthomcl.org                rm16352     apicommDevN     orthowww              uga_fed
-q1.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
-q1.gus4.toxodb.org             toxo-rbld   gus4commN       plasmodbwww           uga_fed
 
 q2.amoebadb.org                ameb-rbld   apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp-rbld   apicommDevN     cryptodbwww           uga_fed
@@ -65,8 +61,6 @@ q2.toxodb.org                  toxo-rbld   apicommDevN     toxodbwww            
 q2.trichdb.org                 tvag-rbld   apicommDevN     trichdbwww            uga_fed
 q2.tritrypdb.org               tryp-rbld   apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                rm16352     apicommDevN     orthowww              uga_fed
-q2.gus4.plasmodb.org           plas-rbld   gus4commN       plasmodbwww           uga_fed
-q2.gus4.toxodb.org             toxo-rbld   gus4commN       plasmodbwww           uga_fed
 
 w1.amoebadb.org                ameb028s    apicommS     amoebadbwww           uga_fed
 w1.cryptodb.org                cryp028s    apicommS     cryptodbwww           uga_fed
