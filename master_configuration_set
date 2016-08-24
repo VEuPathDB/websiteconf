@@ -17,7 +17,7 @@ integrate.eupathdb.org         eupa-rbld    apicommDevN  eupaintegrate         u
 integrate.fungidb.org          fung-rbld    apicommDevN  fungidbintegrate      uga_fed
 integrate.giardiadb.org        giar-rbld    apicommDevN  giardiadbintegrate    uga_fed
 integrate.hostdb.org           host-rbld    apicommDevN  hostdbintegrate       uga_fed
-integrate.microbiomedb.org     mbiobl1n     apicommDevN  webintegrate          uga_fed
+integrate.microbiomedb.org     rm22735      mbiocommN    webintegrate          uga_fed
 integrate.microsporidiadb.org  micr-rbld    apicommDevN  microintegrate        uga_fed
 integrate.piroplasmadb.org     piro-rbld    apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-rbld    apicommDevN  plasmodbintegrate     uga_fed
@@ -39,7 +39,7 @@ q1.eupathdb.org                eupa-rbld   apicommDevN     eupawww              
 q1.fungidb.org                 fung-rbld   apicommDevN     fungidbwww            uga_fed
 q1.giardiadb.org               giar-rbld   apicommDevN     giardiadbwww          uga_fed
 q1.hostdb.org                  host-rbld   apicommDevN     hostdbwww             uga_fed
-q1.microbiomedb.org            mbiobl1n    apicommDevN     webwww                uga_fed
+q1.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 q1.microsporidiadb.org         micr-rbld   apicommDevN     microwww              uga_fed
 q1.piroplasmadb.org            piro-rbld   apicommDevN     pirowww               uga_fed
 q1.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww           uga_fed
@@ -55,7 +55,7 @@ q2.eupathdb.org                eupa-rbld   apicommDevN     eupawww              
 q2.fungidb.org                 fung-rbld   apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar-rbld   apicommDevN     giardiadbwww          uga_fed
 q2.hostdb.org                  host-rbld   apicommDevN     hostdbwww             uga_fed
-q2.microbiomedb.org            mbiobl1n    apicommDevN     webwww                uga_fed
+q2.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 q2.microsporidiadb.org         micr-rbld   apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro-rbld   apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww           uga_fed
@@ -71,7 +71,7 @@ w1.eupathdb.org                eupa028s    apicommS     eupawww               ug
 w1.fungidb.org                 fung028s    apicommS     fungidbwww            uga_fed
 w1.giardiadb.org               giar028s    apicommS     giardiadbwww          uga_fed
 b1.hostdb.org                  host028s    apicommS     hostdbwww             uga_fed
-w1.microbiomedb.org            mbiobl1n    apicommS     webwww                uga_fed
+w1.microbiomedb.org            mbiobl1n    mbiocommN    webwww                uga_fed
 w1.microsporidiadb.org         micr028s    apicommS     microwww              uga_fed
 w1.piroplasmadb.org            piro028s    apicommS     pirowww               uga_fed
 w1.plasmodb.org                plas028s    apicommS     plasmodbwww           uga_fed
@@ -87,7 +87,7 @@ w2.eupathdb.org                eupa028n    apicommN     eupawww               ug
 w2.fungidb.org                 fung028n    apicommN     fungidbwww            uga_fed
 w2.giardiadb.org               giar028n    apicommN     giardiadbwww          uga_fed
 b2.hostdb.org                  host028n    apicommN     hostdbwww             uga_fed
-w2.microbiomedb.org            mbiobl1n    apicommS     webwww                uga_fed
+w2.microbiomedb.org            mbiobl1n    mbiocommN    webwww                uga_fed
 w2.microsporidiadb.org         micr028n    apicommN     microwww              uga_fed
 w2.piroplasmadb.org            piro028n    apicommN     pirowww               uga_fed
 w2.plasmodb.org                plas028n    apicommN     plasmodbwww           uga_fed
