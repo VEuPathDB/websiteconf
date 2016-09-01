@@ -13,7 +13,7 @@ mheiges.orthomcl.org           orth500s    apicommS     mheiges               ug
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-rbld    apicommDevN  amoebadbintegrate     uga_fed
 integrate.cryptodb.org         cryp-rbld    apicommDevN  cryptodbintegrate     uga_fed
-integrate.eupathdb.org         eupa-rbld    apicommDevN  eupaintegrate         uga_fed
+integrate.eupathdb.org         eupa-inc     apicommDevN  eupaintegrate         uga_fed
 integrate.fungidb.org          fung-rbld    apicommDevN  fungidbintegrate      uga_fed
 integrate.giardiadb.org        giar-rbld    apicommDevN  giardiadbintegrate    uga_fed
 integrate.hostdb.org           host-rbld    apicommDevN  hostdbintegrate       uga_fed
@@ -35,7 +35,7 @@ a2.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww         u
 
 q1.amoebadb.org                ameb-rbld   apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-rbld   apicommDevN     cryptodbwww           uga_fed
-q1.eupathdb.org                eupa-rbld   apicommDevN     eupawww               uga_fed
+q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q1.fungidb.org                 fung-rbld   apicommDevN     fungidbwww            uga_fed
 q1.giardiadb.org               giar-rbld   apicommDevN     giardiadbwww          uga_fed
 q1.hostdb.org                  host-rbld   apicommDevN     hostdbwww             uga_fed
@@ -51,7 +51,7 @@ q1.orthomcl.org                rm16352     apicommDevN     orthowww             
 
 q2.amoebadb.org                ameb-rbld   apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp-rbld   apicommDevN     cryptodbwww           uga_fed
-q2.eupathdb.org                eupa-rbld   apicommDevN     eupawww               uga_fed
+q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung-rbld   apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar-rbld   apicommDevN     giardiadbwww          uga_fed
 q2.hostdb.org                  host-rbld   apicommDevN     hostdbwww             uga_fed
