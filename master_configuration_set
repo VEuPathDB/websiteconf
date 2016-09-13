@@ -31,7 +31,19 @@ integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/w
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
 a1.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww         uga_fed
-a2.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww         uga_fed
+a2.amoebadb.org                ameb-rbld   apicommDevN     amoebadbwww           uga_fed
+a2.cryptodb.org                cryp-rbld   apicommDevN     cryptodbwww           uga_fed
+a2.eupathdb.org                eupabl1n    apicommDevN     eupawww               uga_fed
+a2.fungidb.org                 fung-rbld   apicommDevN     fungidbwww            uga_fed
+a2.giardiadb.org               giar029n    apicommDevN     giardiadbwww          uga_fed
+a2.hostdb.org                  host-rbld   apicommDevN     hostdbwww             uga_fed
+a2.microsporidiadb.org         micr-rbld   apicommDevN     microwww              uga_fed
+a2.piroplasmadb.org            piro-rbld   apicommDevN     pirowww               uga_fed
+a2.plasmodb.org                plas-rbld   apicommDevN     plasmodbwww           uga_fed
+a2.schistodb.net               schi-rbld   apicommDevN     schistowww            uga_fed
+a2.toxodb.org                  toxo-rbld   apicommDevN     toxodbwww             uga_fed
+a2.trichdb.org                 tvag029n    apicommDevN     trichdbwww            uga_fed
+a2.tritrypdb.org               tryp-rbld   apicommDevN     trypdbwww             uga_fed
 
 q1.amoebadb.org                ameb-rbld   apicommDevN     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp-rbld   apicommDevN     cryptodbwww           uga_fed
