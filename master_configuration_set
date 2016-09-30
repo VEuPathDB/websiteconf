@@ -11,19 +11,19 @@ galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_
 mheiges.orthomcl.org           orth500s    apicommS     mheiges               uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb029n    apicommDevN  amoebadbintegrate     uga_fed
-integrate.cryptodb.org         cryp029n    apicommDevN  cryptodbintegrate     uga_fed
+integrate.amoebadb.org         ameb-rbld    apicommDevN  amoebadbintegrate     uga_fed
+integrate.cryptodb.org         cryp-rbld    apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupabl1n     apicommDevN  eupaintegrate         uga_fed
 integrate.fungidb.org          fung-rbld    apicommDevN  fungidbintegrate      uga_fed
-integrate.giardiadb.org        giar029n    apicommDevN  giardiadbintegrate    uga_fed
+integrate.giardiadb.org        giar-rbld    apicommDevN  giardiadbintegrate    uga_fed
 integrate.hostdb.org           host-rbld    apicommDevN  hostdbintegrate       uga_fed
 integrate.microbiomedb.org     rm22735      mbiocommN    webintegrate          uga_fed
-integrate.microsporidiadb.org  micr029n    apicommDevN  microintegrate        uga_fed
-integrate.piroplasmadb.org     piro029n    apicommDevN  pirointegrate         uga_fed
+integrate.microsporidiadb.org  micr-rbld    apicommDevN  microintegrate        uga_fed
+integrate.piroplasmadb.org     piro-rbld    apicommDevN  pirointegrate         uga_fed
 integrate.plasmodb.org         plas-rbld    apicommDevN  plasmodbintegrate     uga_fed
-integrate.schistodb.net        schi029n    apicommDevN  schistointegrate      uga_fed
-integrate.toxodb.org           toxo029n    apicommDevN  toxodbintegrate       uga_fed
-integrate.trichdb.org          tvag029n    apicommDevN  trichdbintegrate      uga_fed
+integrate.schistodb.net        schi-rbld    apicommDevN  schistointegrate      uga_fed
+integrate.toxodb.org           toxo-rbld    apicommDevN  toxodbintegrate       uga_fed
+integrate.trichdb.org          tvag-rbld    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-rbld    apicommDevN  trypdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s     apicommDevS  orthointegrate        uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
@@ -45,19 +45,19 @@ a2.toxodb.org                  toxo029n   apicommDevN     toxodbwww             
 a2.trichdb.org                 tvag029n    apicommDevN     trichdbwww            uga_fed
 a2.tritrypdb.org               tryp-rbld   apicommDevN     trypdbwww             uga_fed
 
-q1.amoebadb.org                ameb029n    apicommDevS     amoebadbwww           uga_fed
-q1.cryptodb.org                cryp029n    apicommDevS     cryptodbwww           uga_fed
+q1.amoebadb.org                ameb029s    apicommDevS     amoebadbwww           uga_fed
+q1.cryptodb.org                cryp029s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupabl1n    apicommDevS     eupawww               uga_fed
 q1.fungidb.org                 fung-rbld   apicommDevS     fungidbwww            uga_fed
-q1.giardiadb.org               giar029n    apicommDevS     giardiadbwww          uga_fed
+q1.giardiadb.org               giar029s    apicommDevS     giardiadbwww          uga_fed
 q1.hostdb.org                  host-rbld   apicommDevS     hostdbwww             uga_fed
 q1.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
-q1.microsporidiadb.org         micr029n   apicommDevS     microwww              uga_fed
-q1.piroplasmadb.org            piro029n   apicommDevS     pirowww               uga_fed
+q1.microsporidiadb.org         micr029s   apicommDevS     microwww              uga_fed
+q1.piroplasmadb.org            piro029s   apicommDevS     pirowww               uga_fed
 q1.plasmodb.org                plas-rbld   apicommDevS     plasmodbwww           uga_fed
-q1.schistodb.net               schi029n    apicommDevS     schistowww            uga_fed
-q1.toxodb.org                  toxo029n   apicommDevS     toxodbwww             uga_fed
-q1.trichdb.org                 tvag029n    apicommDevS     trichdbwww            uga_fed
+q1.schistodb.net               schi029s    apicommDevS     schistowww            uga_fed
+q1.toxodb.org                  toxo029s   apicommDevS     toxodbwww             uga_fed
+q1.trichdb.org                 tvag029s    apicommDevS     trichdbwww            uga_fed
 q1.tritrypdb.org               tryp-rbld   apicommDevS     trypdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevS     orthowww              uga_fed
 
