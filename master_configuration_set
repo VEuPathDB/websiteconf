@@ -133,15 +133,15 @@ qa.cdi.plasmodb.org            amaz-rbld     amazcommN    plasmodbwww           
 # maint.trichdb.org              tvag026s     apicomms   aurreco2      uga_fed
 # maint.tritrypdb.org            tryp026n     apicomms   aurreco2      uga_fed
 
-maint.amoebadb.org             ameb-rbld     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp-rbld     rm15873   aurreco2      uga_fed
+maint.amoebadb.org             ameb029n     rm15873   aurreco2      uga_fed
+maint.cryptodb.org             cryp029n     rm15873   aurreco2      uga_fed
 maint.fungidb.org              fung-rbld     rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar-rbld     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr-rbld     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro-rbld     rm15873   aurreco2      uga_fed
+maint.giardiadb.org            giar029n     rm15873   aurreco2      uga_fed
+maint.microsporidiadb.org      micr029n     rm15873   aurreco2      uga_fed
+maint.piroplasmadb.org         piro029n     rm15873   aurreco2      uga_fed
 maint.plasmodb.org             plas-rbld     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo-rbld     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag-rbld     rm15873   aurreco2      uga_fed
+maint.toxodb.org               toxo029n     rm15873   aurreco2      uga_fed
+maint.trichdb.org              tvag029n     rm15873   aurreco2      uga_fed
 maint.tritrypdb.org            tryp-rbld     rm15873   aurreco2      uga_fed
 
 
