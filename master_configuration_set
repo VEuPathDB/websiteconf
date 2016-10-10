@@ -121,28 +121,28 @@ cdi.plasmodb.org               amaz-rbld     amazcommN    plasmodbwww           
 qa.cdi.plasmodb.org            amaz-rbld     amazcommN    plasmodbwww           uga_fed
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
-# we only need component sies used by the portal
-# maint.amoebadb.org             ameb026n     apicomms   aurreco2      uga_fed
-# maint.cryptodb.org             cryp026s     apicomms   aurreco2      uga_fed
-# maint.fungidb.org              fung026n     apicomms   aurreco2      uga_fed
-# maint.giardiadb.org            giar026n     apicomms   aurreco2      uga_fed
-# maint.microsporidiadb.org      micr026n     apicomms   aurreco2      uga_fed
-# maint.piroplasmadb.org         piro026s     apicomms   aurreco2      uga_fed
-# maint.plasmodb.org             plas026n     apicomms   aurreco2      uga_fed
-# maint.toxodb.org               toxo026n     apicomms   aurreco2      uga_fed
-# maint.trichdb.org              tvag026s     apicomms   aurreco2      uga_fed
-# maint.tritrypdb.org            tryp026n     apicomms   aurreco2      uga_fed
+# we only need component sites used by the portal
+maint.amoebadb.org             ameb029s     apicomms   aurreco2      uga_fed
+maint.cryptodb.org             cryp029s     apicomms   aurreco2      uga_fed
+maint.fungidb.org              fung029s     apicomms   aurreco2      uga_fed
+maint.giardiadb.org            giar029s     apicomms   aurreco2      uga_fed
+maint.microsporidiadb.org      micr029s     apicomms   aurreco2      uga_fed
+maint.piroplasmadb.org         piro029s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             plas029s     apicomms   aurreco2      uga_fed
+maint.toxodb.org               toxo029s     apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag029s     apicomms   aurreco2      uga_fed
+maint.tritrypdb.org            tryp029s     apicomms   aurreco2      uga_fed
 
-maint.amoebadb.org             ameb029n     rm15873   aurreco2      uga_fed
-maint.cryptodb.org             cryp029n     rm15873   aurreco2      uga_fed
-maint.fungidb.org              fung-rbld     rm15873   aurreco2      uga_fed
-maint.giardiadb.org            giar029n     rm15873   aurreco2      uga_fed
-maint.microsporidiadb.org      micr029n     rm15873   aurreco2      uga_fed
-maint.piroplasmadb.org         piro029n     rm15873   aurreco2      uga_fed
-maint.plasmodb.org             plas-rbld     rm15873   aurreco2      uga_fed
-maint.toxodb.org               toxo029n     rm15873   aurreco2      uga_fed
-maint.trichdb.org              tvag029n     rm15873   aurreco2      uga_fed
-maint.tritrypdb.org            tryp-rbld     rm15873   aurreco2      uga_fed
+#maint.amoebadb.org             ameb029s     rm15873   aurreco2      uga_fed
+#maint.cryptodb.org             cryp029s     rm15873   aurreco2      uga_fed
+#maint.fungidb.org              fung029s     rm15873   aurreco2      uga_fed
+#maint.giardiadb.org            giar029s     rm15873   aurreco2      uga_fed
+#maint.microsporidiadb.org      micr029s     rm15873   aurreco2      uga_fed
+#maint.piroplasmadb.org         piro029s     rm15873   aurreco2      uga_fed
+#maint.plasmodb.org             plas029s     rm15873   aurreco2      uga_fed
+#maint.toxodb.org               toxo029s     rm15873   aurreco2      uga_fed
+#maint.trichdb.org              tvag029s     rm15873   aurreco2      uga_fed
+#maint.tritrypdb.org            tryp029s     rm15873   aurreco2      uga_fed
 
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
