@@ -30,12 +30,12 @@ integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/w
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
-q1.amoebadb.org                ameb030n    apicommDevN     amoebadbwww           uga_fed
+q1.amoebadb.org                ameb030s    apicommDevS     amoebadbwww           uga_fed
 q1.cryptodb.org                cryp030s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
-q1.giardiadb.org               giar-inc    apicommDevN     giardiadbwww          uga_fed
-q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
+q1.giardiadb.org               giar030s    apicommDevS     giardiadbwww          uga_fed
+q1.hostdb.org                  host030s    apicommDevS     hostdbwww             uga_fed
 q1.microsporidiadb.org         micr030s    apicommDevS     microwww              uga_fed
 q1.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
@@ -47,11 +47,11 @@ q1.orthomcl.org                orth501s    apicommDevN     orthopatch           
 q1.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 
 q2.amoebadb.org                ameb030n    apicommDevN     amoebadbwww           uga_fed
-q2.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q2.cryptodb.org                cryp030n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
-q2.giardiadb.org               giar-inc    apicommDevN     giardiadbwww          uga_fed
-q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
+q2.giardiadb.org               giar030n    apicommDevN     giardiadbwww          uga_fed
+q2.hostdb.org                  host030n    apicommDevN     hostdbwww             uga_fed
 q2.microsporidiadb.org         micr030n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro-inc    apicommDevN     pirowww               uga_fed
 q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww           uga_fed
