@@ -42,7 +42,7 @@ q1.plasmodb.org                plas-inc    apicommDevN     plasmodbwww          
 q1.schistodb.net               schi030s    apicommDevS     schistowww            uga_fed
 q1.toxodb.org                  toxo030s    apicommDevS     toxodbwww             uga_fed
 q1.trichdb.org                 tvag030s    apicommDevS     trichdbwww            uga_fed
-q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q1.tritrypdb.org               tryp030s    apicommDevs     trypdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevN     orthopatch            uga_fed
 q1.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 
@@ -58,7 +58,7 @@ q2.plasmodb.org                plas-inc    apicommDevN     plasmodbwww          
 q2.schistodb.net               schi030n    apicommDevN     schistowww            uga_fed
 q2.toxodb.org                  toxo030n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 tvag030n    apicommDevN     trichdbwww            uga_fed
-q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q2.tritrypdb.org               tryp030n    apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthopatch            uga_fed
 q2.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 
