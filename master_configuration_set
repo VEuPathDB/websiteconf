@@ -49,7 +49,7 @@ q1.microbiomedb.org            rm22735     mbiocommN       webwww               
 q2.amoebadb.org                ameb030n    apicommDevN     amoebadbwww           uga_fed
 q2.cryptodb.org                cryp030n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
-q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
+q2.fungidb.org                 fung030n    apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar030n    apicommDevN     giardiadbwww          uga_fed
 q2.hostdb.org                  host030n    apicommDevN     hostdbwww             uga_fed
 q2.microsporidiadb.org         micr030n    apicommDevN     microwww              uga_fed
