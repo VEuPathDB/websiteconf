@@ -120,16 +120,16 @@ qa.cdi.plasmodb.org            amaz-rbld     amazcommN    plasmodbwww           
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sites used by the portal
-maint.amoebadb.org             ameb030s     apicomms   rdoherty      uga_fed
-maint.cryptodb.org             cryp030s     apicomms   rdoherty      uga_fed
-maint.fungidb.org              fung030s     apicomms   rdoherty      uga_fed
-maint.giardiadb.org            giar030s     apicomms   rdoherty      uga_fed
-maint.microsporidiadb.org      micr030s     apicomms   rdoherty      uga_fed
-maint.piroplasmadb.org         piro030s     apicomms   rdoherty      uga_fed
-maint.plasmodb.org             plas030s     apicomms   rdoherty      uga_fed
-maint.toxodb.org               toxo030s     apicomms   rdoherty      uga_fed
-maint.trichdb.org              tvag030s     apicomms   rdoherty      uga_fed
-maint.tritrypdb.org            tryp030s     apicomms   rdoherty      uga_fed
+maint.amoebadb.org             ameb030s     apicomms   aurreco2      uga_fed
+maint.cryptodb.org             cryp030s     apicomms   aurreco2      uga_fed
+maint.fungidb.org              fung030s     apicomms   aurreco2      uga_fed
+maint.giardiadb.org            giar030s     apicomms   aurreco2      uga_fed
+maint.microsporidiadb.org      micr030s     apicomms   aurreco2      uga_fed
+maint.piroplasmadb.org         piro030s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             plas030s     apicomms   aurreco2      uga_fed
+maint.toxodb.org               toxo030s     apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag030s     apicomms   aurreco2      uga_fed
+maint.tritrypdb.org            tryp030s     apicomms   aurreco2      uga_fed
 
 #maint.amoebadb.org             ameb029s     rm15873   aurreco2      uga_fed
 #maint.cryptodb.org             cryp029s     rm15873   aurreco2      uga_fed
