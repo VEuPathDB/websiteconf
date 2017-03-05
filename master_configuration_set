@@ -31,34 +31,34 @@ integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/w
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
 q1.amoebadb.org                ameb031s    apicommDevN     webwww                uga_fed
-q1.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q1.cryptodb.org                cryp031s    apicommDevS     cryptodbwww           uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q1.giardiadb.org               giar031s    apicommDevS     webwww                uga_fed
 q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
-q1.microsporidiadb.org         micr-inc    apicommDevN     microwww              uga_fed
+q1.microsporidiadb.org         micr031s    apicommDevS     microwww              uga_fed
 q1.piroplasmadb.org            piro031s    apicommDevS     webwww                uga_fed
 q1.plasmodb.org                plas031s    apicommDevS     webwww                uga_fed
 q1.schistodb.net               schi031s    apicommDevS     webwww                uga_fed
-q1.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
+q1.toxodb.org                  toxo031s    apicommDevS     toxodbwww             uga_fed
 q1.trichdb.org                 plas031s    apicommDevS     webwww                uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
 q1.orthomcl.org                orth501s    apicommDevS     orthopatch            uga_fed
 q1.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 
 q2.amoebadb.org                ameb031n    apicommDevN     webwww                uga_fed
-q2.cryptodb.org                cryp-inc    apicommDevN     cryptodbwww           uga_fed
+q2.cryptodb.org                cryp031n    apicommDevN     cryptodbwww           uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar031n    apicommDevN     webwww                uga_fed
 q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
-q2.microsporidiadb.org         micr-inc    apicommDevN     microwww              uga_fed
+q2.microsporidiadb.org         micr031n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro031n    apicommDevN     webwww                uga_fed
 q2.plasmodb.org                plas031n    apicommDevN     webwww                uga_fed
 q2.schistodb.net               schi031n    apicommDevN     webwww                uga_fed
-q2.toxodb.org                  toxo-inc    apicommDevN     toxodbwww             uga_fed
+q2.toxodb.org                  toxo031n    apicommDevN     toxodbwww             uga_fed
 q2.trichdb.org                 schi031n    apicommDevN     webwww                uga_fed
-q2.tritrypdb.org               tryp-inc    apicommDevN     trypdbwww             uga_fed
+q2.tritrypdb.org               tryp031n    apicommDevN     trypdbwww             uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthopatch            uga_fed
 q2.microbiomedb.org            rm22735     mbiocommN       webwww                uga_fed
 
