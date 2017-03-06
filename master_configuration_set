@@ -35,7 +35,7 @@ q1.cryptodb.org                cryp031s    apicommDevS     cryptodbwww          
 q1.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q1.giardiadb.org               giar031s    apicommDevS     webwww                uga_fed
-q1.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
+q1.hostdb.org                  host031s    apicommDevS     hostdbwww             uga_fed
 q1.microsporidiadb.org         micr031s    apicommDevS     microwww              uga_fed
 q1.piroplasmadb.org            piro031s    apicommDevS     webwww                uga_fed
 q1.plasmodb.org                plas031s    apicommDevS     webwww                uga_fed
@@ -51,7 +51,7 @@ q2.cryptodb.org                cryp031n    apicommDevN     cryptodbwww          
 q2.eupathdb.org                eupa-inc    apicommDevN     eupawww               uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     fungidbwww            uga_fed
 q2.giardiadb.org               giar031n    apicommDevN     webwww                uga_fed
-q2.hostdb.org                  host-inc    apicommDevN     hostdbwww             uga_fed
+q2.hostdb.org                  host031n    apicommDevN     hostdbwww             uga_fed
 q2.microsporidiadb.org         micr031n    apicommDevN     microwww              uga_fed
 q2.piroplasmadb.org            piro031n    apicommDevN     webwww                uga_fed
 q2.plasmodb.org                plas031n    apicommDevN     webwww                uga_fed
