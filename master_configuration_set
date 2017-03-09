@@ -120,27 +120,27 @@ qa.cdi.plasmodb.org            amaz-rbld     amazcommN    plasmodbwww           
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sites used by the portal
-#maint.amoebadb.org             ameb031s     apicomms   aurreco2      uga_fed
-#maint.cryptodb.org             cryp031s     apicomms   aurreco2      uga_fed
-#maint.fungidb.org              fung031s     apicomms   aurreco2      uga_fed
-#maint.giardiadb.org            giar031s     apicomms   aurreco2      uga_fed
-#maint.microsporidiadb.org      micr031s     apicomms   aurreco2      uga_fed
-#maint.piroplasmadb.org         piro031s     apicomms   aurreco2      uga_fed
-#maint.plasmodb.org             plas031s     apicomms   aurreco2      uga_fed
-#maint.toxodb.org               toxo031s     apicomms   aurreco2      uga_fed
-#maint.trichdb.org              tvag031s     apicomms   aurreco2      uga_fed
-#maint.tritrypdb.org            tryp031s     apicomms   aurreco2      uga_fed
+maint.amoebadb.org             ameb031s     apicomms   aurreco2      uga_fed
+maint.cryptodb.org             cryp031s     apicomms   aurreco2      uga_fed
+maint.fungidb.org              fung031s     apicomms   aurreco2      uga_fed
+maint.giardiadb.org            giar031s     apicomms   aurreco2      uga_fed
+maint.microsporidiadb.org      micr031s     apicomms   aurreco2      uga_fed
+maint.piroplasmadb.org         piro031s     apicomms   aurreco2      uga_fed
+maint.plasmodb.org             plas031s     apicomms   aurreco2      uga_fed
+maint.toxodb.org               toxo031s     apicomms   aurreco2      uga_fed
+maint.trichdb.org              tvag031s     apicomms   aurreco2      uga_fed
+maint.tritrypdb.org            tryp031s     apicomms   aurreco2      uga_fed
 
-maint.amoebadb.org             ameb031n     apicommn   aurreco2      uga_fed
-maint.cryptodb.org             cryp031n     apicommn   aurreco2      uga_fed
-maint.fungidb.org              fung031n     apicommn   aurreco2      uga_fed
-maint.giardiadb.org            giar031n     apicommn   aurreco2      uga_fed
-maint.microsporidiadb.org      micr031n     apicommn   aurreco2      uga_fed
-maint.piroplasmadb.org         piro031n     apicommn   aurreco2      uga_fed
-maint.plasmodb.org             plas031n     apicommn   aurreco2      uga_fed
-maint.toxodb.org               toxo031n     apicommn   aurreco2      uga_fed
-maint.trichdb.org              tvag031n     apicommn   aurreco2      uga_fed
-maint.tritrypdb.org            tryp031n     apicommn   aurreco2      uga_fed
+#maint.amoebadb.org             ameb031n     apicommn   aurreco2      uga_fed
+#maint.cryptodb.org             cryp031n     apicommn   aurreco2      uga_fed
+#maint.fungidb.org              fung031n     apicommn   aurreco2      uga_fed
+#maint.giardiadb.org            giar031n     apicommn   aurreco2      uga_fed
+#maint.microsporidiadb.org      micr031n     apicommn   aurreco2      uga_fed
+#maint.piroplasmadb.org         piro031n     apicommn   aurreco2      uga_fed
+#maint.plasmodb.org             plas031n     apicommn   aurreco2      uga_fed
+#maint.toxodb.org               toxo031n     apicommn   aurreco2      uga_fed
+#maint.trichdb.org              tvag031n     apicommn   aurreco2      uga_fed
+#maint.tritrypdb.org            tryp031n     apicommn   aurreco2      uga_fed
 
 #maint.amoebadb.org             ameb-inc     rm15873   aurreco2      uga_fed
 #maint.cryptodb.org             cryp-inc     rm15873   aurreco2      uga_fed
