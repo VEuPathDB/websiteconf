@@ -25,7 +25,7 @@ integrate.toxodb.org           toxo-inc    apicommDevN  toxodbintegrate       ug
 integrate.trichdb.org          tvag-inc    apicommDevN  trichdbintegrate      uga_fed
 integrate.tritrypdb.org        tryp-inc    apicommDevN  trypdbintegrate       uga_fed
 integrate.orthomcl.org         orth501s    apicommDevS  orthointegrate        uga_fed
-integrate.microbiomedb.org     rm22735     mbiocommN    webintegrate          uga_fed
+integrate.microbiomedb.org     rm22735     apicommDevN    webintegrate          uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
@@ -44,7 +44,7 @@ q1.toxodb.org                  toxo032s    apicommDevN     webwww            uga
 q1.trichdb.org                 tvag032s    apicommDevN     webwww            uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN     webwww            uga_fed
 q1.orthomcl.org                orth501s    apicommDevS     orthopatch        uga_fed
-q1.microbiomedb.org            rm22735     mbiocommN       webwww            uga_fed
+q1.microbiomedb.org            rm22735     apicommDevN     webwww            uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN     webwww            uga_fed
 q2.cryptodb.org                cryp-inc    apicommDevN     webwww            uga_fed
@@ -60,7 +60,7 @@ q2.toxodb.org                  toxo032n    apicommDevN     webwww            uga
 q2.trichdb.org                 tvag032n    apicommDevN     webwww            uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN     webwww            uga_fed
 q2.orthomcl.org                orth501n    apicommDevN     orthopatch        uga_fed
-q2.microbiomedb.org            rm22735     mbiocommN       webwww            uga_fed
+q2.microbiomedb.org            rm22735     apicommDevN     webwww            uga_fed
 
 w1.amoebadb.org                ameb031s    apicommS     webwww                uga_fed
 w1.cryptodb.org                cryp031s    apicommS     webwww                uga_fed
@@ -76,7 +76,7 @@ w1.toxodb.org                  toxo031s    apicommS     webwww                ug
 w1.trichdb.org                 tvag031s    apicommS     webwww                uga_fed
 w1.tritrypdb.org               tryp031s    apicommS     webwww                uga_fed
 w1.orthomcl.org                orth501s    apicommS     orthowww              uga_fed
-w1.microbiomedb.org            mbio001s    mbiocommN    webwww                uga_fed
+w1.microbiomedb.org            mbio001s    apicommN    webwww                uga_fed
 
 w2.amoebadb.org                ameb031n    apicommN     amoebadbwww           uga_fed
 w2.cryptodb.org                cryp031n    apicommN     cryptodbwww           uga_fed
@@ -92,7 +92,7 @@ w2.toxodb.org                  toxo031n    apicommN     toxodbwww             ug
 w2.trichdb.org                 tvag031n    apicommN     trichdbwww            uga_fed
 w2.tritrypdb.org               tryp031n    apicommN     trypdbwww             uga_fed
 w2.orthomcl.org                orth501n    apicommN     orthowww              uga_fed
-w2.microbiomedb.org            mbio001n    mbiocommN    webwww                uga_fed
+w2.microbiomedb.org            mbio001n    apicommN    webwww                uga_fed
 
 r28.amoebadb.org                ameb028s    r28commS     amoebadbwww           uga_fed
 r28.cryptodb.org                cryp028s    r28commS     cryptodbwww           uga_fed
