@@ -32,8 +32,8 @@ integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_
 
 q1.amoebadb.org                ameb032s    apicommDevS     webwww            uga_fed
 q1.cryptodb.org                cryp032s    apicommDevS     webwww            uga_fed
-q1.eupathdb.org                eupa-inc    apicommDevN     webwww            uga_fed
-q1.fungidb.org                 fung-inc    apicommDevN     webwww            uga_fed
+q1.eupathdb.org                eupa032s    apicommDevS     webwww            uga_fed
+q1.fungidb.org                 fung032s    apicommDevS     webwww            uga_fed
 q1.giardiadb.org               giar032s    apicommDevS     webwww            uga_fed
 q1.hostdb.org                  host032s    apicommDevS     webwww            uga_fed
 q1.microsporidiadb.org         micr032s    apicommDevS     webwww            uga_fed
@@ -48,8 +48,8 @@ q1.microbiomedb.org            rm22735     apicommDevN     webwww            uga
 
 q2.amoebadb.org                ameb032n    apicommDevN     webwww            uga_fed
 q2.cryptodb.org                cryp032n    apicommDevN     webwww            uga_fed
-q2.eupathdb.org                eupa-inc    apicommDevN     webwww            uga_fed
-q2.fungidb.org                 fung-inc    apicommDevN     webwww            uga_fed
+q2.eupathdb.org                eupa032n    apicommDevN     webwww            uga_fed
+q2.fungidb.org                 fung032n    apicommDevN     webwww            uga_fed
 q2.giardiadb.org               giar032n    apicommDevN     webwww            uga_fed
 q2.hostdb.org                  host032n    apicommDevN     webwww            uga_fed
 q2.microsporidiadb.org         micr032n    apicommDevN     webwww            uga_fed
