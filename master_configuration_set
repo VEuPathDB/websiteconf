@@ -12,7 +12,7 @@ mheiges.orthomcl.org           orth500s    apicommS     mheiges               ug
 
 # Intgration sites use apicommDev per Steve and Brian @ 4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN  amoebadbintegrate     uga_fed
-integrate.clinepidb.org        prisbl2n    apicommDevN  webintegrate          uga_fed
+integrate.clinepidb.org        clin-rbld   apicommDevN  webintegrate          uga_fed
 integrate.cryptodb.org         cryp-inc    apicommDevN  cryptodbintegrate     uga_fed
 integrate.eupathdb.org         eupabl1n    apicommDevN  eupaintegrate         uga_fed
 integrate.fungidb.org          fung-inc    apicommDevN  fungidbintegrate      uga_fed
@@ -32,7 +32,7 @@ integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/w
 integrate.vm.toxodb.org           toxo027n     apicommDevN  toxodbwww       uga_fed
 
 q1.amoebadb.org                ameb033s    apicommDevS     webwww            uga_fed
-q1.clinepidb.org               prisbl2n    apicommDevN     webwww            uga_fed
+q1.clinepidb.org               clin-rbld   apicommDevN     webwww            uga_fed
 q1.cryptodb.org                cryp033s    apicommDevS     webwww            uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN     webwww            uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN     webwww            uga_fed
@@ -49,7 +49,7 @@ q1.orthomcl.org                orth501s    apicommDevN     orthopatch        uga
 q1.microbiomedb.org            rm22735     apicommDevN     webwww            uga_fed
 
 q2.amoebadb.org                ameb033n    apicommDevN     webwww            uga_fed
-q2.clinepidb.org               prisbl2n    apicommDevN     webwww            uga_fed
+q2.clinepidb.org               clin-rbld   apicommDevN     webwww            uga_fed
 q2.cryptodb.org                cryp033n    apicommDevN     webwww            uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN     webwww            uga_fed
 q2.fungidb.org                 fung-inc    apicommDevN     webwww            uga_fed
