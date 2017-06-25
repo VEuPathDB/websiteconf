@@ -2,8 +2,10 @@
 # $HeadURL$
 # $Id$
 #
-# site                         appdb       userdb    alogin                ulogin   
-#
+
+# column order is not important but first non-comment line are used for
+# hash keys and their values must not be changed
+site                           appDb_name  userDb_name  appDb_login        userDb_login   
 
 #https://redmine.apidb.org/issues/16402
 galaxy.cryptodb.org            cryp021s    apicommDevN  cryptodbpatch       uga_fed
@@ -137,6 +139,7 @@ maint.tritrypdb.org            tryp032s     apicomms   aurreco2      uga_fed
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb-inc    apicommDevN   amoebadbpatch    uga_fed
+feature.clinepidb.org          clin-rbld   apicommDevN   cryptodbpatch    uga_fed
 feature.cryptodb.org           cryp-inc    apicommDevN   cryptodbpatch    uga_fed
 feature.eupathdb.org           eupa-inc    apicommDevN   apidbpatch       uga_fed
 feature.giardiadb.org          giar-inc    apicommDevN   giardiadbpatch   uga_fed
