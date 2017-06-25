@@ -126,16 +126,16 @@ qa.cdi.plasmodb.org            amaz-rbld    amazcommN   plasmodbwww   uga_fed
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sites used by the portal
 
-maint.amoebadb.org             ameb032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.cryptodb.org             cryp032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.fungidb.org              fung032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.giardiadb.org            giar032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.microsporidiadb.org      micr032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.piroplasmadb.org         piro032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.plasmodb.org             plas032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.toxodb.org               toxo032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.trichdb.org              tvag032s     apicomms            NA                aurreco2      uga_fed     uga_fed
-maint.tritrypdb.org            tryp032s     apicomms            NA                aurreco2      uga_fed     uga_fed
+maint.amoebadb.org             ameb033n     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.cryptodb.org             cryp033n     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.fungidb.org              fung-inc     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.giardiadb.org            giar033n     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.microsporidiadb.org      micr-inc     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.piroplasmadb.org         piro-inc     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.plasmodb.org             plas-inc     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.toxodb.org               toxo033n     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.trichdb.org              tvag033n     rm15873            NA                aurreco2      uga_fed     uga_fed
+maint.tritrypdb.org            tryp033n     rm15873            NA                aurreco2      uga_fed     uga_fed
 
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
