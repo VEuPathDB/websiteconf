@@ -2,9 +2,10 @@
 # $HeadURL$
 # $Id$
 #
-
+# Use 'NA' as placeholder value when the field is not needed for a given site.
+#
 # column order is not important but first non-comment line are used for
-# hash keys and their values must not be changed
+# hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
 #https://redmine.apidb.org/issues/16402uga_fed
@@ -146,7 +147,7 @@ feature.eupathdb.org           eupa-inc    apicommDevN          acctdbN         
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           giardiadbpatch   uga_fed     uga_fed
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           micropatch       uga_fed     uga_fed
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           piropatch        uga_fed     uga_fed
-feature.plasmodb.org           plas-rbld   gus4commN            acctdbN           plasmodbpatch    uga_fed     uga_fed
+feature.plasmodb.org           plas-inc    rm9972               acctdbN           plasmodbpatch    uga_fed     uga_fed
 feature.schistodb.net          schi-inc    apicommDevN          acctdbN           schistopatch     uga_fed     uga_fed
 feature.toxodb.org             toxo-rbld   gus4commn            acctdbN           toxodbpatch      uga_fed     uga_fed
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           trichdbpatch     uga_fed     uga_fed
