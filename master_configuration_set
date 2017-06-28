@@ -38,7 +38,7 @@ q1.amoebadb.org                ameb033s    apicommDevS         NA               
 q1.clinepidb.org               clin-rbld   apicommDevN         NA                webwww            uga_fed     uga_fed
 q1.cryptodb.org                cryp033s    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
-q1.fungidb.org                 fung-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
+q1.fungidb.org                 fung033s    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.giardiadb.org               giar033s    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.hostdb.org                  host033s    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.microsporidiadb.org         micr033s    apicommDevS         NA                webwww            uga_fed     uga_fed
@@ -55,7 +55,7 @@ q2.amoebadb.org                ameb033n    apicommDevN         NA               
 q2.clinepidb.org               clin-rbld   apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.cryptodb.org                cryp033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
-q2.fungidb.org                 fung-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
+q2.fungidb.org                 fung033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.giardiadb.org               giar033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.hostdb.org                  host033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.microsporidiadb.org         micr033n    apicommDevN         NA                webwww            uga_fed     uga_fed
