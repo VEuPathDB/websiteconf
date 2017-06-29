@@ -49,7 +49,7 @@ q1.toxodb.org                  toxo033s    apicommDevS         NA               
 q1.trichdb.org                 tvag033S    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.tritrypdb.org               tryp033s    apicommDevS         NA                webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth501s    apicommDevS         NA                orthopatch        uga_fed     uga_fed
-q1.microbiomedb.org            rm22735     apicommDevN         NA                webwww            uga_fed     uga_fed
+q1.microbiomedb.org            mbio002n    apicommDevN         NA                webwww            uga_fed     uga_fed
 
 q2.amoebadb.org                ameb033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.clinepidb.org               clin-rbld   apicommDevN         NA                webwww            uga_fed     uga_fed
@@ -66,7 +66,7 @@ q2.toxodb.org                  toxo033n    apicommDevN         NA               
 q2.trichdb.org                 tvag033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.tritrypdb.org               tryp033n    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth501n    apicommDevN         NA                orthopatch        uga_fed     uga_fed
-q2.microbiomedb.org            rm22735     apicommDevN         NA                webwww            uga_fed     uga_fed
+q2.microbiomedb.org            mbio002n    apicommDevN         NA                webwww            uga_fed     uga_fed
 
 w1.amoebadb.org                ameb032s    apicommS            NA                webwww            uga_fed     NA
 w1.cryptodb.org                cryp032s    apicommS            NA                webwww            uga_fed     NA
