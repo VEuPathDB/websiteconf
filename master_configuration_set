@@ -49,7 +49,7 @@ q1.trichdb.org                 tvag-inc    apicommDevN         NA               
 q1.tritrypdb.org               tryp-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
 q1.clinepidb.org               clin-rbld   apicommDevN         NA                webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth501s    apicommDevS         NA                orthopatch        uga_fed     uga_fed
-q1.microbiomedb.org            mbio002n    apicommDevN         NA                webwww            uga_fed     uga_fed
+q1.microbiomedb.org            rm22735    apicommDevN         NA                webwww            uga_fed     uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.cryptodb.org                cryp-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
@@ -66,7 +66,7 @@ q2.trichdb.org                 tvag-inc    apicommDevN         NA               
 q2.tritrypdb.org               tryp-inc    apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.clinepidb.org               clin-rbld   apicommDevN         NA                webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth501n    apicommDevN         NA                orthopatch        uga_fed     uga_fed
-q2.microbiomedb.org            mbio002n    apicommDevN         NA                webwww            uga_fed     uga_fed
+q2.microbiomedb.org            rm22735     apicommDevN         NA                webwww            uga_fed     uga_fed
 
 w1.amoebadb.org                ameb033s    apicommS            NA                webwww            uga_fed     NA
 w1.cryptodb.org                cryp033s    apicommS            NA                webwww            uga_fed     NA
@@ -82,7 +82,7 @@ w1.toxodb.org                  toxo033s    apicommS            NA               
 w1.trichdb.org                 tvag033S    apicommS            NA                webwww            uga_fed     NA
 w1.tritrypdb.org               tryp033s    apicommS            NA                webwww            uga_fed     NA
 w1.orthomcl.org                orth501s    apicommS            NA                orthowww          uga_fed     NA
-w1.microbiomedb.org            mbio001s    apicommN            NA                webwww            uga_fed     NA
+w1.microbiomedb.org            mbio002s    apicommS            NA                webwww            uga_fed     NA
 
 w2.amoebadb.org                ameb033n    apicommN            NA                webwww            uga_fed     NA
 w2.cryptodb.org                cryp033n    apicommN            NA                webwww            uga_fed     NA
@@ -98,7 +98,7 @@ w2.toxodb.org                  toxo033n    apicommN            NA               
 w2.trichdb.org                 tvag033n    apicommN            NA                webwww            uga_fed     NA
 w2.tritrypdb.org               tryp033n    apicommN            NA                webwww            uga_fed     NA
 w2.orthomcl.org                orth501n    apicommN            NA                orthowww          uga_fed     NA
-w2.microbiomedb.org            mbio001n    apicommN            NA                webwww            uga_fed     NA
+w2.microbiomedb.org            mbio002n    apicommN            NA                webwww            uga_fed     NA
 
 # r28 uses pre-acctdb column format
 r28.amoebadb.org                ameb028s    r28commS    amoebadbwww   uga_fed
