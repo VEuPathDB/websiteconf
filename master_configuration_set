@@ -129,7 +129,6 @@ maint.plasmodb.org             plas033s     apicomms            acctdbS         
 maint.toxodb.org               toxo033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.trichdb.org              tvag033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.tritrypdb.org            tryp033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-acctdbN
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           amoebadbpatch    uga_fed     uga_fed
