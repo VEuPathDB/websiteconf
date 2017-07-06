@@ -132,7 +132,7 @@ maint.tritrypdb.org            tryp033s     apicomms            acctdbS         
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           amoebadbpatch    uga_fed     uga_fed
-feature.clinepidb.org          clin-rbld   apicommDevN          acctdbN           cryptodbpatch    uga_fed     uga_fed
+feature.clinepidb.org          clin-rbld   cecommN              acctdbN           cryptodbpatch    uga_fed     uga_fed
 feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           cryptodbpatch    uga_fed     uga_fed
 feature.eupathdb.org           eupa-inc    apicommDevN          acctdbN           apidbpatch       uga_fed     uga_fed
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           giardiadbpatch   uga_fed     uga_fed
