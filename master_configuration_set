@@ -59,7 +59,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.clinepidb.org               clin-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.clinepidb.org               clin-rbld   cecommN             acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth501n    apicommDevN         acctdbN           orthopatch        uga_fed     uga_fed
 q2.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
