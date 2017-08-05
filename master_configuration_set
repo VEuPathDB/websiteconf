@@ -15,7 +15,7 @@ icemr.clinepidb.org             clin-rbld   cecommn             acctdbN         
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          amoebadbintegrate     uga_fed     uga_fed
-integrate.clinepidb.org        clin-rbld   cecommDevN          acctdbN          webintegrate          uga_fed     uga_fed
+integrate.clinepidb.org        gates-rbld   cecommDevN          acctdbN          webintegrate          uga_fed     uga_fed
 integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          cryptodbintegrate     uga_fed     uga_fed
 integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          eupaintegrate         uga_fed     uga_fed
 integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          fungidbintegrate      uga_fed     uga_fed
