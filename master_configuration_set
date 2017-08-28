@@ -45,7 +45,7 @@ q1.trichdb.org                 tvag034s    apicommDevS         acctdbS          
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.clinepidb.org               gates-rbld  cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth-rbld   gatescommN          acctdbN           webwww            uga_fed     uga_fed
-q1.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.microbiomedb.org            mbio003s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 
 q2.amoebadb.org                ameb034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.cryptodb.org                cryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
@@ -62,7 +62,7 @@ q2.trichdb.org                 tvag034n    apicommDevN         acctdbN          
 q2.tritrypdb.org               tryp034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.clinepidb.org               gates-rbld  gatescommN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.microbiomedb.org            mbio003n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
 w1.amoebadb.org                ameb033s    apicommS            NA                webwww            uga_fed     NA
 w1.cryptodb.org                cryp033s    apicommS            NA                webwww            uga_fed     NA
