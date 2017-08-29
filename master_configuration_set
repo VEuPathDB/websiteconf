@@ -120,16 +120,16 @@ q2.prism.plasmodb.org          prisbl2n     prsmcommN   plasmodbwww   uga_fed
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sites used by the portal
 
-maint.amoebadb.org             ameb033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.cryptodb.org             cryp033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.fungidb.org              fung033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.giardiadb.org            giar033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.microsporidiadb.org      micr033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.piroplasmadb.org         piro033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.plasmodb.org             plas033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.toxodb.org               toxo033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.trichdb.org              tvag033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.tritrypdb.org            tryp033s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.amoebadb.org             ameb034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.cryptodb.org             cryp-inc     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.fungidb.org              fung-inc     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.giardiadb.org            giar034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.microsporidiadb.org      micr034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.piroplasmadb.org         piro034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.plasmodb.org             plas-inc     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.toxodb.org               toxo034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.trichdb.org              tvag034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.tritrypdb.org            tryp034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           amoebadbpatch    uga_fed     uga_fed
