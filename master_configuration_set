@@ -48,9 +48,9 @@ q1.orthomcl.org                orth-rbld   gatescommN          acctdbN          
 q1.microbiomedb.org            mbio003s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 
 q2.amoebadb.org                ameb034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.cryptodb.org                cryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.cryptodb.org                cryp034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.fungidb.org                 fung034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.giardiadb.org               giar034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.hostdb.org                  host034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.microsporidiadb.org         micr034n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
