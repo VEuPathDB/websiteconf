@@ -31,9 +31,9 @@ integrate.microbiomedb.org     rm22735     apicommDevN         acctdbN          
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 q1.amoebadb.org                ameb034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
-q1.cryptodb.org                cryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.cryptodb.org                cryp034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q1.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.fungidb.org                 fung034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.giardiadb.org               giar034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.hostdb.org                  host034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.microsporidiadb.org         micr034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
@@ -42,7 +42,7 @@ q1.plasmodb.org                plas-inc    apicommDevN         acctdbN          
 q1.schistodb.net               schi034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.toxodb.org                  toxo034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.trichdb.org                 tvag034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
-q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.tritrypdb.org               tryp034s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.clinepidb.org               gates-rbld  cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth-rbld   gatescommN          acctdbN           webwww            uga_fed     uga_fed
 q1.microbiomedb.org            mbio003s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
