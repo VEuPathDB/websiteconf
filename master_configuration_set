@@ -8,7 +8,7 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
-gates.clinepidb.org             maled-mtg  gatescommN          acctdbN         webwww                uga_fed     uga_fed
+gates.clinepidb.org             gates-rbld  gatescommN          acctdbN         webwww                uga_fed     uga_fed
 icemr.clinepidb.org             clin-rbld   cecommn             acctdbN         webwww                uga_fed     uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
