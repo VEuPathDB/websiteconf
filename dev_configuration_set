@@ -8,5 +8,10 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
+mheiges.orthomcl.org           orth500s    apicommS           acctdbN          mheiges               uga_fed     uga_fed
+mheiges.trichdb.org            tvag-inc    apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
+mheiges.clinepidb.org          clin-rbld   cecommDevN         acctdbN          mheiges               uga_fed     uga_fed
+mheiges.microbiomedb.org       rm22735     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
+
 swfeltz.toxodb.org             toxo-inc    apicommDevN        acctdbN          toxodbpatch           uga_fed     uga_fed
 
