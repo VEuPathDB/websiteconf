@@ -139,7 +139,7 @@ feature.eupathdb.org           eupa-inc    apicommDevN          acctdbN         
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.plasmodb.org           plas-inc    rm9972               acctdbN           webpatch        uga_fed     uga_fed
+feature.plasmodb.org           plas-inc    rm9972               acctdbN           plasmodbpatch   uga_fed     uga_fed
 feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.toxodb.org             toxo-rbld   gus4commn            acctdbN           webpatch        uga_fed     uga_fed
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
