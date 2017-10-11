@@ -11,7 +11,6 @@ site                           appDb_name  userDb_name      acctDb_name         
 gates.clinepidb.org             gates-rbld  gatescommn          acctdbN         webwww                uga_fed     uga_fed
 icemr.clinepidb.org             clinbl1n    cecommn             acctdbN         webwww                uga_fed     uga_fed
 gems.clinepidb.org              clinbl2n    cecommdevn          acctdbN         webwww                uga_fed     uga_fed
-qa.clinepidb.org                gates-rbld  cecommdevn          acctdbN         webwww                uga_fed     uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
@@ -46,7 +45,7 @@ q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN          
 q1.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.clinepidb.org               gates-rbld  cecommDevN          acctdbN           webwww            uga_fed     uga_fed
-q1.orthomcl.org                orth-rbld   gatescommN          acctdbN           webwww            uga_fed     uga_fed
+q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
@@ -62,7 +61,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.clinepidb.org               gates-rbld  gatescommN          acctdbN           webwww            uga_fed     uga_fed
+q2.clinepidb.org               gates-rbld  cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.microbiomedb.org            mbio-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
