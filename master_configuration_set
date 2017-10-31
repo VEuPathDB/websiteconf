@@ -127,7 +127,7 @@ maint.fungidb.org              fung-inc     apicomms            acctdbS         
 maint.giardiadb.org            giar034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.microsporidiadb.org      micr034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.piroplasmadb.org         piro034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
-maint.plasmodb.org             plas-inc     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
+maint.plasmodb.org             plas-inc     rm15873             acctdbS           aurreco       wdkmaint    uga_fed
 maint.toxodb.org               toxo034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.trichdb.org              tvag034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
 maint.tritrypdb.org            tryp034s     apicomms            acctdbS           aurreco2      uga_fed     uga_fed
