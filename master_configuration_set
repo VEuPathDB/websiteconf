@@ -32,14 +32,14 @@ integrate.microbiomedb.org     rm22735     apicommDevN         acctdbN          
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 q1.amoebadb.org                ameb035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
-q1.cryptodb.org                cryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.cryptodb.org                cryp035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q1.giardiadb.org               giar-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.giardiadb.org               giar035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.hostdb.org                  host-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.microsporidiadb.org         micr035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.piroplasmadb.org            piro035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
-q1.plasmodb.org                plas-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.plasmodb.org                plas035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.schistodb.net               schi035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.trichdb.org                 tvag035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
