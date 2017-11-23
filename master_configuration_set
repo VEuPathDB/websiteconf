@@ -43,7 +43,7 @@ q1.plasmodb.org                plas035s    apicommDevS         acctdbS          
 q1.schistodb.net               schi035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.trichdb.org                 tvag035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
-q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.tritrypdb.org               tryp035s    apicommDevS         acctdbS           webwww            uga_fed     uga_fed
 q1.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
@@ -60,7 +60,7 @@ q2.plasmodb.org                plas-inc    apicommDevN         acctdbN          
 q2.schistodb.net               schi035n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.trichdb.org                 tvag035n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.tritrypdb.org               tryp035n    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.microbiomedb.org            mbio-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
