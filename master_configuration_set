@@ -30,7 +30,7 @@ integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          
 integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.microbiomedb.org     rm22735     apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
+integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 q1.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
@@ -46,7 +46,7 @@ q1.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q1.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q1.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
@@ -63,7 +63,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
-q2.microbiomedb.org            rm22735     apicommDevN         acctdbN           webwww            uga_fed     uga_fed
+q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            uga_fed     uga_fed
 
