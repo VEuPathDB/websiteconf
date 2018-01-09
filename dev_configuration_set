@@ -14,6 +14,6 @@ mheiges.giardiadb.org          rman12c     apicommDevN        acctdbN          m
 mheiges.clinepidb.org          clin-rbld   cecommDevN         acctdbN          mheiges               uga_fed     uga_fed
 mheiges.gates.clinepidb.org    gatebl1n    gatescommN         acctdbN          mheiges               uga_fed     uga_fed
 mheiges.icemr.clinepidb.org    clinbl1n    cecommN            acctdbN          mheiges               uga_fed     uga_fed
-mheiges.microbiomedb.org       rm22735     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
+mheiges.microbiomedb.org       mbio-inc    apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
 
 swfeltz.toxodb.org             toxo-inc    apicommDevN        acctdbN          swfeltz               uga_fed     uga_fed
