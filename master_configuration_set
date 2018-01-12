@@ -47,7 +47,7 @@ q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN          
 q1.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            webwww     uga_fed
+q1.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
@@ -64,7 +64,7 @@ q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN          
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            webwww     uga_fed
+q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
 w1.amoebadb.org                ameb035s    apicommS            acctdbS           webwww            uga_fed     uga_fed
