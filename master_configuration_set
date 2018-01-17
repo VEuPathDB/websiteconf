@@ -117,8 +117,6 @@ r28.tritrypdb.org               tryp028s    r28commS    trypdbwww     uga_fed
 qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 pr1.plasmodb.org               prisbl1s     prsmcommS   plasmodbwww   uga_fed
 pr2.plasmodb.org               prisbl1n     prsmcommN   plasmodbwww   uga_fed
-q1.prism.plasmodb.org          prisbl2n     prsmcommN   plasmodbwww   uga_fed
-q2.prism.plasmodb.org          prisbl2n     prsmcommN   plasmodbwww   uga_fed
 
 # Maint sites, used by cacheModel maint script to generate portal cache with valid question/param values
 # we only need component sites used by the portal
