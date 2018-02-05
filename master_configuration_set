@@ -33,20 +33,20 @@ integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          
 integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
-q1.amoebadb.org                ameb036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
+q1.amoebadb.org                ameb036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
 q1.cryptodb.org                cryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.giardiadb.org               giar036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
-q1.hostdb.org                  host036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
-q1.microsporidiadb.org         micr036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
-q1.piroplasmadb.org            piro036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
+q1.giardiadb.org               giar036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
+q1.hostdb.org                  host036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
+q1.microsporidiadb.org         micr036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
+q1.piroplasmadb.org            piro036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
 q1.plasmodb.org                plas-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.schistodb.net               schi036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
+q1.schistodb.net               schi036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
 q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.trichdb.org                 tvag036s    apicommDevS         acctdbN           webwww            webwww     uga_fed
+q1.trichdb.org                 tvag036s    apicommDevS         acctdbS           webwww            webwww     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
+q1.microbiomedb.org            mbio005s    apicommDevS         acctdbS           webwww            webwww     uga_fed
 q1.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed    uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
@@ -63,7 +63,7 @@ q2.schistodb.net               schi036n    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.trichdb.org                 tvag036n    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
+q2.microbiomedb.org            mbio005n    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
