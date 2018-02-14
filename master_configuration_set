@@ -64,7 +64,7 @@ q2.toxodb.org                  toxo036n    apicommDevN         acctdbN          
 q2.trichdb.org                 tvag036n    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.tritrypdb.org               tryp036n    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.microbiomedb.org            mbio005n    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed     uga_fed
+q2.clinepidb.org               clinbl2n    cecommDevN          acctdbN           webwww            uga_fed    uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
 w1.amoebadb.org                ameb035s    apicommS            acctdbS           webwww            uga_fed     uga_fed
@@ -81,6 +81,7 @@ w1.toxodb.org                  toxo035s    apicommS            acctdbS          
 w1.trichdb.org                 tvag035s    apicommS            acctdbS           webwww            uga_fed     uga_fed
 w1.tritrypdb.org               tryp035s    apicommS            acctdbS           webwww            uga_fed     uga_fed
 w1.microbiomedb.org            mbio004s    apicommS            acctdbS           webwww            uga_fed     uga_fed
+w1.clinepidb.org               clin001s    cecommS             acctdbS           webwww            webwww      uga_fed
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          uga_fed     uga_fed
 
 w2.amoebadb.org                ameb035n    apicommN            acctdbN           webwww            uga_fed     uga_fed
@@ -97,6 +98,7 @@ w2.toxodb.org                  toxo035n    apicommN            acctdbN          
 w2.trichdb.org                 tvag035n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.tritrypdb.org               tryp035n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.microbiomedb.org            mbio004n    apicommN            acctdbN           webwww            uga_fed     uga_fed
+w2.clinepidb.org               clin001n    cecommN             acctdbN           webwww            webwww      uga_fed
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          uga_fed     uga_fed
 
 # r28 uses pre-acctdb column format
