@@ -46,7 +46,7 @@ q1.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.microbiomedb.org            mbio005s    apicommDevS         acctdbS           webwww            webwww     uga_fed
+q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.clinepidb.org               clin001s    cecommS             acctdbS           webwww            webwww     uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
@@ -63,7 +63,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q2.microbiomedb.org            mbio005n    apicommDevN         acctdbN           webwww            webwww     uga_fed
+q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q2.clinepidb.org               clin001n    cecommN             acctdbN           webwww            webwww     uga_fed
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
@@ -80,7 +80,7 @@ w1.schistodb.net               schi036s    apicommS            acctdbS          
 w1.toxodb.org                  toxo036s    apicommS            acctdbS           webwww            uga_fed     uga_fed
 w1.trichdb.org                 tvag036s    apicommS            acctdbS           webwww            uga_fed     uga_fed
 w1.tritrypdb.org               tryp036s    apicommS            acctdbS           webwww            uga_fed     uga_fed
-w1.microbiomedb.org            mbio004s    apicommS            acctdbS           webwww            uga_fed     uga_fed
+w1.microbiomedb.org            mbio005s    apicommS            acctdbS           webwww            uga_fed     uga_fed
 w1.clinepidb.org               clin001s    cecommS             acctdbS           webwww            webwww      uga_fed
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          uga_fed     uga_fed
 
@@ -97,7 +97,7 @@ w2.schistodb.net               schi036n    apicommN            acctdbN          
 w2.toxodb.org                  toxo036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.trichdb.org                 tvag036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.tritrypdb.org               tryp036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
-w2.microbiomedb.org            mbio004n    apicommN            acctdbN           webwww            uga_fed     uga_fed
+w2.microbiomedb.org            mbio005n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.clinepidb.org               clin001n    cecommN             acctdbN           webwww            webwww      uga_fed
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          uga_fed     uga_fed
 
