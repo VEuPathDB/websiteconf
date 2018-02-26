@@ -10,6 +10,7 @@ site                           appDb_name  userDb_name      acctDb_name         
 
 mheiges.orthomcl.org           orthbl2n    apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
 mheiges.trichdb.org            tvag-inc    apicommDevN        acctdbN          mheiges               webwww      mheiges
+#Tracking QA mheiges.eupathdb.org          rman12c     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
 mheiges.giardiadb.org          rman12c     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
 #Tracking integrate. mheiges.clinepidb.org          clinbl2n    cecommDevN         acctdbN          mheiges               uga_fed     uga_fed
 mheiges.gates.clinepidb.org    gatebl1n    gatescommN         acctdbN          mheiges               uga_fed     uga_fed
