@@ -11,7 +11,7 @@ site                           appDb_name  userDb_name      acctDb_name         
 gates.clinepidb.org             gates-rbld  gatescommn          acctdbN         webwww              uga_fed     uga_fed
 icemr.clinepidb.org             clinbl1n    cecommdevn             acctdbN         webwww              uga_fed     uga_fed
 gems.clinepidb.org              gemsbl1n    cecommdevn          acctdbN         webwww              uga_fed     uga_fed
-qa.gates.clinepidb.org          clinbl2n    cecommDevN          acctdbN         webpatch            uga_fed     uga_fed
+qa.gates.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch            uga_fed     uga_fed
 qa.icemr.clinepidb.org          clinbl2n    cecommDevN          acctdbN         webpatch             uga_fed     uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
