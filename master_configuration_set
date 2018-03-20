@@ -129,7 +129,7 @@ maint.fungidb.org              fung036s     rm15873            acctdbS          
 maint.giardiadb.org            giar036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
 maint.microsporidiadb.org      micr036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
 maint.piroplasmadb.org         piro036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
-maint.plasmodb.org             plas036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
+maint.plasmodb.org             plas-inc     rm15873            acctdbS           aurreco      wdkmaint     wdkmaint
 maint.toxodb.org               toxo036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
 maint.trichdb.org              tvag036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
 maint.tritrypdb.org            tryp036s     rm15873            acctdbS           aurreco      uga_fed     uga_fed
