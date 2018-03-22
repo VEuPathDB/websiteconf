@@ -16,7 +16,7 @@ qa.icemr.clinepidb.org          clinbl2n    cecommDevN          acctdbN         
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.clinepidb.org        clin001n   cecommDevN          acctdbN          webintegrate          uga_fed     uga_fed
+integrate.clinepidb.org        clin001s   cecommDevN          acctdbN          webintegrate          uga_fed     uga_fed
 integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
@@ -47,7 +47,7 @@ q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN          
 q1.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
 q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
-q1.clinepidb.org               clin001n    cecommDevN          acctdbN           webwww            uga_fed    uga_fed
+q1.clinepidb.org               clin001s    cecommDevN          acctdbN           webwww            uga_fed    uga_fed
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     uga_fed
 
 q2.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
