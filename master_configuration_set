@@ -14,23 +14,23 @@ gems.clinepidb.org              gemsbl1n    cecommdevn          acctdbN         
 qa.gates.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch            uga_fed     uga_fed
 qa.icemr.clinepidb.org          clinbl2n    cecommDevN          acctdbN         webpatch             uga_fed     uga_fed
 
-# Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate          webwww      uga_fed
-integrate.clinepidb.org        clin001s    cecommDevN          acctdbN          webintegrate          webwww      uga_fed
-integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.giardiadb.org        giar-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.piroplasmadb.org     piro-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.plasmodb.org         plas-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.schistodb.net        schi-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
-integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
+# Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
+integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.clinepidb.org        clin001s    cecommDevN          acctdbN          webintegrate       webintegrate    uga_fed
+integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.giardiadb.org        giar-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.piroplasmadb.org     piro-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.plasmodb.org         plas-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.schistodb.net        schi-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
+integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate       webintegrate    uga_fed
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 q1.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww     uga_fed
