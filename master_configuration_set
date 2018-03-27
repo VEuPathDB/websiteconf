@@ -15,7 +15,7 @@ qa.gates.clinepidb.org          clin-inc    cecommDevN          acctdbN         
 qa.icemr.clinepidb.org          clinbl2n    cecommDevN          acctdbN         webpatch             uga_fed     uga_fed
 
 # Intgration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
+integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate          webwww      uga_fed
 integrate.clinepidb.org        clin001s    cecommDevN          acctdbN          webintegrate          webwww      uga_fed
 integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
 integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          webintegrate          uga_fed     uga_fed
