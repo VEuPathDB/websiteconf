@@ -101,20 +101,6 @@ w2.microbiomedb.org            mbio005n    apicommN            acctdbN          
 w2.clinepidb.org               clin001n    cecommN             acctdbN           webwww            webwww     webwww
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          webwww     webwww
 
-# r28 uses pre-acctdb column format
-r28.amoebadb.org                ameb028s    r28commS    amoebadbwww   uga_fed
-r28.cryptodb.org                cryp028s    r28commS    cryptodbwww   uga_fed
-r28.eupathdb.org                eupa028s    r28commS    eupawww       uga_fed
-r28.fungidb.org                 fung028s    r28commS    fungidbwww    uga_fed
-r28.giardiadb.org               giar028s    r28commS    giardiadbwww  uga_fed
-r28.microsporidiadb.org         micr028s    r28commS    microwww      uga_fed
-r28.piroplasmadb.org            piro028s    r28commS    pirowww       uga_fed
-r28.plasmodb.org                plas028s    r28commS    plasmodbwww   uga_fed
-r28.schistodb.net               schi028s    r28commS    schistowww    uga_fed
-r28.toxodb.org                  toxo028s    r28commS    toxodbwww     uga_fed
-r28.trichdb.org                 tvag028s    r28commS    trichdbwww    uga_fed
-r28.tritrypdb.org               tryp028s    r28commS    trypdbwww     uga_fed
-
 # other (pre-acctdb column format)
 qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 pr1.plasmodb.org               prisbl1s     prsmcommS   plasmodbwww   uga_fed
