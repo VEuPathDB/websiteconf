@@ -84,7 +84,7 @@ w1.microbiomedb.org            mbio005s    apicommS            acctdbS          
 w1.clinepidb.org               clin001s    cecommS             acctdbS           webwww            webwww      uga_fed
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          uga_fed     uga_fed
 
-w2.amoebadb.org                ameb036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
+w2.amoebadb.org                ameb036n    apicommN            acctdbN           webwww            webwww     webwww
 w2.cryptodb.org                cryp036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.eupathdb.org                eupa036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
 w2.fungidb.org                 fung036n    apicommN            acctdbN           webwww            uga_fed     uga_fed
