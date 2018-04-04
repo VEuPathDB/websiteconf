@@ -8,13 +8,13 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
-mheiges.orthomcl.org           orthbl2n    apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
-mheiges.trichdb.org            tvag-inc    apicommDevN        acctdbN          mheiges               webwww      mheiges
-#Tracking QA mheiges.eupathdb.org          rman12c     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
-mheiges.giardiadb.org          rman12c     apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
-#Tracking integrate. mheiges.clinepidb.org          clinbl2n    cecommDevN         acctdbN          mheiges               uga_fed     uga_fed
-mheiges.gates.clinepidb.org    gatebl1n    gatescommN         acctdbN          mheiges               uga_fed     uga_fed
-mheiges.icemr.clinepidb.org    clinbl1n    cecommN            acctdbN          mheiges               uga_fed     uga_fed
-mheiges.microbiomedb.org       mbio-inc    apicommDevN        acctdbN          mheiges               uga_fed     uga_fed
+mheiges.orthomcl.org           orthbl2n    apicommDevN        acctdbN          mheiges               mheiges     mheiges
+mheiges.trichdb.org            tvag-inc    apicommDevN        acctdbN          mheiges               mheiges      mheiges
+#Tracking QA mheiges.eupathdb.org          rman12c     apicommDevN        acctdbN          mheiges               mheiges     mheiges
+mheiges.giardiadb.org          rman12c     apicommDevN        acctdbN          mheiges               mheiges     mheiges
+#Tracking integrate. mheiges.clinepidb.org          clinbl2n    cecommDevN         acctdbN          mheiges               mheiges     mheiges
+mheiges.gates.clinepidb.org    gatebl1n    gatescommN         acctdbN          mheiges               mheiges     mheiges
+mheiges.icemr.clinepidb.org    clinbl1n    cecommN            acctdbN          mheiges               mheiges     mheiges
+mheiges.microbiomedb.org       mbio-inc    apicommDevN        acctdbN          mheiges               mheiges     mheiges
 
-swfeltz.toxodb.org             toxo-inc    apicommDevN        acctdbN          swfeltz               uga_fed     uga_fed
+swfeltz.toxodb.org             toxo-inc    apicommDevN        acctdbN          swfeltz               mheiges     mheiges
