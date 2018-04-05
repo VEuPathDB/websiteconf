@@ -33,7 +33,7 @@ integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          
 integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
-q1.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww     webwww
+q1.amoebadb.org                ameb037s    apicommDevS         acctdbS           webwww            webwww     webwww
 q1.cryptodb.org                cryp037s    apicommDevS         acctdbS           webwww            webwww     webwww
 q1.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            webwww     webwww
 q1.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            webwww     webwww
@@ -50,7 +50,7 @@ q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN          
 q1.clinepidb.org               clin001s    cecommDevN          acctdbS           webwww            webwww     webwww
 q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww     webwww
 
-q2.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww     webwww
+q2.amoebadb.org                ameb037n    apicommDevN         acctdbN           webwww            webwww     webwww
 q2.cryptodb.org                cryp037n    apicommDevN         acctdbN           webwww            webwww     webwww
 q2.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            webwww     webwww
 q2.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            webwww     webwww
