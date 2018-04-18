@@ -35,7 +35,7 @@ integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/w
 
 q1.amoebadb.org                ameb037s    apicommDevS         acctdbS           webwww            webwww     webwww
 q1.cryptodb.org                cryp037s    apicommDevS         acctdbS           webwww            webwww     webwww
-q1.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            webwww     webwww
+q1.eupathdb.org                eupa-inc    apicommDevs         acctdbs           webwww            webwww     webwww
 q1.fungidb.org                 fung-inc    apicommDevN         acctdbN           webwww            webwww     webwww
 q1.giardiadb.org               giar037s    apicommDevS         acctdbS           webwww            webwww     webwww
 q1.hostdb.org                  host-inc    apicommDevN         acctdbN           webwww            webwww     webwww
