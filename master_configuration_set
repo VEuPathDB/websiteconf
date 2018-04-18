@@ -8,7 +8,7 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
-gates.clinepidb.org             gates-rbld  gatescommn          acctdbN         webwww              uga_fed     webwww
+gates.clinepidb.org             clinbl1n    gatescommn          acctdbN         webwww              uga_fed     webwww
 icemr.clinepidb.org             clinbl1n    cecommdevn          acctdbN         webwww              webwww      webwww
 gems.clinepidb.org              gemsbl1n    cecommdevn          acctdbN         webwww              webwww      webwww
 qa.gates.clinepidb.org          clinbl1n    cecommDevN          acctdbN         webpatch            webpatch    webpatch
