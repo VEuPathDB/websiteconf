@@ -16,7 +16,7 @@ qa.icemr.clinepidb.org          clinbl1n    cecommDevN          acctdbN         
 
 # Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.clinepidb.org        clin001s    cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate
+integrate.clinepidb.org        clin-inc    cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate
 integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.eupathdb.org         eupabl1n    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
