@@ -43,7 +43,7 @@ q1.microsporidiadb.org         micr038s    apicommDevS         acctdbS          
 q1.piroplasmadb.org            piro038s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas038s    apicommDevN         acctdbN           webwww            webwww          webwww
 q1.schistodb.net               schi038s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q1.toxodb.org                  toxo038s    apicommDevN         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag038s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp038s    apicommDevN         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
@@ -60,7 +60,7 @@ q2.microsporidiadb.org         micr038n    apicommDevN         acctdbN          
 q2.piroplasmadb.org            piro038n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas038n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi038n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.toxodb.org                  toxo038n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag038n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp038n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommN            acctdbN           webwww            webwww          webwww
