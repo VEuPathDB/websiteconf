@@ -33,22 +33,22 @@ integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          
 integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
-q1.amoebadb.org                ameb039s    apicommDevN         acctdbN           webwww            webwww          webwww
-q1.cryptodb.org                cryp039s    apicommDevN         acctdbN           webwww            webwww          webwww
-q1.eupathdb.org                eupabl1n    apicommDevN         acctdbN           webwww            webwww          webwww
-q1.fungidb.org                 fung039s    apicommDevN         acctdbN           webwww            webwww          webwww
+q1.amoebadb.org                ameb039s    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.cryptodb.org                cryp039s    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.eupathdb.org                eupabl1n    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.fungidb.org                 fung039s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.giardiadb.org               giar039s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host039s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr039s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.piroplasmadb.org            piro039s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.plasmodb.org                plas039s    apicommDevN         acctdbN           webwww            webwww          webwww
+q1.plasmodb.org                plas039s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.schistodb.net               schi039s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.toxodb.org                  toxo039s    apicommDevN         acctdbN           webwww            webwww          webwww
+q1.toxodb.org                  toxo039s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag039s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.tritrypdb.org               tryp039s    apicommDevN         acctdbN           webwww            webwww          webwww
-q1.microbiomedb.org            mbio008s    apicommDevN         acctdbN           webwww            webwww          webwww
-q1.clinepidb.org               clin004s    cecommDevN          acctdbN           webwww            webwww          webwww
-q1.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
+q1.tritrypdb.org               tryp039s    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.microbiomedb.org            mbio008s    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.clinepidb.org               clin004s    cecommDevS          acctdbN           webwww            webwww          webwww
+q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb039n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp039n    apicommDevN         acctdbN           webwww            webwww          webwww
