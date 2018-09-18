@@ -8,11 +8,11 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
-gates.clinepidb.org             clinbl1n    cecommDevN          acctdbN         webwww             webwww          webwww
-icemr.clinepidb.org             clinbl1n    cecommdevn          acctdbN         webwww             webwww          webwww
+gates.clinepidb.org             clin-inc    cecommDevN          acctdbN         webwww             webwww          webwww
+icemr.clinepidb.org             clin-inc    cecommdevn          acctdbN         webwww             webwww          webwww
 gems.clinepidb.org              gemsbl1n    cecommdevn          acctdbN         webwww             webwww          webwww
-qa.gates.clinepidb.org          clinbl1n    cecommDevN          acctdbN         webpatch           webpatch        webpatch
-qa.icemr.clinepidb.org          clinbl1n    cecommDevN          acctdbN         webpatch           webpatch        webpatch
+qa.gates.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
+qa.icemr.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
 
 # Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
