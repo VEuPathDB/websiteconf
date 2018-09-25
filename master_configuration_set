@@ -34,7 +34,7 @@ integrate.microbiomedb.org     mbio-inc    apicommDevN         acctdbN          
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 q1.amoebadb.org                ameb040s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.cryptodb.org                cryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.cryptodb.org                cryp040s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.eupathdb.org                eupa-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.fungidb.org                 fung040s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.giardiadb.org               giar-inc    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -54,10 +54,10 @@ q2.amoebadb.org                ameb040n    apicommDevN         acctdbN          
 q2.cryptodb.org                cryp040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.eupathdb.org                eupa-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.fungidb.org                 fung040n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.giardiadb.org               giar-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.giardiadb.org               giar040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microsporidiadb.org         micr-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.piroplasmadb.org            piro-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microsporidiadb.org         micr040n    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.piroplasmadb.org            piro040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo040n    apicommDevN         acctdbN           webwww            webwww          webwww
