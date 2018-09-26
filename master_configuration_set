@@ -39,12 +39,12 @@ q1.eupathdb.org                eupa-inc    apicommDevS         acctdbN          
 q1.fungidb.org                 fung040s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.giardiadb.org               giar040s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host040s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.microsporidiadb.org         micr-inc    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.piroplasmadb.org            piro-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.microsporidiadb.org         micr040s    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.piroplasmadb.org            piro040s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas040s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.schistodb.net               schi-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.schistodb.net               schi040s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.toxodb.org                  toxo040s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.trichdb.org                 tvag040s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp040s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbN           webwww            webwww          webwww
