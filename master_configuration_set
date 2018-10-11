@@ -46,8 +46,8 @@ q1.schistodb.net               schi040s    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo040s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag040s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp040s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.clinepidb.org               clin-inc    cecommDevS          acctdbN           webwww            webwww          webwww
+q1.microbiomedb.org            mbio040s    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.clinepidb.org               clin040s    cecommDevS          acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb040n    apicommDevN         acctdbN           webwww            webwww          webwww
@@ -63,8 +63,8 @@ q2.schistodb.net               schi040n    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag040n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp040n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio040n    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin040n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb039s    apicommS            acctdbS           webwww            webwww          webwww
