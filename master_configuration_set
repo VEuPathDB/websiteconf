@@ -46,7 +46,7 @@ q1.schistodb.net               schi-inc    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.microbiomedb.org            mbioastmh    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
 
@@ -63,7 +63,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbioastmh    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 
