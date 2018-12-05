@@ -124,7 +124,7 @@ maint.tritrypdb.org            tryp037s     apicomms           acctdbS          
 feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.clinepidb.org          gates-rbld  gatescommN           acctdbN           webpatch        uga_fed     uga_fed
 feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.eupathdb.org           rm30362     apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
+feature.eupathdb.org           rm30362     apicommDevN          acctdbN           webpatch        webwww      webwww
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
