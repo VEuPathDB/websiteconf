@@ -40,7 +40,7 @@ q1.fungidb.org                 fung-inc    apicommDevS         acctdbN          
 q1.giardiadb.org               giar042s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host042s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr042s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.piroplasmadb.org            piro-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.piroplasmadb.org            piro042s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.schistodb.net               schi042s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbN           webwww            webwww          webwww
@@ -57,7 +57,7 @@ q2.fungidb.org                 fung-inc    apicommDevN         acctdbN          
 q2.giardiadb.org               giar042n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host042n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr042n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.piroplasmadb.org            piro-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.piroplasmadb.org            piro042n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi042n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
