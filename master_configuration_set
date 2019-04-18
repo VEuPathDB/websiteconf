@@ -45,7 +45,7 @@ q1.plasmodb.org                plas043s    apicommDevS         acctdbN          
 q1.schistodb.net               schi043s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.toxodb.org                  toxo043s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag043s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.tritrypdb.org               tryp043s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-dg    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
@@ -62,7 +62,7 @@ q2.plasmodb.org                plas043n    apicommDevN         acctdbN          
 q2.schistodb.net               schi043n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo043n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag043n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.tritrypdb.org               tryp043n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
