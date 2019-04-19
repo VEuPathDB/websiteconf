@@ -49,6 +49,8 @@ q1.tritrypdb.org               tryp043s    apicommDevS         acctdbN          
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-dg    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
+q1.gates.clinepidb.org         clin-dg    cecommDevS          acctdbS         webpatch           webpatch        webpatch
+q1.icemr.clinepidb.org         clin-dg    cecommDevS          acctdbS         webpatch           webpatch        webpatch
 
 q2.amoebadb.org                ameb043n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp043n    apicommDevN         acctdbN           webwww            webwww          webwww
@@ -66,6 +68,8 @@ q2.tritrypdb.org               tryp043n    apicommDevN         acctdbN          
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
+q2.gates.clinepidb.org         clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
+q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
 
 w1.amoebadb.org                ameb042s    apicommS            acctdbS           webwww            webwww          webwww
 w1.cryptodb.org                cryp042s    apicommS            acctdbS           webwww            webwww          webwww
