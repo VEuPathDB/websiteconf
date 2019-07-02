@@ -130,7 +130,7 @@ maint.tritrypdb.org            tryp037s     apicomms           acctdbS          
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.clinepidb.org          gates-rbld  gatescommN           acctdbN           webpatch        webpatch    webpatch
+feature.clinepidb.org          clin-inc    cecommDevN           acctdbN           webpatch        webpatch    webpatch
 feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.eupathdb.org           rm30362     apicommDevN          acctdbN           webwww          webwww      webwww
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
