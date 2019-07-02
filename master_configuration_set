@@ -129,20 +129,20 @@ maint.trichdb.org              tvag037s     apicomms           acctdbS          
 maint.tritrypdb.org            tryp037s     apicomms           acctdbS           aurreco      aurreco     aurreco
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.clinepidb.org          gates-rbld  gatescommN           acctdbN           webpatch        uga_fed     uga_fed
-feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
+feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.clinepidb.org          gates-rbld  gatescommN           acctdbN           webpatch        webpatch    webpatch
+feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.eupathdb.org           rm30362     apicommDevN          acctdbN           webwww          webwww      webwww
-feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.plasmodb.org           plas-inc    rm9972               acctdbN           webpatch        uga_fed     uga_fed
-feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.toxodb.org             toxo-inc    apicommdevn          acctdbN           aurreco         aurreco     aurreco
-feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        uga_fed     uga_fed
-feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      uga_fed     uga_fed
+feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.plasmodb.org           plas-inc    rm9972               acctdbN           webpatch        webpatch    webpatch
+feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.toxodb.org             toxo-inc    apicommdevn          acctdbN           webpatch        webpatch    webpatch
+feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
 
 
