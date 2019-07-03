@@ -66,7 +66,7 @@ q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN          
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin-rbld   cecommDevN          acctdbN           webwww            webwww          webwww
 q2.gates.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
