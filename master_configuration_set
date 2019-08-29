@@ -41,7 +41,7 @@ q1.giardiadb.org               giar-inc    apicommDevS         acctdbS          
 q1.hostdb.org                  host045s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr045s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.piroplasmadb.org            piro045s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.plasmodb.org                plas-inc    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.plasmodb.org                plas045s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.schistodb.net               schi045s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.toxodb.org                  toxo045s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag045s    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -60,7 +60,7 @@ q2.giardiadb.org               giar-inc    apicommDevN         acctdbN          
 q2.hostdb.org                  host045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.piroplasmadb.org            piro045n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.plasmodb.org                plas-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.plasmodb.org                plas045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag045n    apicommDevN         acctdbN           webwww            webwww          webwww
