@@ -47,9 +47,9 @@ q1.toxodb.org                  toxo045s    apicommDevS         acctdbN          
 q1.trichdb.org                 tvag045s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp045s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio045s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.clinepidb.org               clin-dg     cecommDevS          acctdbS           webwww            webwww          webwww
-q1.gates.clinepidb.org         clin-dg     cecommDevS          acctdbS           webwww            webwww          webwww
-q1.icemr.clinepidb.org         clin-dg     cecommDevS          acctdbS           webwww            webwww          webwww
+q1.clinepidb.org               clin045s     cecommDevS          acctdbS           webwww            webwww          webwww
+q1.gates.clinepidb.org         clin045s     cecommDevS          acctdbS           webwww            webwww          webwww
+q1.icemr.clinepidb.org         clin045s     cecommDevS          acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb045n    apicommDevN         acctdbN           webwww            webwww          webwww
@@ -66,9 +66,9 @@ q2.toxodb.org                  toxo045n    apicommDevN         acctdbN          
 q2.trichdb.org                 tvag045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp045n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio045n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.gates.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin045n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.gates.clinepidb.org         clin045n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.icemr.clinepidb.org         clin045n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb044s    apicommS            acctdbS           webwww            webwww          webwww
