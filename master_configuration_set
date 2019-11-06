@@ -67,7 +67,7 @@ q2.toxodb.org                  toxo046n    apicommDevN         acctdbN          
 q2.trichdb.org                 tvag046n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp046n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio046n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin046n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.gates.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin046n    cecommDevN          acctdbN           webwww            webwww          webwww
