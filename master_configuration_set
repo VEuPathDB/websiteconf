@@ -90,6 +90,7 @@ w1.microbiomedb.org            mbio046s    apicommS            acctdbS          
 w1.clinepidb.org               clin046s    cecommS             acctdbS           webwww            webwww          webwww
 w1.gates.clinepidb.org         clin046s    cecommS             acctdbS           webwww            webwww          webwww
 w1.icemr.clinepidb.org         clin046s    cecommS             acctdbS           webwww            webwww          webwww
+w1.restricted.clinepidb.org    clin046s    cecommS             acctdbS           webwww            webwww          webwww
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          webwww          webwww
 
 w2.amoebadb.org                ameb046n    apicommN            acctdbN           webwww            webwww          webwww
@@ -109,6 +110,7 @@ w2.microbiomedb.org            mbio046n    apicommN            acctdbN          
 w2.clinepidb.org               clin046n    cecommN             acctdbN           webwww            webwww          webwww
 w2.gates.clinepidb.org         clin046n    cecommN             acctdbN           webwww            webwww          webwww
 w2.icemr.clinepidb.org         clin046n    cecommN             acctdbN           webwww            webwww          webwww
+w2.restricted.clinepidb.org    clin046s    cecommS             acctdbS           webwww            webwww          webwww
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          webwww          webwww
 
 # other (pre-acctdb column format)
