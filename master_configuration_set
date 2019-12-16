@@ -140,7 +140,7 @@ feature.eupathdb.org           uni-inc     apicommDevN          acctdbN         
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.plasmodb.org           plas-046n   apicommN             acctdbN           webpatch        webpatch    webpatch
+feature.plasmodb.org           plas046n    apicommN             acctdbN           webpatch        webpatch    webpatch
 feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.toxodb.org             toxo-inc    rm35304a             acctdbN           webpatch        webpatch    webpatch
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
