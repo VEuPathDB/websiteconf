@@ -52,6 +52,7 @@ q1.clinepidb.org               clin-dg     cecommDevS          acctdbS          
 q1.gates.clinepidb.org         clin-dg     cecommDevS          acctdbS           webwww            webwww          webwww
 q1.icemr.clinepidb.org         clin-dg     cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin-dg    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                orth-rbld   apicommDevS         acctdbN           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb-inc    apicommDevN         acctdbN           webwww            webwww          webwww
@@ -72,6 +73,7 @@ q2.clinepidb.org               clin-inc    cecommDevN          acctdbN          
 q2.gates.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb046s    apicommS            acctdbS           webwww            webwww          webwww
