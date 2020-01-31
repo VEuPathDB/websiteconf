@@ -72,7 +72,7 @@ q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN          
 q2.clinepidb.org               clin-dg    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.gates.clinepidb.org         clin-dg    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.icemr.clinepidb.org         clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin-dg    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 
