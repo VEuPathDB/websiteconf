@@ -8,12 +8,6 @@
 # hash keys and their values must not be changed.
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
-gates.clinepidb.org             clin-inc    cecommDevN          acctdbN         webwww             webwww          webwww
-icemr.clinepidb.org             clin-inc    cecommdevn          acctdbN         webwww             webwww          webwww
-gems.clinepidb.org              gemsbl1n    cecommdevn          acctdbN         webwww             webwww          webwww
-qa.gates.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
-qa.icemr.clinepidb.org          clin-inc    cecommDevN          acctdbN         webpatch           webpatch        webpatch
-
 # Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
 integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.clinepidb.org        clin-inc    cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate
@@ -49,8 +43,6 @@ q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS          
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio461s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin461s     cecommDevS          acctdbS           webwww            webwww          webwww
-q1.gates.clinepidb.org         clin461s     cecommDevS          acctdbS           webwww            webwww          webwww
-q1.icemr.clinepidb.org         clin461s     cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin461s    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                rm34391     apicommDevS         acctdbN           webwww            webwww          webwww
@@ -70,8 +62,6 @@ q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN          
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio461n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.gates.clinepidb.org         clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.icemr.clinepidb.org         clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                rm34391     apicommDevN         acctdbN           webwww            webwww          webwww
