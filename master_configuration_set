@@ -41,9 +41,9 @@ q1.schistodb.net               schi-inc    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.microbiomedb.org            mbio461s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.clinepidb.org               clin461s     cecommDevS          acctdbS           webwww            webwww          webwww
-q1.restricted.clinepidb.org    clin461s    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                rm34391     apicommDevS         acctdbN           webwww            webwww          webwww
 
@@ -60,9 +60,9 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio461n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin461n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                rm34391     apicommDevN         acctdbN           webwww            webwww          webwww
 
