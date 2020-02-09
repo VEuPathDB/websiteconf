@@ -43,7 +43,7 @@ q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS          
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
-q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q1.orthomcl.org                rm34391     apicommDevS         acctdbN           webwww            webwww          webwww
 
@@ -62,7 +62,7 @@ q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN          
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                rm34391     apicommDevN         acctdbN           webwww            webwww          webwww
 
@@ -81,7 +81,7 @@ w1.trichdb.org                 tvag046s    apicommS            acctdbS          
 w1.tritrypdb.org               tryp046s    apicommS            acctdbS           webwww            webwww          webwww
 w1.microbiomedb.org            mbio461s    apicommS            acctdbS           webwww            webwww          webwww
 w1.clinepidb.org               clin461s    cecommS             acctdbS           webwww            webwww          webwww
-w1.restricted.clinepidb.org    clin461n    cecommS             acctdbS           webwww            webwww          webwww
+w1.restricted.clinepidb.org    clin461n    cecommS             acctdbS           webwww2           webwww          webwww
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          webwww          webwww
 
 w2.amoebadb.org                ameb046n    apicommN            acctdbN           webwww            webwww          webwww
@@ -99,7 +99,7 @@ w2.trichdb.org                 tvag046n    apicommN            acctdbN          
 w2.tritrypdb.org               tryp046n    apicommN            acctdbN           webwww            webwww          webwww
 w2.microbiomedb.org            mbio461n    apicommN            acctdbN           webwww            webwww          webwww
 w2.clinepidb.org               clin461n    cecommN             acctdbN           webwww            webwww          webwww
-w2.restricted.clinepidb.org    clin461s    cecommS             acctdbS           webwww            webwww          webwww
+w2.restricted.clinepidb.org    clin461s    cecommS             acctdbS           webwww2           webwww          webwww
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          webwww          webwww
 
 # other (pre-acctdb column format)
