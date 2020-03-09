@@ -24,7 +24,7 @@ integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          
 integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.orthomcl.org         orth-rbld   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.microbiomedb.org     mbio-rbld   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.microbiomedb.org     mbio-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.vectorbase.org       vect-rbld2   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
@@ -61,7 +61,7 @@ q2.schistodb.net               schi-inc    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-rbld   apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio-inc   apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-tmp  apicommDevN         acctdbN           webwww            webwww          webwww
