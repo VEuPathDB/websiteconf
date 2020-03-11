@@ -138,6 +138,7 @@ feature.trichdb.org            tvag-inc    apicommDevN          acctdbN         
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.vectorbase.org         vect-tmp    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
 
 
