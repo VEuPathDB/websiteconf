@@ -140,5 +140,6 @@ feature.fungidb.org            fung-inc    apicommDevN          acctdbN         
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.vectorbase.org         vect-rbld   apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
+feature.veupathdb.org          uni-inc     apicommDevN          acctdbN           webwww          webwww      webwww
 
 
