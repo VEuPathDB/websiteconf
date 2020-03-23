@@ -133,7 +133,7 @@ feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN         
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.plasmodb.org           plas-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.toxodb.org             toxo-inc    rm35304a             acctdbN           webpatch        webpatch    webpatch
+feature.toxodb.org             toxo-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
