@@ -41,7 +41,7 @@ q1.schistodb.net               schi047s    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo047s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.trichdb.org                 tvag047s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp047s    apicommDevS         acctdbN           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbN           webwww            webwww          webwww
+q1.microbiomedb.org            mbio047s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -61,7 +61,7 @@ q2.schistodb.net               schi047n    apicommDevN         acctdbN          
 q2.toxodb.org                  toxo047n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag047n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp047n    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio047n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-rbld    apicommDevN         acctdbN           webwww            webwww          webwww
