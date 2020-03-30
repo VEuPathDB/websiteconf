@@ -80,7 +80,7 @@ q1.tritrypdb.org               tryp047s    apicommDevS         acctdbN          
 q1.microbiomedb.org            mbio047s    apicommDevS         acctdbN           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
-q1.vectorbase.org              vect-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth-inc    apicommDevS         acctdbN           webwww            webwww          webwww
 
@@ -100,7 +100,7 @@ q2.tritrypdb.org               tryp047n    apicommbetaN         acctdbN         
 q2.microbiomedb.org            mbio047n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
-q2.vectorbase.org              vect-rbld    apicommbetaN         acctdbN           webwww            webwww          webwww
+q2.vectorbase.org              vect-inc    apicommbetaN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommbetaN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-inc    apicommbetaN         acctdbN           webwww            webwww          webwww
 
@@ -174,7 +174,7 @@ feature.trichdb.org            tvag-inc    apicommDevN          acctdbN         
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.vectorbase.org         vect-rbld   apicommbetaN          acctdbN           webpatch        webpatch    webpatch
+feature.vectorbase.org         vect-inc   apicommbetaN          acctdbN           webpatch        webpatch    webpatch
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
 feature.veupathdb.org          eupa-inc     apicommbetaN          acctdbN          webpatch        webpatch    webpatch
 
