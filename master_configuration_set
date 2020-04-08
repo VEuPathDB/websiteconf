@@ -118,9 +118,9 @@ w1.schistodb.net               schi046s    apicommS            acctdbS          
 w1.toxodb.org                  toxo046s    apicommS            acctdbS           webwww            webwww          webwww
 w1.trichdb.org                 tvag046s    apicommS            acctdbS           webwww            webwww          webwww
 w1.tritrypdb.org               tryp046s    apicommS            acctdbS           webwww            webwww          webwww
-w1.microbiomedb.org            mbio461s    apicommS            acctdbS           webwww            webwww          webwww
-w1.clinepidb.org               clin461s    cecommS             acctdbS           webwww            webwww          webwww
-w1.restricted.clinepidb.org    clin461s    cecommS             acctdbS           webwww2           webwww          webwww
+w1.microbiomedb.org            mbio047s    apicommS            acctdbS           webwww            webwww          webwww
+w1.clinepidb.org               clin047s    cecommS             acctdbS           webwww            webwww          webwww
+w1.restricted.clinepidb.org    clin047s    cecommS             acctdbS           webwww2           webwww          webwww
 w1.orthomcl.org                orth501s    apicommS            acctdbS           orthowww          webwww          webwww
 
 w2.amoebadb.org                ameb046n    apicommN            acctdbN           webwww            webwww          webwww
@@ -136,9 +136,9 @@ w2.schistodb.net               schi046n    apicommN            acctdbN          
 w2.toxodb.org                  toxo046n    apicommN            acctdbN           webwww            webwww          webwww
 w2.trichdb.org                 tvag046n    apicommN            acctdbN           webwww            webwww          webwww
 w2.tritrypdb.org               tryp046n    apicommN            acctdbN           webwww            webwww          webwww
-w2.microbiomedb.org            mbio461n    apicommN            acctdbN           webwww            webwww          webwww
-w2.clinepidb.org               clin461n    cecommN             acctdbN           webwww            webwww          webwww
-w2.restricted.clinepidb.org    clin461n    cecommS             acctdbS           webwww2           webwww          webwww
+w2.microbiomedb.org            mbio047n    apicommN            acctdbN           webwww            webwww          webwww
+w2.clinepidb.org               clin047n    cecommN             acctdbN           webwww            webwww          webwww
+w2.restricted.clinepidb.org    clin047n    cecommS             acctdbS           webwww2           webwww          webwww
 w2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          webwww          webwww
 
 # other (pre-acctdb column format)
