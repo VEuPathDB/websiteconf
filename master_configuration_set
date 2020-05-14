@@ -83,7 +83,7 @@ q1.clinepidb.org               clin-inc    cecommDevS          acctdbS          
 q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.orthomcl.org                orth-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.orthomcl.org                orth047s    apicommDevS         acctdbS           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww
@@ -103,7 +103,7 @@ q2.clinepidb.org               clin-inc    cecommDevN          acctdbN          
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.orthomcl.org                orth-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.orthomcl.org                orth047s    apicommdevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb046s    apicommS            acctdbS           webwww            webwww          webwww
 w1.cryptodb.org                cryp046s    apicommS            acctdbS           webwww            webwww          webwww
