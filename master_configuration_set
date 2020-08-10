@@ -78,9 +78,9 @@ q1.schistodb.net               schi048s    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo048s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.trichdb.org                 tvag048s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp048s    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
-q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
+q1.microbiomedb.org            mbio048s    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.clinepidb.org               clin048s    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.restricted.clinepidb.org    clin048s    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect048s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.veupathdb.org               eupa048s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth047s    apicommDevS         acctdbS           webwww            webwww          webwww
