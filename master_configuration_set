@@ -121,7 +121,7 @@ w1.tritrypdb.org               tryp048s    apicommS            acctdbS          
 w1.microbiomedb.org            mbio048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.clinepidb.org               clin048s    cecommS             acctdbS           webwww            webwww          webwww
 w1.restricted.clinepidb.org    clin048s    cecommS             acctdbS           webwww2           webwww          webwww
-w1.orthomcl.org                orth048s    apicommS            acctdbS           orthowww          webwww          webwww
+w1.orthomcl.org                orth048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.vectorbase.org              vect048s    apicommS            acctdbS           webwww            webwww          webwww
 
 w2.amoebadb.org                ameb048n    apicommN            acctdbN           webwww            webwww          webwww
@@ -140,7 +140,7 @@ w2.tritrypdb.org               tryp048n    apicommN            acctdbN          
 w2.microbiomedb.org            mbio048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.clinepidb.org               clin048n    cecommN             acctdbN           webwww            webwww          webwww
 w2.restricted.clinepidb.org    clin048n    cecommS             acctdbS           webwww2           webwww          webwww
-w2.orthomcl.org                orth048n    apicommN            acctdbN           orthowww          webwww          webwww
+w2.orthomcl.org                orth048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.vectorbase.org              vect048n    apicommN            acctdbN           webwww            webwww          webwww
 
 # legacy sites
