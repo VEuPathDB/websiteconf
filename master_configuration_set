@@ -107,7 +107,7 @@ q2.orthomcl.org                orth048n    apicommdevN         acctdbN          
 
 w1.amoebadb.org                ameb048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.cryptodb.org                cryp048s    apicommS            acctdbS           webwww            webwww          webwww
-w1.eupathdb.org                eupa048s    apicommS            acctdbS           webwww            webwww          webwww
+w1.veupathdb.org               eupa048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.fungidb.org                 fung048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.giardiadb.org               giar048s    apicommS            acctdbS           webwww            webwww          webwww
 w1.hostdb.org                  host048s    apicommS            acctdbS           webwww            webwww          webwww
@@ -125,7 +125,7 @@ w1.orthomcl.org                orth048s    apicommS            acctdbS          
 
 w2.amoebadb.org                ameb048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.cryptodb.org                cryp048n    apicommN            acctdbN           webwww            webwww          webwww
-w2.eupathdb.org                eupa048n    apicommN            acctdbN           webwww            webwww          webwww
+w2.veupathdb.org               eupa048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.fungidb.org                 fung048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.giardiadb.org               giar048n    apicommN            acctdbN           webwww            webwww          webwww
 w2.hostdb.org                  host048n    apicommN            acctdbN           webwww            webwww          webwww
