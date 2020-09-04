@@ -172,7 +172,7 @@ l2.schistodb.net               schi046n    apicommlegacyN            acctdbN    
 l2.toxodb.org                  toxo046n    apicommlegacyN            acctdbN           webwww            webwww          webwww
 l2.trichdb.org                 tvag046n    apicommlegacyN            acctdbN           webwww            webwww          webwww
 l2.tritrypdb.org               tryp046n    apicommlegacyN            acctdbN           webwww            webwww          webwww
-l2.orthomcl.org                orth501n    apicommN            acctdbN           orthowww          webwww          webwww
+l2.orthomcl.org                orth501n    apicommlegacyN            acctdbN           orthowww          webwww          webwww
 
 # other (pre-acctdb column format)
 qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
