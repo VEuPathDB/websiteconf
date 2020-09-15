@@ -9,7 +9,7 @@
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login
 
 # Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.amoebadb.org         ameb-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.clinepidb.org        clin-inc    cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate
 integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.eupathdb.org         eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
@@ -17,15 +17,15 @@ integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          
 integrate.giardiadb.org        giar-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.piroplasmadb.org     piro-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.piroplasmadb.org     piro-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.plasmodb.org         plas-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.schistodb.net        schi-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.toxodb.org           toxo-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.orthomcl.org         orth-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.microbiomedb.org     mbio-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.vectorbase.org       vect-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.vectorbase.org       vect-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
