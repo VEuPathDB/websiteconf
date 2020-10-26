@@ -99,8 +99,8 @@ q2.toxodb.org                  toxo-rbld    apicommdevN         acctdbN         
 q2.trichdb.org                 tvag049n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp049n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
+q2.clinepidb.org               clin049n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin049n    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-inc    apicommdevN         acctdbN           webwww            webwww          webwww
