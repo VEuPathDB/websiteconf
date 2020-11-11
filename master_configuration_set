@@ -78,7 +78,7 @@ q1.schistodb.net               schi-inc    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.microbiomedb.org            mbio049s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -98,7 +98,7 @@ q2.schistodb.net               schi-inc    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio049n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww
