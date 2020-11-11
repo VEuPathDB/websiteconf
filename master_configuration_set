@@ -118,7 +118,7 @@ w1.schistodb.net               schi049s    apicommS            acctdbS          
 w1.toxodb.org                  toxo049s    apicommS            acctdbS           webwww            webwww          webwww
 w1.trichdb.org                 tvag049s    apicommS            acctdbS           webwww            webwww          webwww
 w1.tritrypdb.org               tryp049s    apicommS            acctdbS           webwww            webwww          webwww
-w1.microbiomedb.org            mbio048s    apicommS            acctdbS           webwww            webwww          webwww
+w1.microbiomedb.org            mbio049s    apicommS            acctdbS           webwww            webwww          webwww
 w1.clinepidb.org               clin049s    cecommS             acctdbS           webwww            webwww          webwww
 w1.restricted.clinepidb.org    clin049s    cecommS             acctdbS           webwww2           webwww          webwww
 w1.orthomcl.org                orth049s    apicommS            acctdbS           webwww            webwww          webwww
@@ -137,7 +137,7 @@ w2.schistodb.net               schi049n    apicommN            acctdbN          
 w2.toxodb.org                  toxo049n    apicommN            acctdbN           webwww            webwww          webwww
 w2.trichdb.org                 tvag049n    apicommN            acctdbN           webwww            webwww          webwww
 w2.tritrypdb.org               tryp049n    apicommN            acctdbN           webwww            webwww          webwww
-w2.microbiomedb.org            mbio048n    apicommN            acctdbN           webwww            webwww          webwww
+w2.microbiomedb.org            mbio049n    apicommN            acctdbN           webwww            webwww          webwww
 w2.clinepidb.org               clin049n    cecommN             acctdbN           webwww            webwww          webwww
 w2.restricted.clinepidb.org    clin049n    cecommS             acctdbS           webwww2           webwww          webwww
 w2.orthomcl.org                orth049n    apicommN            acctdbN           webwww            webwww          webwww
