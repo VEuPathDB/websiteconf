@@ -206,7 +206,7 @@ feature.schistodb.net          schi-inc    apicommDevN          acctdbN         
 feature.toxodb.org             toxo-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
+feature.fungidb.org            fung-rbld   apicommDevN          acctdbN           webwww          webwww      webwww
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.vectorbase.org         vect047n    apicommbetaN          acctdbN           webpatch        webpatch    webpatch
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
