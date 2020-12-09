@@ -78,10 +78,10 @@ q1.schistodb.net               schi050s    apicommDevS         acctdbS          
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.trichdb.org                 tvag050s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp050s    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
-q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
-q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.microbiomedb.org            mbio050s    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.clinepidb.org               clin050s    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.restricted.clinepidb.org    clin050s    cecommDevS          acctdbS           webwww2           webwww          webwww
+q1.vectorbase.org              vect050s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth050s    apicommDevS         acctdbS           webwww            webwww          webwww
 
@@ -98,9 +98,9 @@ q2.schistodb.net               schi050n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp050n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
+q2.microbiomedb.org            mbio050n    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.clinepidb.org               clin050n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin050n    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth050n    apicommdevN         acctdbN           webwww            webwww          webwww
