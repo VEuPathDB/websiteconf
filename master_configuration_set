@@ -91,7 +91,7 @@ q2.giardiadb.org               giar050n    apicommdevN         acctdbN          
 q2.hostdb.org                  host050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.piroplasmadb.org            piro050n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.plasmodb.org                plas050s    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.plasmodb.org                plas050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag050n    apicommdevN         acctdbN           webwww            webwww          webwww
@@ -100,7 +100,7 @@ q2.microbiomedb.org            mbio050n    apicommDevN         acctdbN          
 q2.clinepidb.org               clin050n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin050n    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect050n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.veupathdb.org               eupa050s    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.veupathdb.org               eupa050n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth050n    apicommdevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb049s    apicommS            acctdbS           webwww            webwww          webwww
