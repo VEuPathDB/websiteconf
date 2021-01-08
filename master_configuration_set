@@ -13,7 +13,7 @@ integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          
 integrate.clinepidb.org        clin-inc    cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate
 integrate.cryptodb.org         cryp-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.eupathdb.org         eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
-integrate.fungidb.org          fung-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
+integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.giardiadb.org        giar-rbld    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
 integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate
@@ -67,7 +67,7 @@ b2.orthomcl.org                orth047n    apicommN         acctdbN           we
 
 q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.cryptodb.org                cryp-rbld    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.fungidb.org                 fung-rbld    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.giardiadb.org               giar-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr-inc    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -86,7 +86,7 @@ q1.orthomcl.org                orth-inc    apicommDevS         acctdbS          
 
 q2.amoebadb.org                ameb-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.fungidb.org                 fung-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.giardiadb.org               giar-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr-inc    apicommdevN         acctdbN           webwww            webwww          webwww
@@ -204,7 +204,7 @@ feature.schistodb.net          schi-inc    apicommDevN          acctdbN         
 feature.toxodb.org             toxo-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
-feature.fungidb.org            fung-rbld   apicommDevN          acctdbN           webwww          webwww      webwww
+feature.fungidb.org            fung-inc   apicommDevN          acctdbN           webwww          webwww      webwww
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch
 feature.vectorbase.org         vect047n    apicommbetaN          acctdbN           webpatch        webpatch    webpatch
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch
