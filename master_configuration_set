@@ -67,7 +67,7 @@ b2.orthomcl.org                orth047n    apicommN         acctdbN           we
 
 q1.amoebadb.org                ameb051s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.cryptodb.org                cryp-rbld    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.fungidb.org                 fung051s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.giardiadb.org               giar051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -86,7 +86,7 @@ q1.orthomcl.org                orth051s    apicommDevS         acctdbS          
 
 q2.amoebadb.org                ameb051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.fungidb.org                 fung051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.giardiadb.org               giar051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
@@ -99,7 +99,7 @@ q2.tritrypdb.org               tryp051n    apicommdevN         acctdbN          
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
-q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.vectorbase.org              vect051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 
