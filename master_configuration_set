@@ -78,8 +78,8 @@ q1.toxodb.org                  toxo051s    apicommDevS         acctdbs          
 q1.trichdb.org                 tvag051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp051s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.microbiomedb.org            mbio051s    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
-q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
+q1.clinepidb.org               clin051s    cecommDevS          acctdbS           webwww            webwww          webwww
+q1.restricted.clinepidb.org    clin051s    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth051s    apicommDevS         acctdbS           webwww            webwww          webwww
