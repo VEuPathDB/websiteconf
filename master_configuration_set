@@ -66,11 +66,11 @@ b2.veupathdb.org               eupa047n    apicommbetaN         acctdbN         
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww
 
 q1.amoebadb.org                ameb051s    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.cryptodb.org                cryp-rbld    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.cryptodb.org                cryp051s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.fungidb.org                 fung051s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.giardiadb.org               giar051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host051s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.microsporidiadb.org         micr-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.microsporidiadb.org         micr051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.piroplasmadb.org            piro051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas051s   apicommDevS         acctdbs           webwww            webwww          webwww
 q1.toxodb.org                  toxo051s    apicommDevS         acctdbs           webwww            webwww          webwww
@@ -80,25 +80,25 @@ q1.microbiomedb.org            mbio051s    apicommDevS         acctdbs          
 q1.clinepidb.org               clin051s    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin051s    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect051s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.veupathdb.org               eupa051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth051s    apicommDevS         acctdbS           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb051n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.cryptodb.org                cryp-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.cryptodb.org                cryp051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.fungidb.org                 fung051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.giardiadb.org               giar051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host051n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.microsporidiadb.org         micr-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.microsporidiadb.org         micr051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.piroplasmadb.org            piro051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp051n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio051n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin051n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin051n    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect051n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.veupathdb.org               eupa051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.orthomcl.org                orth051n    apicommdevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb050s    apicommS            acctdbS           webwww            webwww          webwww
