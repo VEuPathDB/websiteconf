@@ -71,7 +71,7 @@ q1.fungidb.org                 fung051s    apicommDevS         acctdbs          
 q1.giardiadb.org               giar051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.hostdb.org                  host051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr-rbld    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.piroplasmadb.org            piro-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.piroplasmadb.org            piro051s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas051s   apicommDevS         acctdbs           webwww            webwww          webwww
 q1.schistodb.net               schi-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.toxodb.org                  toxo051s    apicommDevS         acctdbs           webwww            webwww          webwww
@@ -90,18 +90,18 @@ q2.fungidb.org                 fung051n    apicommdevN         acctdbN          
 q2.giardiadb.org               giar051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.hostdb.org                  host051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr-rbld    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.piroplasmadb.org            piro-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.piroplasmadb.org            piro051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.schistodb.net               schi-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
-q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
-q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
+q2.clinepidb.org               clin051n    cecommDevN          acctdbN           webwww            webwww          webwww
+q2.restricted.clinepidb.org    clin051n    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect051n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.orthomcl.org                orth-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.orthomcl.org                orth051n    apicommdevN         acctdbN           webwww            webwww          webwww
 
 w1.amoebadb.org                ameb050s    apicommS            acctdbS           webwww            webwww          webwww
 w1.cryptodb.org                cryp050s    apicommS            acctdbS           webwww            webwww          webwww
