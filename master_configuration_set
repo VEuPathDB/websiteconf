@@ -65,11 +65,11 @@ b2.vectorbase.org              vect047n    apicommbetaN         acctdbN         
 b2.veupathdb.org               eupa047n    apicommbetaN         acctdbN           webwww            webwww          webwww
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww
 
-q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.amoebadb.org                ameb053s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.giardiadb.org               giar053s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.hostdb.org                  host-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.hostdb.org                  host053s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.microsporidiadb.org         micr053s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.piroplasmadb.org            piro-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.plasmodb.org                plas-inc    apicommDevS         acctdbs           webwww            webwww          webwww
@@ -83,11 +83,11 @@ q1.vectorbase.org              vect-inc    apicommDevS         acctdbS          
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth-inc    apicommDevS         acctdbS           webwww            webwww          webwww
 
-q2.amoebadb.org                ameb-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.amoebadb.org                ameb053n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.cryptodb.org                cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.giardiadb.org               giar053n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.hostdb.org                  host-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.hostdb.org                  host053n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microsporidiadb.org         micr053n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.piroplasmadb.org            piro-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.plasmodb.org                plas-inc    apicommdevN         acctdbN           webwww            webwww          webwww
