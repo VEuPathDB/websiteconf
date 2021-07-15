@@ -75,7 +75,7 @@ q1.piroplasmadb.org            piro053s    apicommDevS         acctdbS          
 q1.plasmodb.org                plas-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.trichdb.org                 tvag053s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.tritrypdb.org               tryp053s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.clinepidb.org               clin053s    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin053s    cecommDevS          acctdbS           webwww2           webwww          webwww
@@ -93,7 +93,7 @@ q2.piroplasmadb.org            piro053n    apicommdevN         acctdbN          
 q2.plasmodb.org                plas-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag053n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww
+q2.tritrypdb.org               tryp053n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin053n    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin053n    cecommDevN          acctdbN           webwww2           webwww          webwww
