@@ -80,7 +80,7 @@ q1.microbiomedb.org            mbio053s    apicommDevS         acctdbs          
 q1.clinepidb.org               clin053s    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin053s    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect053s    apicommDevS         acctdbS           webwww            webwww          webwww
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww
+q1.veupathdb.org               eupa053s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.orthomcl.org                orth053s    apicommDevS         acctdbS           webwww            webwww          webwww
 
 q2.amoebadb.org                ameb053n    apicommdevN         acctdbN           webwww            webwww          webwww
