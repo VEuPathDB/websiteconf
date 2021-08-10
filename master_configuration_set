@@ -133,7 +133,7 @@ w2.trichdb.org                 tvag053n    apicommN            acctdbN          
 w2.tritrypdb.org               tryp053n    apicommN            acctdbN           webwww            webwww          webwww
 w2.microbiomedb.org            mbio053n    apicommN            acctdbN           webwww            webwww          webwww
 w2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww
-w2.restricted.clinepidb.org    clin053n    cecommS             acctdbS           webwww2           webwww          webwww
+w2.restricted.clinepidb.org    clin053n    cecommN             acctdbN           webwww2           webwww          webwww
 w2.orthomcl.org                orth053n    apicommN            acctdbN           webwww            webwww          webwww
 w2.vectorbase.org              vect053n    apicommN            acctdbN           webwww            webwww          webwww
 
