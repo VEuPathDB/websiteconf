@@ -76,7 +76,7 @@ q1.plasmodb.org                plas054s    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo054s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.trichdb.org                 tvag054s    apicommDevS         acctdbS           webwww            webwww          webwww
 q1.tritrypdb.org               tryp054s    apicommDevS         acctdbs           webwww            webwww          webwww
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww
+q1.microbiomedb.org            mbio054s    apicommDevS         acctdbs           webwww            webwww          webwww
 q1.clinepidb.org               clin-inc    cecommDevS          acctdbS           webwww            webwww          webwww
 q1.restricted.clinepidb.org    clin-inc    cecommDevS          acctdbS           webwww2           webwww          webwww
 q1.vectorbase.org              vect054s    apicommDevS         acctdbS           webwww            webwww          webwww
@@ -94,7 +94,7 @@ q2.plasmodb.org                plas054s    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo054n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.trichdb.org                 tvag054n    apicommdevN         acctdbN           webwww            webwww          webwww
 q2.tritrypdb.org               tryp054n    apicommdevN         acctdbN           webwww            webwww          webwww
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww
+q2.microbiomedb.org            mbio054n    apicommDevN         acctdbN           webwww            webwww          webwww
 q2.clinepidb.org               clin-inc    cecommDevN          acctdbN           webwww            webwww          webwww
 q2.restricted.clinepidb.org    clin-inc    cecommDevN          acctdbN           webwww2           webwww          webwww
 q2.vectorbase.org              vect054n    apicommdevN         acctdbN           webwww            webwww          webwww
