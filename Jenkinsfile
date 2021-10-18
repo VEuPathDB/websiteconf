@@ -9,7 +9,7 @@ node('durian') {
                         branches: [[name: "*/scm_group"]],
                         extensions: [[
                             $class: 'RelativeTargetDirectory',
-                            relativeTargetDir: websiteconf
+                            relativeTargetDir: 'websiteconf'
                             ]],
                             userRemoteConfigs: [[
                                 credentialsId: '2dfe5e9c-d974-47b5-a060-34f57039268b',
@@ -23,7 +23,7 @@ node('durian') {
                         branches: [[name: "*/master"]],
                         extensions: [[
                             $class: 'RelativeTargetDirectory',
-                            relativeTargetDir: tsrc
+                            relativeTargetDir: 'tsrc'
                             ]],
                             userRemoteConfigs: [[
                                 credentialsId: '2dfe5e9c-d974-47b5-a060-34f57039268b',
