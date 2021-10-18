@@ -13,7 +13,7 @@ node('durian') {
                             ]],
                             userRemoteConfigs: [[
                                 credentialsId: '2dfe5e9c-d974-47b5-a060-34f57039268b',
-                                url: git@github.com:VEuPathDB/websiteconf.git
+                                url: 'git@github.com:VEuPathDB/websiteconf.git'
                             ]]
                         ]
                     )
@@ -27,7 +27,7 @@ node('durian') {
                             ]],
                             userRemoteConfigs: [[
                                 credentialsId: '2dfe5e9c-d974-47b5-a060-34f57039268b',
-                                url: git@github.com:VEuPathDB/tsrc.git
+                                url: 'git@github.com:VEuPathDB/tsrc.git'
                             ]]
                         ]
                     )
@@ -37,7 +37,7 @@ node('durian') {
         stage('build') {
             sh 'env'
         }
-        
+
 
 
 
