@@ -42,6 +42,9 @@ node('durian') {
 
 
     }
+    catch (exc) {
+        throw exc
+    }
 
 
 }
