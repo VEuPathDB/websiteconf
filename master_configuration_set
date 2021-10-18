@@ -181,3 +181,5 @@ feature.veupathdb.org          uni-inc     apicommdevn          acctdbN         
 
 # temporary r50 plasmo
 r50.plasmodb.org               plas050s    apicomms-r50            acctdbS           webwww            webwww          webwww     apiSite     master
+
+bbelnap.cryptodb.org           cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
