@@ -35,7 +35,7 @@ node('durian') {
 
         }
         stage('build') {
-            sh 'env'
+            sh 'websiteconf/make_yaml.py -h'
         }
 
 
