@@ -20,7 +20,7 @@ node('durian') {
             checkout(
                     [
                         $class: 'GitSCM',
-                        branches: [[name: "*/master"]],
+                        branches: [[name: "*/scm_group"]],
                         extensions: [[
                             $class: 'RelativeTargetDirectory',
                             relativeTargetDir: 'tsrc'
