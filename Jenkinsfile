@@ -1,10 +1,23 @@
-
-node('webconf') {
-
-    try {
-        stage('checkout') {
-            checkout(
-                    [
+pipeline {
+    agent none
+    stages {
+        stage('Build') {
+            matrix {
+                agent {
+                    label "${NODE}"
+                }
+                axes {
+                    axis {
+                        name 'NODE'
+                        values 'durian', 'ash', 'fir'
+                    }
+                }
+                stages {
+                    stage('checkout') {
+                        steps {
+                            echo "checkout on ${NODE}"
+                    checkout(
+                    [   
                         $class: 'GitSCM',
                         branches: [[name: "*/scm_group"]],
                         extensions: [[
@@ -17,8 +30,8 @@ node('webconf') {
                             ]]
                         ]
                     )
-            checkout(
-                    [
+                    checkout(
+                    [   
                         $class: 'GitSCM',
                         branches: [[name: "*/scm_group"]],
                         extensions: [[
@@ -32,27 +45,23 @@ node('webconf') {
                         ]
                     )
 
-
-        }
-        stage('build') {
-            sh '''
+                        }
+                    }
+                    stage('Build') {
+                        steps {
+                            echo "Do Build for ${NODE}"
+                                        sh '''
             virtualenv -p python3 make_yaml_env
             . ./make_yaml_env/bin/activate
             pip install -r websiteconf/requirements.txt
             cd websiteconf
             ./make_yaml.py -m ../tsrc/manifest.yml -o /tmp/site-conf.yaml
             '''
+
+                        }
+                    }
+                }
+            }
         }
-
-
-
-
     }
-    catch (exc) {
-        throw exc
-    }
-
-
 }
-
-
