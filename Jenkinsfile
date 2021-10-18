@@ -1,5 +1,5 @@
 
-node('webconf') {
+node('durian') {
 
     try {
         stage('checkout') {
