@@ -39,7 +39,8 @@ node('durian') {
             virtualenv -p python3 make_yaml_env
             . ./make_yaml_env/bin/activate
             pip install -r websiteconf/requirements.txt
-            websiteconf/make_yaml.py -h
+            cd websiteconf
+            make_yaml.py -m tsrc/manifest.yml -o /tmp/site-conf.yaml
             '''
         }
 
