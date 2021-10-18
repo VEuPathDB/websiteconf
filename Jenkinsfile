@@ -40,7 +40,7 @@ node('durian') {
             . ./make_yaml_env/bin/activate
             pip install -r websiteconf/requirements.txt
             cd websiteconf
-            make_yaml.py -m tsrc/manifest.yml -o /tmp/site-conf.yaml
+            ./make_yaml.py -m tsrc/manifest.yml -o /tmp/site-conf.yaml
             '''
         }
 
