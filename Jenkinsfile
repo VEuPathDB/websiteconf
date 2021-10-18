@@ -35,7 +35,12 @@ node('durian') {
 
         }
         stage('build') {
-            sh 'websiteconf/make_yaml.py -h'
+            sh '''
+            virtualenv -p python3 make_yaml_env
+            . ./make_yaml_env/bin/activate
+            pip install -r websiteconf/requirements.txt
+            websiteconf/make_yaml.py -h
+            '''
         }
 
 
