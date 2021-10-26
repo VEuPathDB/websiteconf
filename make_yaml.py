@@ -63,14 +63,14 @@ def main(args):
     with open('master_configuration_set') as csvfile:
         reader = csv.DictReader(decomment(csvfile), delimiter = ' ', skipinitialspace=True)
         for row in reader:
-            # use deepcopy to avoid yaml references (if desired)
-            #scm_conf = deepcopy(group_list[row['scm_group']])
             scm_conf = group_list[row['scm_group']]
             for repo in scm_conf:
                 repo['branch'] = row['scm_branch']
 
             site_config[row['site']] = dict(row)
-            site_config[row['site']]['scm_conf'] = scm_conf #deepcopy(group_list[row['scm_group']])
+            # we use deepcopy to avoid a reference to scm_conf that would get
+            # overwritten on the next loop
+            site_config[row['site']]['scm_conf'] = deepcopy(scm_conf)
 
 
     output = ruamel.yaml.dump({'site_config': site_config}, default_flow_style=False)
