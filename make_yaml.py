@@ -5,6 +5,10 @@
 # of it as an sql join where scm_group = tsrc group.
 # 
 # it outputs a yaml structure for every site/line in master_configuration set.
+#
+# custom scm config can be specified by giving the value 'custom' for scm_group
+# and specifying a filename containing scm yaml in the scm_branch column of
+# master_configuration_set
 
 import argparse
 import sys
@@ -22,6 +26,13 @@ def decomment(csvfile):
     for row in csvfile:
         raw = row.split('#')[0].strip()
         if raw: yield row
+
+def get_custom_yaml(f):
+    """ get custom yaml from file """
+    with open("./{}".format(f),'r') as f:
+        data = ruamel.yaml.safe_load(f)
+
+    return data
 
 
 def main(args):
@@ -63,11 +74,20 @@ def main(args):
     with open('master_configuration_set') as csvfile:
         reader = csv.DictReader(decomment(csvfile), delimiter = ' ', skipinitialspace=True)
         for row in reader:
-            scm_conf = group_list[row['scm_group']]
-            for repo in scm_conf:
-                repo['branch'] = row['scm_branch']
-
+            # create key of the site, with dict values of row
             site_config[row['site']] = dict(row)
+
+            # allow overriding of group with custom yaml, with filename
+            # specified in scm_branch column
+            if row['scm_group'] == 'custom':
+                scm_conf = get_custom_yaml(row['scm_branch'])
+            else:
+                # get scm_conf from tsrc group, update the branch with the one
+                # specified in the row
+                scm_conf = group_list[row['scm_group']]
+                for repo in scm_conf:
+                    repo['branch'] = row['scm_branch']
+
             # we use deepcopy to avoid a reference to scm_conf that would get
             # overwritten on the next loop
             site_config[row['site']]['scm_conf'] = deepcopy(scm_conf)
