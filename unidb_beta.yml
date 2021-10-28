@@ -48,3 +48,7 @@
   url: git@github.com:VEuPathDB/WDKClient.git
 - branch: master
   src: WSF
+  url: git@github.com:VEuPathDB/WSF.git
+- branch: master
+  src: install
+  url: git@github.com:VEuPathDB/install.git
