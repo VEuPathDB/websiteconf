@@ -67,16 +67,16 @@ b2.vectorbase.org              vect047n    apicommbetaN         acctdbN         
 b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
 
-q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
+q1.amoebadb.org                ameb055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
+q1.cryptodb.org                cryp055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.giardiadb.org               giar-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
+q1.giardiadb.org               giar055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.hostdb.org                  host-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
-q1.microsporidiadb.org         micr-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
+q1.microsporidiadb.org         micr055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.piroplasmadb.org            piro-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.plasmodb.org                plas-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
+q1.trichdb.org                 tvag055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      master
 q1.clinepidb.org               eda054s     cecommDevS          acctdbS           webwww            webwww          webwww     clinEpiSite         master
@@ -85,16 +85,16 @@ q1.vectorbase.org              vect-inc    apicommDevS         acctdbS          
 q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.orthomcl.org                orth-inc    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           master
 
-q2.amoebadb.org                ameb-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.cryptodb.org                cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.amoebadb.org                ameb055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.cryptodb.org                cryp055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.giardiadb.org               giar-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.giardiadb.org               giar055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.hostdb.org                  host-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.microsporidiadb.org         micr-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.microsporidiadb.org         micr055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.piroplasmadb.org            piro-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.plasmodb.org                plas-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.trichdb.org                 tvag055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      master
 q2.clinepidb.org               eda054n     cecommDevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
