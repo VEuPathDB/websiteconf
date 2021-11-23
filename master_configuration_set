@@ -75,7 +75,7 @@ q1.hostdb.org                  host055s    apicommDevS         acctdbS          
 q1.microsporidiadb.org         micr055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-55
 q1.piroplasmadb.org            piro055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-55
 q1.plasmodb.org                plas055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
-q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
+q1.toxodb.org                  toxo055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
 q1.trichdb.org                 tvag055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-55
 q1.tritrypdb.org               tryp055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
 q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-55
@@ -93,7 +93,7 @@ q2.hostdb.org                  host055n    apicommdevN         acctdbN          
 q2.microsporidiadb.org         micr055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.piroplasmadb.org            piro055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.plasmodb.org                plas055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
-q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+q2.toxodb.org                  toxo055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.trichdb.org                 tvag055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.tritrypdb.org               tryp055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-55
