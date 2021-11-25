@@ -78,7 +78,7 @@ q1.plasmodb.org                plas055s    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
 q1.trichdb.org                 tvag055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-55
 q1.tritrypdb.org               tryp055s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-55
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-55
+q1.microbiomedb.org            mbio055s    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-55
 q1.clinepidb.org               eda055s     cecommDevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-55
 q1.restricted.clinepidb.org    eda055s     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-55
 q1.vectorbase.org              vect055s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-55
@@ -96,7 +96,7 @@ q2.plasmodb.org                plas055n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.trichdb.org                 tvag055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.tritrypdb.org               tryp055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-55
+q2.microbiomedb.org            mbio055s    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-55
 q2.clinepidb.org               eda055n     cecommDevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-55
 q2.restricted.clinepidb.org    eda055n     cecommDevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-55
 q2.vectorbase.org              vect055n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
