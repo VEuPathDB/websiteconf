@@ -30,7 +30,7 @@ integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          
 #integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 b1.amoebadb.org                ameb047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.clinepidb.org               eda054s     cecommS              acctdbS           webwww            webwww          webwww     clinEpiSite        clinepi_eda_phase1
+b1.clinepidb.org               eda055s     cecommS              acctdbS           webwww            webwww          webwww     clinEpiSite        api-build-55
 b1.cryptodb.org                cryp047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
 b1.eupathdb.org                eupa-inc    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
 b1.fungidb.org                 fung047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
@@ -49,7 +49,7 @@ b1.veupathdb.org               uni054n     apicommdevS          acctdbS         
 b1.orthomcl.org                orth047s    apicommS         acctdbs           webwww            webwww          webwww         orthoSite          master
 
 b2.amoebadb.org                ameb047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.clinepidb.org               eda054n     cecommN              acctdbN           webwww            webwww          webwww     clinEpiSite        clinepi_eda_phase1
+b2.clinepidb.org               eda055n     cecommN              acctdbN           webwww            webwww          webwww     clinEpiSite        api-build-55
 b2.cryptodb.org                cryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.eupathdb.org                eupa-inc    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.fungidb.org                 fung047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
@@ -103,41 +103,41 @@ q2.vectorbase.org              vect055n    apicommdevN         acctdbN          
 q2.veupathdb.org               eupa055s    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 q2.orthomcl.org                orth055n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-55
 
-w1.amoebadb.org                ameb054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.cryptodb.org                cryp054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.veupathdb.org               eupa054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.fungidb.org                 fung054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.giardiadb.org               giar054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.hostdb.org                  host054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.microsporidiadb.org         micr054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.piroplasmadb.org            piro054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.plasmodb.org                plas054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.toxodb.org                  toxo054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.trichdb.org                 tvag054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.tritrypdb.org               tryp054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
-w1.microbiomedb.org            mbio054s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-54
+w1.amoebadb.org                ameb055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.cryptodb.org                cryp055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.veupathdb.org               eupa055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.fungidb.org                 fung055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.giardiadb.org               giar055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.hostdb.org                  host055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.microsporidiadb.org         micr055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.piroplasmadb.org            piro055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.plasmodb.org                plas055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.toxodb.org                  toxo055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.trichdb.org                 tvag055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.tritrypdb.org               tryp055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
+w1.microbiomedb.org            mbio055s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-55
 w1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
 w1.restricted.clinepidb.org    clin053s    cecommS             acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-53
-w1.orthomcl.org                orth054s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-54
-w1.vectorbase.org              vect054s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-54
+w1.orthomcl.org                orth055s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-55
+w1.vectorbase.org              vect055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
 
-w2.amoebadb.org                ameb054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.cryptodb.org                cryp054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.veupathdb.org               eupa054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.fungidb.org                 fung054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.giardiadb.org               giar054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.hostdb.org                  host054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.microsporidiadb.org         micr054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.piroplasmadb.org            piro054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.plasmodb.org                plas054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.toxodb.org                  toxo054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.trichdb.org                 tvag054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.tritrypdb.org               tryp054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
-w2.microbiomedb.org            mbio054n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-54
+w2.amoebadb.org                ameb055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.cryptodb.org                cryp055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.veupathdb.org               eupa055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.fungidb.org                 fung055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.giardiadb.org               giar055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.hostdb.org                  host055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.microsporidiadb.org         micr055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.piroplasmadb.org            piro055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.plasmodb.org                plas055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.toxodb.org                  toxo055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.trichdb.org                 tvag055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.tritrypdb.org               tryp055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
+w2.microbiomedb.org            mbio055n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-55
 w2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
 w2.restricted.clinepidb.org    clin053n    cecommN             acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-53
-w2.orthomcl.org                orth054n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-54
-w2.vectorbase.org              vect054n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-54
+w2.orthomcl.org                orth055n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-55
+w2.vectorbase.org              vect055n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-55
 
 
 # other (pre-acctdb column format)
