@@ -17,7 +17,7 @@ import ruamel.yaml
 import csv
 
 from path import Path
-from tsrc.manifest import load
+from tsrc.manifest import load_manifest
 from copy import deepcopy
 
 
@@ -53,7 +53,7 @@ def main(args):
 
 
     manifest_path = Path(manifest_file)
-    manifest = load(manifest_path)
+    manifest = load_manifest(manifest_path)
 
     # create group_list dict containing a list of repos in each group 
     group_list = {}
@@ -62,7 +62,7 @@ def main(args):
 
         for repo in manifest.get_repos(groups = [group]):
             repo_list.append(
-                {'src': repo.src,
+                {'dest': repo.dest,
                  'url': repo.remotes[0].url,
                  'branch': repo.branch,
                  })

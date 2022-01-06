@@ -1,2 +1,2 @@
 requests
-tsrc==0.9.0
+tsrc==2.4.1
