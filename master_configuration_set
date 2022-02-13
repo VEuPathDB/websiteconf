@@ -69,7 +69,7 @@ b2.orthomcl.org                orth047n    apicommN         acctdbN           we
 
 q1.amoebadb.org                ameb056s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-56
 q1.cryptodb.org                cryp056s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-56
-q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-56
+q1.fungidb.org                 fung056s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-56
 q1.giardiadb.org               giar056s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
 q1.hostdb.org                  host056s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
 q1.microsporidiadb.org         micr056s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
@@ -82,12 +82,12 @@ q1.microbiomedb.org            mbio056s    apicommDevS         acctdbs          
 q1.clinepidb.org               eda-inc     cecommDevS          acctdbS           webwww            webwww          webwww     clinEpiSite         master
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         master
 q1.vectorbase.org              vect056s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
-q1.orthomcl.org                orth-inc    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-56
+q1.veupathdb.org               eupa056s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-56
+q1.orthomcl.org                orth056s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-56
 
 q2.amoebadb.org                ameb056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 q2.cryptodb.org                cryp056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
-q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
+q2.fungidb.org                 fung056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 q2.giardiadb.org               giar056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 q2.hostdb.org                  host056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 q2.microsporidiadb.org         micr056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
@@ -100,7 +100,7 @@ q2.microbiomedb.org            mbio056n    apicommDevN         acctdbN          
 q2.clinepidb.org               eda-inc     cecommDevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
 q2.restricted.clinepidb.org    eda-inc     cecommDevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
 q2.vectorbase.org              vect056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
-q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
+q2.veupathdb.org               eupa056n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 q2.orthomcl.org                orth056n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-56
 
 w1.amoebadb.org                ameb055s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-55
