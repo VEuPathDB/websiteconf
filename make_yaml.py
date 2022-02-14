@@ -16,7 +16,7 @@ import requests
 import ruamel.yaml
 import csv
 
-from path import Path
+from pathlib import Path
 from tsrc.manifest import load_manifest
 from copy import deepcopy
 
