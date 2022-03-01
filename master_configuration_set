@@ -139,6 +139,8 @@ w2.restricted.clinepidb.org    clin053n    cecommN             acctdbN          
 w2.orthomcl.org                orth056n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-56
 w2.vectorbase.org              vect056n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 
+l1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
+l2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
 
 # other (pre-acctdb column format)
 #qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
