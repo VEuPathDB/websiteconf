@@ -49,7 +49,7 @@ b1.veupathdb.org               uni054n     apicommdevS          acctdbS         
 b1.orthomcl.org                orth047s    apicommS         acctdbs           webwww            webwww          webwww         orthoSite          master
 
 b2.amoebadb.org                ameb047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.clinepidb.org               eda055n     cecommN              acctdbN           webwww            webwww          webwww     clinEpiSite        api-build-55
+b2.clinepidb.org               eda055s     cecommN              acctdbN           webwww            webwww          webwww     clinEpiSite        api-build-55
 b2.cryptodb.org                cryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.eupathdb.org                eupa-inc    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.fungidb.org                 fung047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
