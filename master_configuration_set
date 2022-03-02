@@ -30,7 +30,7 @@ integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          
 #integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
 b1.amoebadb.org                ameb047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.clinepidb.org               eda055s     cecommS              acctdbS           webwww            webwww          webwww     clinEpiSite        api-build-55
+b1.clinepidb.org               eda055s     cecommN              acctdbS           webwww            webwww          webwww     clinEpiSite        api-build-55
 b1.cryptodb.org                cryp047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
 b1.eupathdb.org                eupa-inc    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
 b1.fungidb.org                 fung047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
