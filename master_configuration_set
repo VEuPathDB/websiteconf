@@ -116,8 +116,8 @@ w1.toxodb.org                  toxo056s    apicommS            acctdbS          
 w1.trichdb.org                 tvag056s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-56
 w1.tritrypdb.org               tryp056s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-56
 w1.microbiomedb.org            mbio056s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-56
-w1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
-w1.restricted.clinepidb.org    clin053s    cecommS             acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-53
+w1.clinepidb.org               eda056s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-56
+w1.restricted.clinepidb.org    eda056s     cecommS             acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-56
 w1.orthomcl.org                orth056s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-56
 w1.vectorbase.org              vect056s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-56
 
@@ -134,8 +134,8 @@ w2.toxodb.org                  toxo056n    apicommN            acctdbN          
 w2.trichdb.org                 tvag056n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 w2.tritrypdb.org               tryp056n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 w2.microbiomedb.org            mbio056n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-56
-w2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
-w2.restricted.clinepidb.org    clin053n    cecommN             acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-53
+w2.clinepidb.org               eda056n     cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-56
+w2.restricted.clinepidb.org    eda056n     cecommN             acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-56
 w2.orthomcl.org                orth056n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-56
 w2.vectorbase.org              vect056n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-56
 
