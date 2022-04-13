@@ -67,7 +67,7 @@ b2.vectorbase.org              vect047n    apicommbetaN         acctdbN         
 b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
 
-q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
+q1.amoebadb.org                ameb057s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.cryptodb.org                cryp057s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.giardiadb.org               giar057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
@@ -82,10 +82,10 @@ q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs          
 q1.clinepidb.org               eda-inc     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         master
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         master
 q1.vectorbase.org              vect057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
+q1.veupathdb.org               eupa057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.orthomcl.org                orth057s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           master
 
-q2.amoebadb.org                ameb-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.amoebadb.org                ameb057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.cryptodb.org                cryp057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.giardiadb.org               giar057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
@@ -100,7 +100,7 @@ q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN          
 q2.clinepidb.org               eda-inc     cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         master
 q2.restricted.clinepidb.org    eda-inc     cecommN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
 q2.vectorbase.org              vect057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.veupathdb.org               eupa057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.orthomcl.org                orth057n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           master
 
 w1.amoebadb.org                ameb056s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-56
