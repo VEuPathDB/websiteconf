@@ -79,7 +79,7 @@ q1.toxodb.org                  toxo057s    apicommDevS         acctdbs          
 q1.trichdb.org                 tvag057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-57
 q1.tritrypdb.org               tryp057s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-57
 q1.microbiomedb.org            mbio057s    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-57
-q1.clinepidb.org               eda-inc     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-57
+q1.clinepidb.org               eda057s     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-57
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-57
 q1.vectorbase.org              vect057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-57
 q1.veupathdb.org               eupa057s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-57
@@ -97,8 +97,8 @@ q2.toxodb.org                  toxo057n    apicommdevN         acctdbN          
 q2.trichdb.org                 tvag057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-57
 q2.tritrypdb.org               tryp057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-57
 q2.microbiomedb.org            mbio057n    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-57
-q2.clinepidb.org               eda-inc     cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-57
-q2.restricted.clinepidb.org    eda-inc     cecommN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-57
+q2.clinepidb.org               eda057n     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-57
+q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-57
 q2.vectorbase.org              vect057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-57
 q2.veupathdb.org               eupa057n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-57
 q2.orthomcl.org                orth057n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-57
