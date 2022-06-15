@@ -96,7 +96,7 @@ q2.plasmodb.org                plas058n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.trichdb.org                 tvag058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.tritrypdb.org               tryp058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      master
+q2.microbiomedb.org            mbio058n    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      master
 q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
