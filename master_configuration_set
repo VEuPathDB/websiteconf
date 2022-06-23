@@ -78,9 +78,9 @@ q1.plasmodb.org                plas058s    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo058s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-58
 q1.trichdb.org                 tvag058s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-58
 q1.tritrypdb.org               tryp058s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-58
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-58
-q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-58
-q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-58
+q1.microbiomedb.org            mbio058s    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-58
+q1.clinepidb.org               clin058s    cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-58
+q1.restricted.clinepidb.org    clin058s    cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-58
 q1.vectorbase.org              vect058s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-58
 q1.veupathdb.org               eupa058s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-58
 q1.orthomcl.org                orth058s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-58
@@ -97,8 +97,8 @@ q2.toxodb.org                  toxo058n    apicommdevN         acctdbN          
 q2.trichdb.org                 tvag058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-58
 q2.tritrypdb.org               tryp058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-58
 q2.microbiomedb.org            mbio058n    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-58
-q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-58
-q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-58
+q2.clinepidb.org               clin058n    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-58
+q2.restricted.clinepidb.org    clin058n    cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-58
 q2.vectorbase.org              vect058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-58
 q2.veupathdb.org               eupa058n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-58
 q2.orthomcl.org                orth058n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-58
