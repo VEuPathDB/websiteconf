@@ -43,7 +43,7 @@ b1.schistodb.net               schi047s    apicommbetaS         acctdbS         
 b1.toxodb.org                  toxo047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
 b1.trichdb.org                 tvag047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
 b1.tritrypdb.org               tryp047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.microbiomedb.org            rm41910    cecommdevS         acctdbs           webwww            webwww          webwww     microbiomeSite     master
+b1.microbiomedb.org            eda-inc     cecommdevS           acctdbs           webwww            webwww          webwww     microbiomeSite     master
 b1.vectorbase.org              vect047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
 b1.veupathdb.org               uni054n     apicommdevS          acctdbS           webwww            webwww          webwww     apiSite            master
 b1.orthomcl.org                orth047s    apicommS         acctdbs           webwww            webwww          webwww         orthoSite          master
@@ -62,7 +62,7 @@ b2.schistodb.net               schi047n    apicommbetaN         acctdbN         
 b2.toxodb.org                  toxo047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.trichdb.org                 tvag047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.tritrypdb.org               tryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.microbiomedb.org            rm41910    cecommdevN         acctdbN           webwww            webwww          webwww     microbiomeSite     master
+b2.microbiomedb.org            eda-inc     cecommdevN           acctdbN           webwww            webwww          webwww     microbiomeSite     master
 b2.vectorbase.org              vect047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
