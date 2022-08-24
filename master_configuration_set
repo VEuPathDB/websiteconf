@@ -62,7 +62,7 @@ b2.schistodb.net               schi047n    apicommbetaN         acctdbN         
 b2.toxodb.org                  toxo047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.trichdb.org                 tvag047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.tritrypdb.org               tryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.microbiomedb.org            eda059n     cecommdevN           acctdbN           webwww            webwww          webwww     microbiomeSite     master
+b2.microbiomedb.org            eda059n     cecommN           acctdbN           webwww            webwww          webwww     microbiomeSite     master
 b2.vectorbase.org              vect047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
