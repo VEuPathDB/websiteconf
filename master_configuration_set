@@ -82,7 +82,7 @@ q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs          
 q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-60
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-60
 q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
+q1.veupathdb.org               eupa060s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
 q1.orthomcl.org                orth060s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-60
 
 q2.amoebadb.org                ameb060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
