@@ -99,8 +99,8 @@ q2.tritrypdb.org               tryp060n    apicommdevN         acctdbN          
 q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-60
 q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
-q2.vectorbase.org              vect060    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.vectorbase.org              vect060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.veupathdb.org               eupa060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.orthomcl.org                orth060n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           master
 
 w1.amoebadb.org                ameb059s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-59
