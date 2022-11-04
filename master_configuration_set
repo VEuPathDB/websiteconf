@@ -78,9 +78,9 @@ q1.plasmodb.org                plas060s    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo060s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-60
 q1.trichdb.org                 tvag060s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
 q1.tritrypdb.org               tryp060s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-60
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      mbio-build-60
-q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-60
-q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-60
+q1.microbiomedb.org            eda060s     apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-60
+q1.clinepidb.org               eda060s     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-60
+q1.restricted.clinepidb.org    eda060s     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-60
 q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
 q1.veupathdb.org               eupa060s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-60
 q1.orthomcl.org                orth060s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-60
@@ -96,9 +96,9 @@ q2.plasmodb.org                plas060n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
 q2.trichdb.org                 tvag060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
 q2.tritrypdb.org               tryp060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-60
-q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-60
-q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-60
+q2.microbiomedb.org            eda060n     apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-60
+q2.clinepidb.org               eda060n     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-60
+q2.restricted.clinepidb.org    eda060n     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-60
 q2.vectorbase.org              vect060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
 q2.veupathdb.org               eupa060n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-60
 q2.orthomcl.org                orth060n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-60
@@ -164,7 +164,7 @@ feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN         
 feature.clinepidb.org          eda-inc     cecommdevn           acctdbN           webpatch        webpatch    webpatch         clinEpiSite        master
 feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.microbiomedb.org       eda-inc     cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite     master
+feature.microbiomedb.org       mbio060n    cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite     mbio-build-60
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.plasmodb.org           plas047n    apicommbetaN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
