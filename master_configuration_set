@@ -167,12 +167,12 @@ feature.giardiadb.org          giar-inc    apicommDevN          acctdbN         
 feature.microbiomedb.org       eda-inc    cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite      master
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.plasmodb.org           plas047n    apicommbetaN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.plasmodb.org           plas-inc    apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.toxodb.org             toxo-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webwww          webwww      webwww           apiSite            master
+feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpach           apiSite            master
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.vectorbase.org         vect-inc     apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch         orthoSite          master
