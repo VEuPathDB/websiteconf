@@ -78,7 +78,7 @@ q1.plasmodb.org                plas-inc    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      mbio-build-61
+q1.microbiomedb.org            mbio-inc    apicommDevS         acctdbs           webwww            webwww          webwww     microbiomeSite      mbio-build-62
 q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         master
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         master
 q1.vectorbase.org              vect-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
@@ -96,7 +96,7 @@ q2.plasmodb.org                plas-inc    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-61
+q2.microbiomedb.org            mbio-inc    apicommDevN         acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-62
 q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
