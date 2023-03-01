@@ -140,7 +140,7 @@ w2.vectorbase.org              vect061n    apicommN            acctdbN          
 l1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
 l2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
 
-l1.microsporidiadb.org         micr061s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-61
+l1.microbiomedb.org            micr061s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 l2.microbiomedb.org            mbio061n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 
 # other (pre-acctdb column format)
