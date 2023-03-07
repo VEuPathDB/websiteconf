@@ -68,7 +68,7 @@ b2.veupathdb.org               uni054n     apicommN         acctdbN            w
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
 
 q1.amoebadb.org                ameb062s    apicommDevS         acctdbs           webwww           webwww         webwww    apiSite             api-build-62
-q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
+q1.cryptodb.org                cryp062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.fungidb.org                 fung062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.giardiadb.org               giar062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
 q1.hostdb.org                  host062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
@@ -86,7 +86,7 @@ q1.veupathdb.org               eupa062s    apicommDevS         acctdbS          
 q1.orthomcl.org                orth062s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-62
 
 q2.amoebadb.org                ameb062n    apicommdevN         acctdbN           webwww           webwww         webwww    apiSite             api-build-62
-q2.cryptodb.org                cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
+q2.cryptodb.org                cryp062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.fungidb.org                 fung062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.giardiadb.org               giar062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.hostdb.org                  host062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
