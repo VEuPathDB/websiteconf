@@ -69,7 +69,7 @@ b2.orthomcl.org                orth047n    apicommN         acctdbN           we
 
 q1.amoebadb.org                ameb062s    apicommDevS         acctdbs           webwww           webwww         webwww    apiSite             api-build-62
 q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
-q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
+q1.fungidb.org                 fung062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.giardiadb.org               giar062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
 q1.hostdb.org                  host062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
 q1.microsporidiadb.org         micr062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
@@ -77,17 +77,17 @@ q1.piroplasmadb.org            piro062s    apicommDevS         acctdbS          
 q1.plasmodb.org                plas062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.toxodb.org                  toxo062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.trichdb.org                 tvag062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
-q1.tritrypdb.org               tryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
+q1.tritrypdb.org               tryp062s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             api-build-62
 q1.microbiomedb.org             eda-inc    cecommDevS          acctdbs           webwww            webwww          webwww     microbiomeSite      api-build-62
 q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-62
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite         api-build-62
 q1.vectorbase.org              vect062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
-q1.veupathdb.org               eupa-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
+q1.veupathdb.org               eupa062s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             api-build-62
 q1.orthomcl.org                orth062s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite           api-build-62
 
 q2.amoebadb.org                ameb062n    apicommdevN         acctdbN           webwww           webwww         webwww    apiSite             api-build-62
 q2.cryptodb.org                cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
-q2.fungidb.org                 fung-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
+q2.fungidb.org                 fung062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.giardiadb.org               giar062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.hostdb.org                  host062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.microsporidiadb.org         micr062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
@@ -95,12 +95,12 @@ q2.piroplasmadb.org            piro062n    apicommdevN         acctdbN          
 q2.plasmodb.org                plas062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.toxodb.org                  toxo062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.trichdb.org                 tvag062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
-q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
+q2.tritrypdb.org               tryp062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.microbiomedb.org             eda-inc    cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-62
 q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-62
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         api-build-62
 q2.vectorbase.org              vect062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
-q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
+q2.veupathdb.org               eupa062n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             api-build-62
 q2.orthomcl.org                orth062n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           api-build-62
 
 w1.amoebadb.org                ameb061s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-61
