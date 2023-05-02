@@ -69,7 +69,7 @@ b2.orthomcl.org                orth047n    apicommN         acctdbN           we
 
 q1.amoebadb.org                ameb063s    apicommDevS         acctdbs           webwww           webwww         webwww    apiSite             master
 q1.cryptodb.org                cryp063s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.fungidb.org                 fung-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
+q1.fungidb.org                 fung063s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.giardiadb.org               giar063s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.hostdb.org                  host063s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.microsporidiadb.org         micr063s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
