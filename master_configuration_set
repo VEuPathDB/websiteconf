@@ -167,7 +167,7 @@ feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN         
 feature.clinepidb.org          rm43647     cecommdevn           acctdbN           webpatch        webpatch    webpatch         clinEpiSite        master
 feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.microbiomedb.org       rm43647     cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite      master
+feature.microbiomedb.org       eda063n     cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite      api-build-63
 feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.plasmodb.org           plas-inc    apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
