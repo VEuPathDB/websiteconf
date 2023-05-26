@@ -182,7 +182,7 @@ feature.orthomcl.org           orth501n    apicommDevN          acctdbN         
 feature.veupathdb.org          uni-inc     apicommdevn          acctdbN           webpatch        webpatch    webpatch         custom             unidb_feature.yml
 
 # Alpha sites, https://redmine.apidb.org/issues/51468
-alpha.microbiomedb.org           eda063n     cecommDevN           acctDbN           webwww            webwww    webwww           microbiomeSite     api-build-63
+alpha.microbiomedb.org         eda0632n     cecommDevN           acctDbN           webwww            webwww    webwww           microbiomeSite     api-build-63
 
 # temporary r50 plasmo
 r50.plasmodb.org               plas050s    apicomms-r50            acctdbS           webwww            webwww          webwww     apiSite     master
