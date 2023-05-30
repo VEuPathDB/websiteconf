@@ -115,7 +115,7 @@ w1.plasmodb.org                plas063s    apicommS            acctdbS          
 w1.toxodb.org                  toxo063s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-63
 w1.trichdb.org                 tvag063s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-63
 w1.tritrypdb.org               tryp063s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-63
-w1.microbiomedb.org            mbio061s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      mbio-build-61
+w1.microbiomedb.org            eda0632s    cecommS             acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-63
 w1.clinepidb.org               eda063s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-63
 w1.orthomcl.org                orth063s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-63
 w1.vectorbase.org              vect063s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-63
@@ -132,7 +132,7 @@ w2.plasmodb.org                plas063n    apicommN            acctdbN          
 w2.toxodb.org                  toxo063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
 w2.trichdb.org                 tvag063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
 w2.tritrypdb.org               tryp063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
-w2.microbiomedb.org            mbio061n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-61
+w2.microbiomedb.org            eda0632n    cecommN             acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-63
 w2.clinepidb.org               eda063n     cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-63
 w2.orthomcl.org                orth063n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-63
 w2.vectorbase.org              vect063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
