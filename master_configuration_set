@@ -133,7 +133,7 @@ w2.toxodb.org                  toxo063n    apicommN            acctdbN          
 w2.trichdb.org                 tvag063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
 w2.tritrypdb.org               tryp063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
 w2.microbiomedb.org            eda0632n    cecommN             acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-63
-w2.clinepidb.org               eda0632n     ecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-63
+w2.clinepidb.org               eda0632n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-63
 w2.orthomcl.org                orth063n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-63
 w2.vectorbase.org              vect063n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-63
 
