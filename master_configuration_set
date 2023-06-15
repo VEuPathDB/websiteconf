@@ -24,7 +24,7 @@ integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          
 integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.orthomcl.org         orth-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate     orthoSite      master
-integrate.microbiomedb.org     mbio-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate     microbiomeSite mbio-build-60
+integrate.microbiomedb.org     eda-inc    cecommDevN         acctdbN          webintegrate       webintegrate    webintegrate     microbiomeSite mbio-build-60
 integrate.vectorbase.org       vect-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 #integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
