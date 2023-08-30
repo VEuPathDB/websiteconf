@@ -98,7 +98,7 @@ q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN          
 q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.microbiomedb.org            eda-rbld     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite      master
 q2.clinepidb.org               eda-rbld     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
-q2.restricted.clinepidb.org    eda-rbld     cecommdevN          acctdbN           webwww2           webwww          webwww     clinEpiSite         master
+q2.restricted.clinepidb.org    eda-rbld     cecommdevN          acctdbN           webwww           webwww          webwww     clinEpiSite         master
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.orthomcl.org                orth-inc    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite           master
