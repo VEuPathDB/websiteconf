@@ -76,7 +76,7 @@ q1.microsporidiadb.org         micr065s    apicommDevS         acctdbS          
 q1.piroplasmadb.org            piro065s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.plasmodb.org                plas065s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.toxodb.org                  toxo065s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
-q1.trichdb.org                 tvag-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
+q1.trichdb.org                 tvag065s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite             master
 q1.tritrypdb.org               tryp065s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite             master
 q1.microbiomedb.org            eda065s     cecommDevS          acctdbs           webwww            webwww          webwww     microbiomeSite      master
 q1.clinepidb.org               eda065s     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite         master
@@ -94,7 +94,7 @@ q2.microsporidiadb.org         micr065n    apicommdevN         acctdbN          
 q2.piroplasmadb.org            piro065n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.plasmodb.org                plas065n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.toxodb.org                  toxo065n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
-q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+q2.trichdb.org                 tvag065n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.tritrypdb.org               tryp065n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
 q2.microbiomedb.org            eda065n     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite      master
 q2.clinepidb.org               eda065n     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite         master
