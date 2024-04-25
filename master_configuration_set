@@ -71,7 +71,7 @@ q1.amoebadb.org                ameb068s    apicommDevS         acctdbs          
 q1.cryptodb.org                cryp068s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
 q1.fungidb.org                 fung068s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
 q1.giardiadb.org               giar068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
-q1.hostdb.org                  host-inc    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
+q1.hostdb.org                  host068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
 q1.microsporidiadb.org         micr068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
 q1.piroplasmadb.org            piro068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
 q1.plasmodb.org                plas068s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
