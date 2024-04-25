@@ -78,8 +78,8 @@ q1.plasmodb.org                plas068s    apicommDevS         acctdbs          
 q1.toxodb.org                  toxo068s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
 q1.trichdb.org                 tvag068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
 q1.tritrypdb.org               tryp068s    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
-q1.microbiomedb.org            eda068s     cecommDevS          acctdbs           webwww            webwww          webwww     microbiomeSite     master
-q1.clinepidb.org               eda068s     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite        master
+q1.microbiomedb.org            eda-inc     cecommDevS          acctdbs           webwww            webwww          webwww     microbiomeSite     master
+q1.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite        master
 q1.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww2           webwww          webwww     clinEpiSite        master
 q1.vectorbase.org              vect068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
 q1.veupathdb.org               eupa068s    apicommDevS         acctdbS           webwww            webwww          webwww     apiSite            master
@@ -96,8 +96,8 @@ q2.plasmodb.org                plas068n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.trichdb.org                 tvag068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.tritrypdb.org               tryp068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.microbiomedb.org            eda068n     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
-q2.clinepidb.org               eda068n     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
+q2.microbiomedb.org            eda-inc     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
+q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.veupathdb.org               eupa068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
