@@ -178,7 +178,7 @@ feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN         
 feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpach           apiSite            master
 feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.vectorbase.org         vect-inc     apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite           master
-feature.orthomcl.org           orth501n    apicommDevN          acctdbN           orthopatch      webpatch    webpatch         orthoSite          master
+feature.orthomcl.org           orth-inc    apicommDevN          acctdbN           orthopatch      webpatch    webpatch         orthoSite          master
 feature.veupathdb.org          uni-inc     apicommdevn          acctdbN           webpatch        webpatch    webpatch         custom             unidb_feature.yml
 
 # Alpha sites, https://redmine.apidb.org/issues/51468
