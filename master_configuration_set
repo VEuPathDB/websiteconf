@@ -92,7 +92,7 @@ q2.giardiadb.org               giar-inc    apicommdevN         acctdbN          
 q2.hostdb.org                  host-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.microsporidiadb.org         micr-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.piroplasmadb.org            piro-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.plasmodb.org                plas-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
+q2.plasmodb.org                plas-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68
 q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.trichdb.org                 tvag-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.tritrypdb.org               tryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
