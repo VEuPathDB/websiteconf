@@ -57,13 +57,13 @@ b2.giardiadb.org               giar047n    apicommbetaN         acctdbN         
 b2.hostdb.org                  host047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.microsporidiadb.org         micr047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.piroplasmadb.org            piro047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.plasmodb.org                plas047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
+b2.plasmodb.org                plas068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-c
 b2.schistodb.net               schi047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.toxodb.org                  toxo047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.trichdb.org                 tvag047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.tritrypdb.org               tryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
 b2.microbiomedb.org            eda-rbld    cecommdevN           acctdbN           webwww            webwww          webwww     microbiomeSite   master
-b2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-b
+b2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-c
 b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
 b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
 
