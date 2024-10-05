@@ -90,10 +90,10 @@ q2.cryptodb.org                cryp068n    apicommdevN         acctdbN          
 q2.fungidb.org                 fung068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.giardiadb.org               giar068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.hostdb.org                  host068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.microsporidiadb.org         micr068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            masterc
+q2.microsporidiadb.org         micr068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.piroplasmadb.org            piro068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.plasmodb.org                plas068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.toxodb.org                  toxo068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            amaster
+q2.toxodb.org                  toxo068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.trichdb.org                 tvag068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.tritrypdb.org               tryp068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.microbiomedb.org            eda-inc    cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite      master
