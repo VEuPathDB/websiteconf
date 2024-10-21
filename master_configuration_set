@@ -23,49 +23,49 @@ integrate.schistodb.net        schi-inc    apicommDevN         acctdbN          
 integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
-integrate.orthomcl.org         orth-inc   apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate     orthoSite      master
-integrate.microbiomedb.org     eda-inc    cecommDevN         acctdbN          webintegrate       webintegrate    webintegrate     microbiomeSite mbio-build-60
+integrate.orthomcl.org         orth-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate     orthoSite      master
+integrate.microbiomedb.org     eda-inc     cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate     microbiomeSite mbio-build-60
 integrate.vectorbase.org       vect-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        master
 #integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
 
-b1.amoebadb.org                ameb047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.clinepidb.org               eda-rbld     cecommdevs              acctdbS           webwww            webwww          webwww     clinEpiSite        master
-b1.cryptodb.org                cryp047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.eupathdb.org                eupa-inc    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.fungidb.org                 fung047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.giardiadb.org               giar047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.hostdb.org                  host047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.microsporidiadb.org         micr047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.piroplasmadb.org            piro047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.plasmodb.org                plas047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.schistodb.net               schi047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.toxodb.org                  toxo047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.trichdb.org                 tvag047s    apicommbetaS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.tritrypdb.org               tryp047s    apicommbetaS         acctdbs           webwww            webwww          webwww     apiSite            master
-b1.microbiomedb.org            eda-rbld     cecommdevS              acctdbs           webwww            webwww          webwww     microbiomeSite     master
-b1.vectorbase.org              vect-inc    apicommdevS          acctdbS           webwww            webwww          webwww     apiSite            master
-b1.veupathdb.org               uni054n     apicommdevS          acctdbS           webwww            webwww          webwww     apiSite            master
-b1.orthomcl.org                orth047s    apicommS         acctdbs           webwww            webwww          webwww         orthoSite          master
+b1.amoebadb.org                ameb047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.clinepidb.org               eda-rbld    cecommdevs          acctdbS           webwww            webwww          webwww     clinEpiSite        master
+b1.cryptodb.org                cryp047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.eupathdb.org                eupa-inc    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.fungidb.org                 fung047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.giardiadb.org               giar047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.hostdb.org                  host047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.microsporidiadb.org         micr047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.piroplasmadb.org            piro047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.plasmodb.org                plas047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.schistodb.net               schi047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.toxodb.org                  toxo047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.trichdb.org                 tvag047s    apicommbetaS        acctdbS           webwww            webwww          webwww     apiSite            master
+b1.tritrypdb.org               tryp047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
+b1.microbiomedb.org            eda-rbld    cecommdevS          acctdbs           webwww            webwww          webwww     microbiomeSite     master
+b1.vectorbase.org              vect-inc    apicommdevS         acctdbS           webwww            webwww          webwww     apiSite            master
+b1.veupathdb.org               uni054n     apicommdevS         acctdbS           webwww            webwww          webwww     apiSite            master
+b1.orthomcl.org                rm51069     apicommS            acctdbs           webwww            webwww          webwww     orthoSite          diamond
 
-b2.amoebadb.org                ameb047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.clinepidb.org               eda-rbld    cecommdevN           acctdbN           webwww            webwww          webwww     clinEpiSite        master
-b2.cryptodb.org                cryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.eupathdb.org                eupa-inc    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.fungidb.org                 fung047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.giardiadb.org               giar047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.hostdb.org                  host047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.microsporidiadb.org         micr047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.piroplasmadb.org            piro047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
+b2.amoebadb.org                ameb047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.clinepidb.org               eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
+b2.cryptodb.org                cryp047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.eupathdb.org                eupa-inc    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.fungidb.org                 fung047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.giardiadb.org               giar047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.hostdb.org                  host047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.microsporidiadb.org         micr047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.piroplasmadb.org            piro047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
 b2.plasmodb.org                plas068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-c
-b2.schistodb.net               schi047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.toxodb.org                  toxo047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.trichdb.org                 tvag047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.tritrypdb.org               tryp047n    apicommbetaN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.microbiomedb.org            eda-rbld    cecommdevN           acctdbN           webwww            webwww          webwww     microbiomeSite   master
+b2.schistodb.net               schi047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.toxodb.org                  toxo047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.trichdb.org                 tvag047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.tritrypdb.org               tryp047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+b2.microbiomedb.org            eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
 b2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-c
-b2.veupathdb.org               uni054n     apicommN         acctdbN            webwww            webwww          webwww        apiSite            master
-b2.orthomcl.org                orth047n    apicommN         acctdbN           webwww            webwww          webwww         orthoSite          master
+b2.veupathdb.org               uni054n     apicommN            acctdbN           webwww            webwww          webwww     apiSite            master
+b2.orthomcl.org                rm51069     apicommN            acctdbN           webwww            webwww          webwww     orthoSite          diamond
 
 q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
 q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
@@ -96,7 +96,7 @@ q2.plasmodb.org                plas068n    apicommdevN         acctdbN          
 q2.toxodb.org                  toxo068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.trichdb.org                 tvag068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.tritrypdb.org               tryp068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.microbiomedb.org            eda-inc    cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite      master
+q2.microbiomedb.org            eda-inc     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
 q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
@@ -163,28 +163,28 @@ maint.trichdb.org              tvag037s     apicomms           acctdbS          
 maint.tritrypdb.org            tryp037s     apicomms           acctdbS           aurreco      aurreco     aurreco             apiSite             master
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           ameb-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.clinepidb.org          rm43647     cecommdevn           acctdbN           webpatch        webpatch    webpatch         clinEpiSite        master
-feature.cryptodb.org           cryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.giardiadb.org          giar-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.microbiomedb.org       eda063n     cecommDevN           acctdbN           webpatch        webpatch    webpatch         microbiomeSite      api-build-63
-feature.microsporidiadb.org    micr-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.piroplasmadb.org       piro-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.amoebadb.org           ameb-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.clinepidb.org          rm43647     cecommdevn          acctdbN           webpatch        webpatch    webpatch         clinEpiSite        master
+feature.cryptodb.org           cryp-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.giardiadb.org          giar-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.microbiomedb.org       eda063n     cecommDevN          acctdbN           webpatch        webpatch    webpatch         microbiomeSite     api-build-63
+feature.microsporidiadb.org    micr-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.piroplasmadb.org       piro-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.plasmodb.org           plas-inc    apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.schistodb.net          schi-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.toxodb.org             toxo-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.trichdb.org            tvag-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.tritrypdb.org          tryp-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.fungidb.org            fung-inc    apicommDevN          acctdbN           webpatch        webpatch    webpach           apiSite            master
-feature.hostdb.org             host-inc    apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.vectorbase.org         vect-inc     apicommDevN          acctdbN           webpatch        webpatch    webpatch         apiSite           master
-feature.orthomcl.org           rm51069    apicommDevN          acctdbN           webpatch      webpatch    webpatch         orthoSite          diamond
-feature.veupathdb.org          uni-inc     apicommdevn          acctdbN           webpatch        webpatch    webpatch         custom             unidb_feature.yml
+feature.schistodb.net          schi-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.toxodb.org             toxo-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.trichdb.org            tvag-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.tritrypdb.org          tryp-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.fungidb.org            fung-inc    apicommDevN         acctdbN           webpatch        webpatch    webpach          apiSite            master
+feature.hostdb.org             host-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.vectorbase.org         vect-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.orthomcl.org           rm51069     apicommDevN         acctdbN           webpatch        webpatch    webpatch         orthoSite          diamond
+feature.veupathdb.org          uni-inc     apicommdevn         acctdbN           webpatch        webpatch    webpatch         custom             unidb_feature.yml
 
 # Alpha sites, https://redmine.apidb.org/issues/51468
-alpha.microbiomedb.org         eda0632n     cecommDevN           acctDbN           webwww            webwww    webwww           microbiomeSite     api-build-63
+alpha.microbiomedb.org         eda0632n     cecommDevN         acctDbN           webwww          webwww      webwww           microbiomeSite     api-build-63
 
 # temporary r50 plasmo
-r50.plasmodb.org               plas050s    apicomms-r50            acctdbS           webwww            webwww          webwww     apiSite     master
+r50.plasmodb.org               plas050s    apicomms-r50        acctdbS           webwww          webwww      webwww           apiSite            master
 
-bbelnap.cryptodb.org           cryp-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite             master
+bbelnap.cryptodb.org           cryp-inc    apicommdevN         acctdbN           webwww          webwww      webwww           apiSite            master
