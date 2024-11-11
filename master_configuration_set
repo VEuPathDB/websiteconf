@@ -46,7 +46,7 @@ b1.tritrypdb.org               tryp047s    apicommbetaS        acctdbs          
 b1.microbiomedb.org            eda-rbld    cecommdevS          acctdbs           webwww            webwww          webwww     microbiomeSite     master
 b1.vectorbase.org              vect-inc    apicommdevS         acctdbS           webwww            webwww          webwww     apiSite            master
 b1.veupathdb.org               uni054n     apicommdevS         acctdbS           webwww            webwww          webwww     apiSite            master
-b1.orthomcl.org                rm51069     apicommS            acctdbs           webwww            webwww          webwww     orthoSite          diamond
+b1.orthomcl.org                rm51069     apicommdevS         acctdbs           webwww            webwww          webwww     orthoSite          diamond
 
 b2.amoebadb.org                ameb047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
 b2.clinepidb.org               eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
@@ -65,7 +65,7 @@ b2.tritrypdb.org               tryp047n    apicommbetaN        acctdbN          
 b2.microbiomedb.org            eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
 b2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            api-build-68-c
 b2.veupathdb.org               uni054n     apicommN            acctdbN           webwww            webwww          webwww     apiSite            master
-b2.orthomcl.org                rm51069     apicommN            acctdbN           webwww            webwww          webwww     orthoSite          diamond
+b2.orthomcl.org                rm51069     apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          diamond
 
 q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
 q1.cryptodb.org                cryp-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            master
