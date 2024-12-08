@@ -115,8 +115,8 @@ w1.plasmodb.org                plas068s    apicommS            acctdbS          
 w1.toxodb.org                  toxo068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-d
 w1.trichdb.org                 tvag068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-d
 w1.tritrypdb.org               tryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-d
-w1.microbiomedb.org            eda068s     cecommS             acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-68-c
-w1.clinepidb.org               eda068s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-68-c
+w1.microbiomedb.org            eda068s     cecommS             acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-68-d
+w1.clinepidb.org               eda068s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-68-d
 w1.orthomcl.org                orth068s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-68-c
 w1.vectorbase.org              vect068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-d
 
