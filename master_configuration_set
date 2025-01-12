@@ -175,7 +175,7 @@ feature.schistodb.net          schi-inc    apicommDevN         acctdbN          
 feature.toxodb.org             toxo-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.trichdb.org            tvag-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.tritrypdb.org          tryp-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.fungidb.org            fung-inc    apicommDevN         acctdbN           webpatch        webpatch    webpach          apiSite            master
+feature.fungidb.org            fung-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch          apiSite            master
 feature.hostdb.org             host-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.vectorbase.org         vect-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.orthomcl.org           rm51069     apicommDevN         acctdbN           webpatch        webpatch    webpatch         orthoSite          diamond
