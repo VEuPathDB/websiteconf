@@ -170,7 +170,7 @@ feature.giardiadb.org          giar-inc    apicommDevN         acctdbN          
 feature.microbiomedb.org       eda063n     cecommDevN          acctdbN           webpatch        webpatch    webpatch         microbiomeSite     api-build-63
 feature.microsporidiadb.org    micr-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.piroplasmadb.org       piro-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.plasmodb.org           UniDB_shu_A apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
+feature.plasmodb.org           UniDB_shu_B apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
 feature.schistodb.net          schi-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.toxodb.org             toxo-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.trichdb.org            tvag-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
