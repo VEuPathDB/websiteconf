@@ -177,7 +177,7 @@ feature.trichdb.org            tvag-inc    apicommDevN         acctdbN          
 feature.tritrypdb.org          UniDB_shu_B apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
 feature.fungidb.org            fung-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch          apiSite            master
 feature.hostdb.org             host-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.vectorbase.org         vect-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
+feature.vectorbase.org         UniDB_shu_B apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
 feature.orthomcl.org           UniDB_shu_A apicommDevN         acctdbN           webpatch        webpatch    webpatch         orthoSite          master
 feature.veupathdb.org          UniDB_shu_B apicommdevn         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
 
