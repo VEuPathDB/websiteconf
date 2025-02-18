@@ -101,7 +101,7 @@ q2.clinepidb.org               eda-inc     cecommdevN          acctdbN          
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.vectorbase.org              vect-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
 q2.veupathdb.org               eupa-inc    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-q2.orthomcl.org                orth070n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          master
+q2.orthomcl.org                rm51069     apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          master
 
 w1.amoebadb.org                ameb068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
 w1.cryptodb.org                cryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
