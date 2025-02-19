@@ -143,6 +143,8 @@ l2.clinepidb.org               clin053n    cecommN             acctdbN          
 l1.microbiomedb.org            mbio061s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 l2.microbiomedb.org            mbio061n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 
+l2.orthomcl.org                orth068n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-68-c
+
 # other (pre-acctdb column format)
 #qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
 #pr1.plasmodb.org               prisbl1s     prsmcommS   plasmodbwww   uga_fed
