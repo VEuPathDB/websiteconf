@@ -172,14 +172,14 @@ feature.giardiadb.org          giar-inc    apicommDevN         acctdbN          
 feature.microbiomedb.org       eda063n     cecommDevN          acctdbN           webpatch        webpatch    webpatch         microbiomeSite     api-build-63
 feature.microsporidiadb.org    micr-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.piroplasmadb.org       piro-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.plasmodb.org           UniDB_shu_B apicommdevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
+feature.plasmodb.org           UniDB_shu_B apicommdevN         acctdbN           wdk_plas_feat   webpatch    webpatch         apiSite            webdb_workflow
 feature.schistodb.net          schi-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.toxodb.org             toxo-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
 feature.trichdb.org            tvag-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.tritrypdb.org          UniDB_shu_B apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
+feature.tritrypdb.org          UniDB_shu_B apicommDevN         acctdbN           wdk_tryp_feat   webpatch    webpatch         apiSite            webdb_workflow
 feature.fungidb.org            fung-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch          apiSite            master
 feature.hostdb.org             host-inc    apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            master
-feature.vectorbase.org         UniDB_shu_B apicommDevN         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
+feature.vectorbase.org         UniDB_shu_B apicommDevN         acctdbN           wdk_vect_feat   webpatch    webpatch         apiSite            webdb_workflow
 feature.orthomcl.org           UniDB_shu_A apicommDevN         acctdbN           webpatch        webpatch    webpatch         orthoSite          master
 feature.veupathdb.org          UniDB_shu_B apicommdevn         acctdbN           webpatch        webpatch    webpatch         apiSite            webdb_workflow
 
