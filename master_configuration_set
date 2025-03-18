@@ -93,7 +93,7 @@ q2.hostdb.org                  host068n    apicommdevN         acctdbN          
 q2.microsporidiadb.org         micr068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.piroplasmadb.org            piro068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.plasmodb.org                plas068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
-q2.toxodb.org                  toxo-inc    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
+q2.toxodb.org                  toxo068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.trichdb.org                 tvag068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.tritrypdb.org               tryp068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.microbiomedb.org            eda-inc     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
@@ -101,7 +101,7 @@ q2.clinepidb.org               eda-inc     cecommdevN          acctdbN          
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 q2.vectorbase.org              vect068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
 q2.veupathdb.org               eupa068n    apicommdevN         acctdbN           webpatch            webwww          webwww     apiSite            master
-q2.orthomcl.org                rm51069     apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          master
+q2.orthomcl.org                orth070n     apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          master
 
 w1.amoebadb.org                ameb068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
 w1.cryptodb.org                cryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
