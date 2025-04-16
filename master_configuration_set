@@ -143,7 +143,7 @@ w2.vectorbase.org              vect068n    apicommN            acctdbN          
 # l1.microbiomedb.org            mbio061s    apicommS            acctdbS           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 # l2.microbiomedb.org            mbio061n    apicommN            acctdbN           webwww            webwww          webwww     microbiomeSite      mbio-build-61
 
-l1.orthomcl.org                orth068s-next    apicommlegacyS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-68-c
+l1.orthomcl.org                orth068s    apicommlegacyS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-68-c
 l2.orthomcl.org                orth068n    apicommlegacyN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-68-c
 
 # other (pre-acctdb column format)
