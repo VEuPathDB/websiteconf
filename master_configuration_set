@@ -134,7 +134,7 @@ w2.trichdb.org                 tvag068n    apicommN            acctdbN          
 w2.tritrypdb.org               tryp068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-68-e
 w2.microbiomedb.org            eda068n     cecommN             acctdbN           webwww            webwww          webwww     microbiomeSite      api-build-68-e
 w2.clinepidb.org               eda068n     cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-68-e
-w2.orthomcl.org                orth068n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-68-c
+w2.orthomcl.org                orth070n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-legacy-68-f
 w2.vectorbase.org              vect068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-build-68-e
 
 # l1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
