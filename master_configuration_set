@@ -166,16 +166,16 @@ l2.orthomcl.org                orth068n    apicommlegacyN            acctdbN    
 # maint.tritrypdb.org            tryp037s     apicomms           acctdbS           aurreco      aurreco     aurreco             apiSite             master
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
+feature.amoebadb.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.clinepidb.org          rm43647        cecommdevn      acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         clinEpiSite       master
 feature.cryptodb.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
-feature.giardiadb.org          UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
+feature.giardiadb.org          GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.microbiomedb.org       eda063n        cecommDevN      acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         microbiomeSite    master
-feature.microsporidiadb.org    UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
+feature.microsporidiadb.org    GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.piroplasmadb.org       GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.plasmodb.org           UniDB_shu_A    apicomm         acctdbN        wdk_plas_feat   wdk_plas_feat    webpatch         apiSite           master
 feature.toxodb.org             GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
-feature.trichdb.org            UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
+feature.trichdb.org            GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.tritrypdb.org          UniDB_shu_A    apicomm         acctdbN        wdk_tryp_feat   wdk_tryp_feat    webpatch         apiSite           master
 feature.fungidb.org            UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
 feature.hostdb.org             UniDB_shu_A    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
