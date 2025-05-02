@@ -103,22 +103,22 @@ q2.vectorbase.org              vect068n    apicommdevN         acctdbN          
 q2.veupathdb.org               eupa068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
 q2.orthomcl.org                orth070n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          api-legacy-68-g
 
-w1.amoebadb.org                ameb068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.cryptodb.org                cryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.veupathdb.org               eupa068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.fungidb.org                 fung068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.giardiadb.org               giar068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.hostdb.org                  host068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.microsporidiadb.org         micr068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.piroplasmadb.org            piro068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.plasmodb.org                plas068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.toxodb.org                  toxo068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.trichdb.org                 tvag068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.tritrypdb.org               tryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
-w1.microbiomedb.org            eda068s     cecommS             acctdbS           webwww            webwww          webwww     microbiomeSite      api-build-68-e
-w1.clinepidb.org               eda068s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-68-e
+w1.amoebadb.org                ameb068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.cryptodb.org                cryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.veupathdb.org               eupa068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.fungidb.org                 fung068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.giardiadb.org               giar068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.hostdb.org                  host068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.microsporidiadb.org         micr068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.piroplasmadb.org            piro068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.plasmodb.org                plas068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.toxodb.org                  toxo068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.trichdb.org                 tvag068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.tritrypdb.org               tryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
+w1.microbiomedb.org            eda068s     cecommS             acctdbS           webwww            webwww          webwww     microbiomeSite      api-legacy-68-f
+w1.clinepidb.org               eda068s     cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-legacy-68-f
 w1.orthomcl.org                orth070s    apicommS            acctdbS           webwww            webwww          webwww     orthoSite           api-legacy-68-f
-w1.vectorbase.org              vect068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-build-68-e
+w1.vectorbase.org              vect068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
 
 w2.amoebadb.org                ameb068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-legacy-68-f
 w2.cryptodb.org                cryp068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-legacy-68-f
