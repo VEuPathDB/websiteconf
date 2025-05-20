@@ -189,5 +189,6 @@ feature.veupathdb.org          UniDB_shu_A    apicomm         acctdbN        wdk
 # temporary r50 plasmo
 # r50.plasmodb.org               plas050s    apicomms-r50        acctdbS           webwww          webwww      webwww           apiSite            master
 
+rdoherty.plasmodb.org            GenomicsDB_ReflowPlus    apicommFeatureN      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
 rdoherty.cryptodb.org            GenomicsDB_ReflowPlus    apicommFeatureN      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
 # bbelnap.cryptodb.org           cryp-inc    apicommdevN         acctdbN           webwww          webwww      webwww           apiSite            master
