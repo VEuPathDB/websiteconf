@@ -168,7 +168,7 @@ l2.orthomcl.org                orth068n    apicommlegacyN            acctdbN    
 # Feature Sites, https://redmine.apidb.org/issues/18965
 feature.amoebadb.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.clinepidb.org          rm43647        cecommdevn      acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         clinEpiSite       master
-feature.cryptodb.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
+feature.cryptodb.org           GenomicsDB_ReflowPlus    apicommFeatureN      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
 feature.giardiadb.org          GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
 feature.microbiomedb.org       eda063n        cecommDevN      acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         microbiomeSite    master
 feature.microsporidiadb.org    GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
