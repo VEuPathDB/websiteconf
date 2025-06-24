@@ -186,9 +186,6 @@ feature.veupathdb.org          GenomicsDB_ReflowPlus    apicomm         acctdbN 
 # Alpha sites, https://redmine.apidb.org/issues/51468
 # alpha.microbiomedb.org         eda0632n     cecommDevN         acctDbN           webwww          webwww      webwww           microbiomeSite     api-build-63
 
-# temporary r50 plasmo
-# r50.plasmodb.org               plas050s    apicomms-r50        acctdbS           webwww          webwww      webwww           apiSite            master
-
-rdoherty.plasmodb.org            GenomicsDB_ReflowPlus    apicommFeatureN      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
-rdoherty.cryptodb.org            GenomicsDB_ReflowPlus    apicommFeatureN      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
-# bbelnap.cryptodb.org           cryp-inc    apicommdevN         acctdbN           webwww          webwww      webwww           apiSite            master
+# Dev sites with QA/prod conifer_site_vars.yml
+rdoherty.plasmodb.org            GenomicsDB_ReflowPlus    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
+rdoherty.cryptodb.org            GenomicsDB_ReflowPlus    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
