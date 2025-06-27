@@ -180,7 +180,7 @@ feature.tritrypdb.org          GenomicsDB_ReflowPlus    apicomm         acctdbN 
 feature.fungidb.org            GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_fung_feat   wdk_fung_feat    webpatch         apiSite           ReflowPlus
 feature.hostdb.org             GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_host_feat   wdk_host_feat    webpatch         apiSite           ReflowPlus
 feature.vectorbase.org         GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           ReflowPlus
-feature.orthomcl.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         orthoSite         ReflowPlus
+feature.orthomcl.org           GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_orth_feat   wdk_orth_feat    webpatch         orthoSite         ReflowPlus
 feature.veupathdb.org          GenomicsDB_ReflowPlus    apicomm         acctdbN        wdk_eupa_feat   wdk_eupa_feat    webpatch         apiSite           ReflowPlus
 
 # Alpha sites, https://redmine.apidb.org/issues/51468
