@@ -9,25 +9,23 @@
 site                           appDb_name  userDb_name      acctDb_name         appDb_login        userDb_login   acctDb_login    scm_group       scm_branch
 
 # Integration sites use apicommDev per Steve and Brian @4/11/2013 manager's meeting
-integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.clinepidb.org        eda-inc     cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate    clinEpiSite    api-legacy-68-f
-integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.eupathdb.org         eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.giardiadb.org        giar-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.piroplasmadb.org     piro-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.plasmodb.org         plas-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.schistodb.net        schi-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.orthomcl.org         rm51069    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate     orthoSite      api-legacy-68-f
-integrate.microbiomedb.org     eda-inc     cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate     microbiomeSite api-legacy-68-f
-integrate.vectorbase.org       vect-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-f
-#integrate.wdk.apidb.org        sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  NA gusintegrate  gusintegrate NA
+integrate.amoebadb.org         ameb-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.clinepidb.org        eda-inc     cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate    clinEpiSite    api-legacy-68-g
+integrate.cryptodb.org         cryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.eupathdb.org         eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.fungidb.org          fung-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.giardiadb.org        giar-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.hostdb.org           host-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.microsporidiadb.org  micr-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.piroplasmadb.org     piro-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.plasmodb.org         plas-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.toxodb.org           toxo-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.trichdb.org          tvag-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.tritrypdb.org        tryp-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.orthomcl.org         rm51069     apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    orthoSite      api-legacy-68-g
+integrate.microbiomedb.org     eda-inc     cecommDevN          acctdbN          webintegrate       webintegrate    webintegrate    microbiomeSite api-legacy-68-g
+integrate.vectorbase.org       vect-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
+integrate.veupathdb.org        eupa-inc    apicommDevN         acctdbN          webintegrate       webintegrate    webintegrate    apiSite        api-legacy-68-g
 
 b1.amoebadb.org                ameb047s    apicommbetaS        acctdbs           webwww            webwww          webwww     apiSite            master
 b1.clinepidb.org               eda-rbld    cecommdevs          acctdbS           webwww            webwww          webwww     clinEpiSite        master
