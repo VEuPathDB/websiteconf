@@ -101,6 +101,24 @@ q2.vectorbase.org              vect068n    apicommdevN         acctdbN          
 q2.veupathdb.org               eupa068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
 q2.orthomcl.org                orth070n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          api-legacy-68-g
 
+q5.amoebadb.org                ameb068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.cryptodb.org                cryp068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.fungidb.org                 fung068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.giardiadb.org               giar068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.hostdb.org                  host068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.microsporidiadb.org         micr068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.piroplasmadb.org            piro068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.plasmodb.org                plas068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.toxodb.org                  toxo068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.trichdb.org                 tvag068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.tritrypdb.org               tryp068s    apicommDevS         acctdbs           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.microbiomedb.org            eda-inc     cecommDevS          acctdbs           webwww            webwww          webwww     microbiomeSite     api-legacy-68-g-rocky9
+q5.clinepidb.org               eda-inc     cecommdevS          acctdbS           webwww            webwww          webwww     clinEpiSite        api-legacy-68-g-rocky9
+q5.restricted.clinepidb.org    eda-inc     cecommDevS          acctdbS           webwww            webwww          webwww     clinEpiSite        api-legacy-68-g-rocky9
+q5.vectorbase.org              vect068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.veupathdb.org               eupa068s    apicommDevS         acctdbS           webpatch          webwww          webwww     apiSite            api-legacy-68-g-rocky9
+q5.orthomcl.org                orth070s    apicommDevS         acctdbS           webwww            webwww          webwww     orthoSite          api-legacy-68-g-rocky9
+
 w1.amoebadb.org                ameb068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
 w1.cryptodb.org                cryp068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
 w1.veupathdb.org               eupa068s    apicommS            acctdbS           webwww            webwww          webwww     apiSite             api-legacy-68-f
@@ -135,6 +153,23 @@ w2.clinepidb.org               eda068n     cecommN             acctdbN          
 w2.orthomcl.org                orth070n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-legacy-68-f
 w2.vectorbase.org              vect068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-legacy-68-f
 
+w5.amoebadb.org                ameb068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.cryptodb.org                cryp068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.veupathdb.org               eupa068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.fungidb.org                 fung068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.giardiadb.org               giar068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.hostdb.org                  host068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.microsporidiadb.org         micr068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.piroplasmadb.org            piro068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.plasmodb.org                plas068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.toxodb.org                  toxo068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.trichdb.org                 tvag068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.tritrypdb.org               tryp068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.microbiomedb.org            eda068s     cecommS             acctdbS           webwwwS           webwww          webwww     microbiomeSite      api-legacy-68-f-rocky9
+w5.clinepidb.org               eda068s     cecommS             acctdbS           webwwwS           webwww          webwww     clinEpiSite         api-legacy-68-f-rocky9
+w5.orthomcl.org                orth070s    apicommS            acctdbS           webwwwS           webwww          webwww     orthoSite           api-legacy-68-f-rocky9
+w5.vectorbase.org              vect068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+
 # l1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
 # l2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
 
@@ -143,6 +178,7 @@ w2.vectorbase.org              vect068n    apicommN            acctdbN          
 
 l1.orthomcl.org                orth068s    apicommlegacyS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-68-c
 l2.orthomcl.org                orth068n    apicommlegacyN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-68-c
+l5.orthomcl.org                orth068s    apicommlegacyN            acctdbN           webwwwS           webwww          webwww     orthoSite           api-build-68-c-rocky9
 
 # other (pre-acctdb column format)
 #qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
