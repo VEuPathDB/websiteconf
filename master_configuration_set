@@ -178,7 +178,7 @@ w5.vectorbase.org              vect068s    apicommS            acctdbS          
 
 l1.orthomcl.org                orth068s    apicommlegacyS            acctdbS           webwww            webwww          webwww     orthoSite           api-build-68-c
 l2.orthomcl.org                orth068n    apicommlegacyN            acctdbN           webwww            webwww          webwww     orthoSite           api-build-68-c
-l5.orthomcl.org                orth068s    apicommlegacyN            acctdbN           webwwwS           webwww          webwww     orthoSite           api-build-68-c-rocky9
+l5.orthomcl.org                orth068s    apicommlegacyS            acctdbS           webwwwS           webwww          webwww     orthoSite           api-build-68-c-rocky9
 
 # other (pre-acctdb column format)
 #qa.wdk.apidb.org               sorva.gacrc.uga.edu/wdk200s sorva.gacrc.uga.edu/wdk200s  gusintegrate  gusintegrate
