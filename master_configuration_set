@@ -153,22 +153,22 @@ w2.clinepidb.org               eda068n     cecommN             acctdbN          
 w2.orthomcl.org                orth070n    apicommN            acctdbN           webwww            webwww          webwww     orthoSite           api-legacy-68-f
 w2.vectorbase.org              vect068n    apicommN            acctdbN           webwww            webwww          webwww     apiSite             api-legacy-68-f
 
-w5.amoebadb.org                ameb068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.cryptodb.org                cryp068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.veupathdb.org               eupa068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.fungidb.org                 fung068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.giardiadb.org               giar068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.hostdb.org                  host068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.microsporidiadb.org         micr068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.piroplasmadb.org            piro068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.plasmodb.org                plas068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.toxodb.org                  toxo068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.trichdb.org                 tvag068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.tritrypdb.org               tryp068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
-w5.microbiomedb.org            eda068s     cecommS             acctdbS           webwwwS           webwww          webwww     microbiomeSite      api-legacy-68-f-rocky9
-w5.clinepidb.org               eda068s     cecommS             acctdbS           webwwwS           webwww          webwww     clinEpiSite         api-legacy-68-f-rocky9
-w5.orthomcl.org                orth070s    apicommS            acctdbS           webwwwS           webwww          webwww     orthoSite           api-legacy-68-f-rocky9
-w5.vectorbase.org              vect068s    apicommS            acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.amoebadb.org                ameb068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.cryptodb.org                cryp068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.veupathdb.org               eupa068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.fungidb.org                 fung068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.giardiadb.org               giar068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.hostdb.org                  host068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.microsporidiadb.org         micr068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.piroplasmadb.org            piro068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.plasmodb.org                plas068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.toxodb.org                  toxo068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.trichdb.org                 tvag068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.tritrypdb.org               tryp068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
+w5.microbiomedb.org            eda068s     cecommDevS          acctdbS           webwwwS           webwww          webwww     microbiomeSite      api-legacy-68-f-rocky9
+w5.clinepidb.org               eda068s     cecommDevS          acctdbS           webwwwS           webwww          webwww     clinEpiSite         api-legacy-68-f-rocky9
+w5.orthomcl.org                orth070s    apicommDevS         acctdbS           webwwwS           webwww          webwww     orthoSite           api-legacy-68-f-rocky9
+w5.vectorbase.org              vect068s    apicommDevS         acctdbS           webwwwS           webwww          webwww     apiSite             api-legacy-68-f-rocky9
 
 # l1.clinepidb.org               clin053s    cecommS             acctdbS           webwww            webwww          webwww     clinEpiSite         api-build-53
 # l2.clinepidb.org               clin053n    cecommN             acctdbN           webwww            webwww          webwww     clinEpiSite         api-build-53
