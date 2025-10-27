@@ -200,26 +200,26 @@ l5.orthomcl.org                orth068s    apicommlegacyS            acctdbS    
 # maint.tritrypdb.org            tryp037s     apicomms           acctdbS           aurreco      aurreco     aurreco             apiSite             master
 
 # Feature Sites, https://redmine.apidb.org/issues/18965
-feature.amoebadb.org           GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_ameb_feat   wdk_ameb_feat    webpatch         apiSite           master
-feature.clinepidb.org          GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         clinEpiSite       master
-feature.cryptodb.org           GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_cryp_feat   wdk_cryp_feat    webpatch         apiSite           master
-feature.giardiadb.org          GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_giar_feat   wdk_giar_feat    webpatch         apiSite           master
-feature.microbiomedb.org       GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         microbiomeSite    master
-feature.microsporidiadb.org    GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_micr_feat   wdk_micr_feat    webpatch         apiSite           master
-feature.piroplasmadb.org       GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_piro_feat   wdk_piro_feat    webpatch         apiSite           master
-feature.plasmodb.org           GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_plas_feat   wdk_plas_feat    webpatch         apiSite           master
-feature.toxodb.org             GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_toxo_feat   wdk_toxo_feat    webpatch         apiSite           master
-feature.trichdb.org            GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_tvag_feat   wdk_tvag_feat    webpatch         apiSite           master
-feature.tritrypdb.org          GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_tryp_feat   wdk_tryp_feat    webpatch         apiSite           master
-feature.fungidb.org            GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_fung_feat   wdk_fung_feat    webpatch         apiSite           master
-feature.hostdb.org             GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_host_feat   wdk_host_feat    webpatch         apiSite           master
-feature.vectorbase.org         GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
-feature.orthomcl.org           GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_orth_feat   wdk_orth_feat    webpatch         orthoSite         master
-feature.veupathdb.org          GenomicsDB_ReflowPlus    userdb_devn         acctdbN        wdk_eupa_feat   wdk_eupa_feat    webpatch         apiSite           master
+feature.amoebadb.org           genomicsdb_devn    userdb_devn         acctdbN        wdk_ameb_feat   wdk_ameb_feat    webpatch         apiSite           master
+feature.clinepidb.org          genomicsdb_devn    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         clinEpiSite       master
+feature.cryptodb.org           genomicsdb_devn    userdb_devn         acctdbN        wdk_cryp_feat   wdk_cryp_feat    webpatch         apiSite           master
+feature.giardiadb.org          genomicsdb_devn    userdb_devn         acctdbN        wdk_giar_feat   wdk_giar_feat    webpatch         apiSite           master
+feature.microbiomedb.org       genomicsdb_devn    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         microbiomeSite    master
+feature.microsporidiadb.org    genomicsdb_devn    userdb_devn         acctdbN        wdk_micr_feat   wdk_micr_feat    webpatch         apiSite           master
+feature.piroplasmadb.org       genomicsdb_devn    userdb_devn         acctdbN        wdk_piro_feat   wdk_piro_feat    webpatch         apiSite           master
+feature.plasmodb.org           genomicsdb_devn    userdb_devn         acctdbN        wdk_plas_feat   wdk_plas_feat    webpatch         apiSite           master
+feature.toxodb.org             genomicsdb_devn    userdb_devn         acctdbN        wdk_toxo_feat   wdk_toxo_feat    webpatch         apiSite           master
+feature.trichdb.org            genomicsdb_devn    userdb_devn         acctdbN        wdk_tvag_feat   wdk_tvag_feat    webpatch         apiSite           master
+feature.tritrypdb.org          genomicsdb_devn    userdb_devn         acctdbN        wdk_tryp_feat   wdk_tryp_feat    webpatch         apiSite           master
+feature.fungidb.org            genomicsdb_devn    userdb_devn         acctdbN        wdk_fung_feat   wdk_fung_feat    webpatch         apiSite           master
+feature.hostdb.org             genomicsdb_devn    userdb_devn         acctdbN        wdk_host_feat   wdk_host_feat    webpatch         apiSite           master
+feature.vectorbase.org         genomicsdb_devn    userdb_devn         acctdbN        wdk_vect_feat   wdk_vect_feat    webpatch         apiSite           master
+feature.orthomcl.org           genomicsdb_devn    userdb_devn         acctdbN        wdk_orth_feat   wdk_orth_feat    webpatch         orthoSite         master
+feature.veupathdb.org          genomicsdb_devn    userdb_devn         acctdbN        wdk_eupa_feat   wdk_eupa_feat    webpatch         apiSite           master
 
 # Alpha sites, https://redmine.apidb.org/issues/51468
 # alpha.microbiomedb.org         eda0632n     cecommDevN         acctDbN           webwww          webwww      webwww           microbiomeSite     api-build-63
 
 # Dev sites with QA/prod conifer_site_vars.yml
-rdoherty.plasmodb.org            GenomicsDB_ReflowPlus    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
-rdoherty.cryptodb.org            GenomicsDB_ReflowPlus    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
+rdoherty.plasmodb.org            genomicsdb_devn    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
+rdoherty.cryptodb.org            genomicsdb_devn    apicomm      ---       wdk_plas_feat    wdk_plas_feat   ---    apiSite            master
