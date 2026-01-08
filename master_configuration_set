@@ -46,23 +46,23 @@ b1.vectorbase.org              vect-inc    apicommdevS         acctdbS          
 b1.veupathdb.org               uni054n     apicommdevS         acctdbS           webwww            webwww          webwww     apiSite            master
 b1.orthomcl.org                orth070s    apicommdevS         acctdbs           webwww            webwww          webwww     orthoSite          api-build-68-e
 
-b2.amoebadb.org                ameb047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
+
+b2.amoebadb.org         genomicsdb_068n    userdb_devn         acctdbN           wdk_ameb_feat      wdk_ameb_feat  webpatch   apiSite           master-rocky9
+b2.cryptodb.org         genomicsdb_068n    userdb_devn         acctdbN           wdk_cryp_feat      wdk_cryp_feat  webpatch   apiSite           master-rocky9
+b2.giardiadb.org        genomicsdb_068n    userdb_devn         acctdbN           wdk_giar_feat      wdk_giar_feat  webpatch   apiSite           master-rocky9
+b2.microsporidiadb.org  genomicsdb_068n    userdb_devn         acctdbN           wdk_micr_feat      wdk_micr_feat  webpatch   apiSite           master-rocky9
+b2.piroplasmadb.org     genomicsdb_068n    userdb_devn         acctdbN           wdk_piro_feat      wdk_piro_feat  webpatch   apiSite           master-rocky9
+b2.plasmodb.org         genomicsdb_068n    userdb_devn         acctdbN           wdk_plas_feat      wdk_plas_feat  webpatch   apiSite           master-rocky9
+b2.toxodb.org           genomicsdb_068n    userdb_devn         acctdbN           wdk_toxo_feat      wdk_toxo_feat  webpatch   apiSite           master-rocky9
+b2.trichdb.org          genomicsdb_068n    userdb_devn         acctdbN           wdk_tvag_feat      wdk_tvag_feat  webpatch   apiSite           master-rocky9
+b2.tritrypdb.org        genomicsdb_068n    userdb_devn         acctdbN           wdk_tryp_feat      wdk_tryp_feat  webpatch   apiSite           master-rocky9
+b2.fungidb.org          genomicsdb_068n    userdb_devn         acctdbN           wdk_fung_feat      wdk_fung_feat  webpatch   apiSite           master-rocky9
+b2.hostdb.org           genomicsdb_068n    userdb_devn         acctdbN           wdk_host_feat      wdk_host_feat  webpatch   apiSite           master-rocky9
+b2.vectorbase.org       genomicsdb_068n    userdb_devn         acctdbN           wdk_vect_feat      wdk_vect_feat  webpatch   apiSite           master-rocky9
+b2.veupathdb.org        genomicsdb_068n    userdb_devn         acctdbN           wdk_eupa_feat      wdk_eupa_feat  webpatch   apiSite           master-rocky9
+
 b2.clinepidb.org               eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
-b2.cryptodb.org                cryp047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.eupathdb.org                eupa-inc    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.fungidb.org                 fung047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.giardiadb.org               giar047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.hostdb.org                  host047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.microsporidiadb.org         micr047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.piroplasmadb.org            piro047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.plasmodb.org                plas068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.schistodb.net               schi047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.toxodb.org                  toxo047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.trichdb.org                 tvag047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
-b2.tritrypdb.org               tryp047n    apicommbetaN        acctdbN           webwww            webwww          webwww     apiSite            master
 b2.microbiomedb.org            eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
-b2.vectorbase.org              vect068n    apicommdevN         acctdbN           webwww            webwww          webwww     apiSite            master
-b2.veupathdb.org               uni054n     apicommN            acctdbN           webwww            webwww          webwww     apiSite            master
 b2.orthomcl.org                orth070n    apicommdevN         acctdbN           webwww            webwww          webwww     orthoSite          api-build-68-e
 
 q1.amoebadb.org                ameb-inc    apicommDevS         acctdbs           webwww            webwww          webwww     apiSite            api-legacy-68-g
