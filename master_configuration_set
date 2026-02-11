@@ -60,7 +60,7 @@ beta.fungidb.org          genomicsdb_069n    userdb_devn       acctdbN          
 beta.hostdb.org           genomicsdb_069n    userdb_devn       acctdbN           wdk_host_beta     wdk_host_beta   webpatch   apiSite            master
 beta.vectorbase.org       genomicsdb_069n    userdb_devn       acctdbN           wdk_vect_beta     wdk_vect_beta   webpatch   apiSite            master
 beta.veupathdb.org        genomicsdb_069n    userdb_devn       acctdbN           wdk_eupa_beta     wdk_eupa_beta   webpatch   apiSite            master
-beta.orthomcl.org         genomicsdb_069n    userdb_devnN      acctdbN           wdk_orth_beta     wdk_orth_beta   webpatch   orthoSite          master
+beta.orthomcl.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_orth_beta     wdk_orth_beta   webpatch   orthoSite          master
 
 b2.clinepidb.org               eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 b2.microbiomedb.org            eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
