@@ -47,20 +47,20 @@ b1.veupathdb.org               uni054n     apicommdevS         acctdbS          
 b1.orthomcl.org                orth070s    apicommdevS         acctdbs           webwww            webwww          webwww     orthoSite          api-build-68-e
 
 
-b2.amoebadb.org           genomicsdb_069n    userdb_devn       acctdbN           wdk_ameb_beta     wdk_ameb_beta   webpatch   apiSite            master
-beta.cryptodb.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_cryp_beta     wdk_cryp_beta   webpatch   apiSite            master
-beta.giardiadb.org        genomicsdb_069n    userdb_devn       acctdbN           wdk_giar_beta     wdk_giar_beta   webpatch   apiSite            master
-beta.microsporidiadb.org  genomicsdb_069n    userdb_devn       acctdbN           wdk_micr_beta     wdk_micr_beta   webpatch   apiSite            master
-beta.piroplasmadb.org     genomicsdb_069n    userdb_devn       acctdbN           wdk_piro_beta     wdk_piro_beta   webpatch   apiSite            master
-beta.plasmodb.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_plas_beta     wdk_plas_beta   webpatch   apiSite            master
-beta.toxodb.org           genomicsdb_069n    userdb_devn       acctdbN           wdk_toxo_beta     wdk_toxo_beta   webpatch   apiSite            master
-beta.trichdb.org          genomicsdb_069n    userdb_devn       acctdbN           wdk_tvag_beta     wdk_tvag_beta   webpatch   apiSite            master
-beta.tritrypdb.org        genomicsdb_069n    userdb_devn       acctdbN           wdk_tryp_beta     wdk_tryp_beta   webpatch   apiSite            master
-beta.fungidb.org          genomicsdb_069n    userdb_devn       acctdbN           wdk_fung_beta     wdk_fung_beta   webpatch   apiSite            master
-beta.hostdb.org           genomicsdb_069n    userdb_devn       acctdbN           wdk_host_beta     wdk_host_beta   webpatch   apiSite            master
-beta.vectorbase.org       genomicsdb_069n    userdb_devn       acctdbN           wdk_vect_beta     wdk_vect_beta   webpatch   apiSite            master
-beta.veupathdb.org        genomicsdb_069n    userdb_devn       acctdbN           wdk_eupa_beta     wdk_eupa_beta   webpatch   apiSite            master
-beta.orthomcl.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_orth_beta     wdk_orth_beta   webpatch   orthoSite          master
+b2.amoebadb.org         genomicsdb_069n    userdb_devn        acctdbN           wdk_ameb_beta     wdk_ameb_beta    webpatch   apiSite            master
+b2.cryptodb.org         genomicsdb_069n    userdb_devn        acctdbN           wdk_cryp_beta     wdk_cryp_beta    webpatch   apiSite            master
+b2.giardiadb.org        genomicsdb_069n    userdb_devn        acctdbN           wdk_giar_beta     wdk_giar_beta    webpatch   apiSite            master
+b2.microsporidiadb.org  genomicsdb_069n    userdb_devn        acctdbN           wdk_micr_beta     wdk_micr_beta    webpatch   apiSite            master
+b2.piroplasmadb.org     genomicsdb_069n    userdb_devn        acctdbN           wdk_piro_beta     wdk_piro_beta    webpatch   apiSite            master
+b2.plasmodb.org         genomicsdb_069n    userdb_devn        acctdbN           wdk_plas_beta     wdk_plas_beta    webpatch   apiSite            master
+b2.toxodb.org           genomicsdb_069n    userdb_devn        acctdbN           wdk_toxo_beta     wdk_toxo_beta    webpatch   apiSite            master
+b2.trichdb.org          genomicsdb_069n    userdb_devn        acctdbN           wdk_tvag_beta     wdk_tvag_beta    webpatch   apiSite            master
+b2.tritrypdb.org        genomicsdb_069n    userdb_devn        acctdbN           wdk_tryp_beta     wdk_tryp_beta    webpatch   apiSite            master
+b2.fungidb.org          genomicsdb_069n    userdb_devn        acctdbN           wdk_fung_beta     wdk_fung_beta    webpatch   apiSite            master
+b2.hostdb.org           genomicsdb_069n    userdb_devn        acctdbN           wdk_host_beta     wdk_host_beta    webpatch   apiSite            master
+b2.vectorbase.org       genomicsdb_069n    userdb_devn        acctdbN           wdk_vect_beta     wdk_vect_beta    webpatch   apiSite            master
+b2.veupathdb.org        genomicsdb_069n    userdb_devn        acctdbN           wdk_eupa_beta     wdk_eupa_beta    webpatch   apiSite            master
+b2.orthomcl.org         genomicsdb_069n    userdb_devn        acctdbN           wdk_orth_beta     wdk_orth_beta    webpatch   orthoSite          master
 
 b2.clinepidb.org               eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        master
 b2.microbiomedb.org            eda-rbld    cecommdevN          acctdbN           webwww            webwww          webwww     microbiomeSite     master
