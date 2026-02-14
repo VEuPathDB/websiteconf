@@ -47,7 +47,7 @@ b1.veupathdb.org               uni054n     apicommdevS         acctdbS          
 b1.orthomcl.org                orth070s    apicommdevS         acctdbs           webwww            webwww          webwww     orthoSite          api-build-68-e
 
 
-beta.amoebadb.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_ameb_beta     wdk_ameb_beta   webpatch   apiSite            master
+b2.amoebadb.org           genomicsdb_069n    userdb_devn       acctdbN           wdk_ameb_beta     wdk_ameb_beta   webpatch   apiSite            master
 beta.cryptodb.org         genomicsdb_069n    userdb_devn       acctdbN           wdk_cryp_beta     wdk_cryp_beta   webpatch   apiSite            master
 beta.giardiadb.org        genomicsdb_069n    userdb_devn       acctdbN           wdk_giar_beta     wdk_giar_beta   webpatch   apiSite            master
 beta.microsporidiadb.org  genomicsdb_069n    userdb_devn       acctdbN           wdk_micr_beta     wdk_micr_beta   webpatch   apiSite            master
