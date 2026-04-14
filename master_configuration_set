@@ -96,7 +96,7 @@ q2.toxodb.org                  toxo068n    apicommdevN         acctdbN          
 q2.trichdb.org                 tvag068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
 q2.tritrypdb.org               tryp068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
 q2.microbiomedb.org            eda-inc     cecommDevN          acctdbN           webwww            webwww          webwww     microbiomeSite     api-legacy-68-g
-q2.clinepidb.org               eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        api-legacy-68-g
+q2.clinepidb.org               eda068n     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        api-legacy-68-f
 q2.restricted.clinepidb.org    eda-inc     cecommdevN          acctdbN           webwww            webwww          webwww     clinEpiSite        api-legacy-68-g
 q2.vectorbase.org              vect068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
 q2.veupathdb.org               eupa068n    apicommdevN         acctdbN           webpatch          webwww          webwww     apiSite            api-legacy-68-g
