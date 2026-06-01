@@ -8,21 +8,21 @@
 # hash keys and their values must not be changed.
 site                            appDb_name         userDb_name       acctDb_name    appDb_login       userDb_login   acctDb_login     scm_group         scm_branch
 
-b1.amoebadb.org                 genomicsdb_069s    userdb_betan      acctdbS        wdk_ameb_beta     wdk_ameb_beta   webpatch        apiSite           master
-b1.cryptodb.org                 genomicsdb_069s    userdb_betan      acctdbS        wdk_cryp_beta     wdk_cryp_beta   webpatch        apiSite           master
-b1.giardiadb.org                genomicsdb_069s    userdb_betan      acctdbS        wdk_giar_beta     wdk_giar_beta   webpatch        apiSite           master
-b1.microsporidiadb.org          genomicsdb_069s    userdb_betan      acctdbS        wdk_micr_beta     wdk_micr_beta   webpatch        apiSite           master
-b1.piroplasmadb.org             genomicsdb_069s    userdb_betan      acctdbS        wdk_piro_beta     wdk_piro_beta   webpatch        apiSite           master
-b1.plasmodb.org                 genomicsdb_069s    userdb_betan      acctdbS        wdk_plas_beta     wdk_plas_beta   webpatch        apiSite           master
-b1.toxodb.org                   genomicsdb_069s    userdb_betan      acctdbS        wdk_toxo_beta     wdk_toxo_beta   webpatch        apiSite           master
-b1.trichdb.org                  genomicsdb_069s    userdb_betan      acctdbS        wdk_tvag_beta     wdk_tvag_beta   webpatch        apiSite           master
-b1.tritrypdb.org                genomicsdb_069s    userdb_betan      acctdbS        wdk_tryp_beta     wdk_tryp_beta   webpatch        apiSite           master
-b1.fungidb.org                  genomicsdb_069s    userdb_betan      acctdbS        wdk_fung_beta     wdk_fung_beta   webpatch        apiSite           master
-b1.hostdb.org                   genomicsdb_069s    userdb_betan      acctdbS        wdk_host_beta     wdk_host_beta   webpatch        apiSite           master
-b1.vectorbase.org               genomicsdb_069s    userdb_betan      acctdbS        wdk_vect_beta     wdk_vect_beta   webpatch        apiSite           master
-b1.veupathdb.org                genomicsdb_069s    userdb_betan      acctdbS        wdk_eupa_beta     wdk_eupa_beta   webpatch        apiSite           master
-b1.orthomcl.org                 genomicsdb_069s    userdb_betan      acctdbS        wdk_orth_beta     wdk_orth_beta   webpatch        orthoSite         master
-b1.dataexplorer.org             genomicsdb_069s    userdb_betan      acctdbS        wdk_dexp_beta     wdk_dexp_beta   webpatch        clinEpiSite       master
+b1.amoebadb.org                 genomicsdb_070s    userdb_betan      acctdbS        wdk_ameb_beta     wdk_ameb_beta   webpatch        apiSite           master
+b1.cryptodb.org                 genomicsdb_070s    userdb_betan      acctdbS        wdk_cryp_beta     wdk_cryp_beta   webpatch        apiSite           master
+b1.giardiadb.org                genomicsdb_070s    userdb_betan      acctdbS        wdk_giar_beta     wdk_giar_beta   webpatch        apiSite           master
+b1.microsporidiadb.org          genomicsdb_070s    userdb_betan      acctdbS        wdk_micr_beta     wdk_micr_beta   webpatch        apiSite           master
+b1.piroplasmadb.org             genomicsdb_070s    userdb_betan      acctdbS        wdk_piro_beta     wdk_piro_beta   webpatch        apiSite           master
+b1.plasmodb.org                 genomicsdb_070s    userdb_betan      acctdbS        wdk_plas_beta     wdk_plas_beta   webpatch        apiSite           master
+b1.toxodb.org                   genomicsdb_070s    userdb_betan      acctdbS        wdk_toxo_beta     wdk_toxo_beta   webpatch        apiSite           master
+b1.trichdb.org                  genomicsdb_070s    userdb_betan      acctdbS        wdk_tvag_beta     wdk_tvag_beta   webpatch        apiSite           master
+b1.tritrypdb.org                genomicsdb_070s    userdb_betan      acctdbS        wdk_tryp_beta     wdk_tryp_beta   webpatch        apiSite           master
+b1.fungidb.org                  genomicsdb_070s    userdb_betan      acctdbS        wdk_fung_beta     wdk_fung_beta   webpatch        apiSite           master
+b1.hostdb.org                   genomicsdb_070s    userdb_betan      acctdbS        wdk_host_beta     wdk_host_beta   webpatch        apiSite           master
+b1.vectorbase.org               genomicsdb_070s    userdb_betan      acctdbS        wdk_vect_beta     wdk_vect_beta   webpatch        apiSite           master
+b1.veupathdb.org                genomicsdb_070s    userdb_betan      acctdbS        wdk_eupa_beta     wdk_eupa_beta   webpatch        apiSite           master
+b1.orthomcl.org                 genomicsdb_070s    userdb_betan      acctdbS        wdk_orth_beta     wdk_orth_beta   webpatch        orthoSite         master
+b1.dataexplorer.org             genomicsdb_070s    userdb_betan      acctdbS        wdk_dexp_beta     wdk_dexp_beta   webpatch        clinEpiSite       master
 
 #b1.clinepidb.org               eda-rbld           cecommdevs        acctdbS        webwww            webwww          webwww          clinEpiSite       master
 #b1.microbiomedb.org            eda-rbld           cecommdevS        acctdbs        webwww            webwww          webwww          microbiomeSite    master
