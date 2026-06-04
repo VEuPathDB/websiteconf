@@ -41,7 +41,7 @@ b2.hostdb.org                   genomicsdb_069n    userdb_betan      acctdbN    
 b2.vectorbase.org               genomicsdb_069n    userdb_betan      acctdbN        wdk_vect_beta     wdk_vect_beta   webpatch        apiSite           api-build-69
 b2.veupathdb.org                genomicsdb_069n    userdb_betan      acctdbN        wdk_eupa_beta     wdk_eupa_beta   webpatch        apiSite           api-build-69
 b2.orthomcl.org                 genomicsdb_069n    userdb_betan      acctdbN        wdk_orth_beta     wdk_orth_beta   webpatch        orthoSite         api-build-69
-b2.dataexplorer.org             genomicsdb_069n    userdb_betan      acctdbN        wdk_dexp_beta     wdk_dexp_beta   webpatch        clinEpiSite       master
+b2.dataexplorer.org             genomicsdb_069n    userdb_betan      acctdbN        wdk_dexp_beta     wdk_dexp_beta   webpatch        clinEpiSite       api-build-69b
 
 #b2.clinepidb.org               genomicsdb_069n    userdb_betan      acctdbN        webwww            webwww          webwww          clinEpiSite       master
 #b2.microbiomedb.org            genomicsdb_069n    userdb_betan      acctdbN        webwww            webwww          webwww          microbiomeSite    master
