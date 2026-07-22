@@ -46,6 +46,22 @@ b2.dataexplorer.org             genomicsdb_070n    userdb_betan      acctdbN    
 #b2.clinepidb.org               genomicsdb_069n    userdb_betan      acctdbN        webwww            webwww          webwww          clinEpiSite       master
 #b2.microbiomedb.org            genomicsdb_069n    userdb_betan      acctdbN        webwww            webwww          webwww          microbiomeSite    master
 
+q2.amoebadb.org                 genomicsdb_070n    userdb_devn      acctdbN         wdk_ameb_qa       wdk_ameb_qa     webpatch        apiSite           master
+q2.cryptodb.org                 genomicsdb_070n    userdb_devn      acctdbN         wdk_cryp_qa       wdk_cryp_qa     webpatch        apiSite           master
+q2.giardiadb.org                genomicsdb_070n    userdb_devn      acctdbN         wdk_giar_qa       wdk_giar_qa     webpatch        apiSite           master
+q2.microsporidiadb.org          genomicsdb_070n    userdb_devn      acctdbN         wdk_micr_qa       wdk_micr_qa     webpatch        apiSite           master
+q2.piroplasmadb.org             genomicsdb_070n    userdb_devn      acctdbN         wdk_piro_qa       wdk_piro_qa     webpatch        apiSite           master
+q2.plasmodb.org                 genomicsdb_070n    userdb_devn      acctdbN         wdk_plas_qa       wdk_plas_qa     webpatch        apiSite           master
+q2.toxodb.org                   genomicsdb_070n    userdb_devn      acctdbN         wdk_toxo_qa       wdk_toxo_qa     webpatch        apiSite           master
+q2.trichdb.org                  genomicsdb_070n    userdb_devn      acctdbN         wdk_tvag_qa       wdk_tvag_qa     webpatch        apiSite           master
+q2.tritrypdb.org                genomicsdb_070n    userdb_devn      acctdbN         wdk_tryp_qa       wdk_tryp_qa     webpatch        apiSite           master
+q2.fungidb.org                  genomicsdb_070n    userdb_devn      acctdbN         wdk_fung_qa       wdk_fung_qa     webpatch        apiSite           master
+q2.hostdb.org                   genomicsdb_070n    userdb_devn      acctdbN         wdk_host_qa       wdk_host_qa     webpatch        apiSite           master
+q2.vectorbase.org               genomicsdb_070n    userdb_devn      acctdbN         wdk_vect_qa       wdk_vect_qa     webpatch        apiSite           master
+q2.veupathdb.org                genomicsdb_070n    userdb_devn      acctdbN         wdk_eupa_qa       wdk_eupa_qa     webpatch        apiSite           master
+q2.orthomcl.org                 genomicsdb_070n    userdb_devn      acctdbN         wdk_orth_qa       wdk_orth_qa     webpatch        orthoSite         master
+q2.dataexplorer.org             genomicsdb_070n    userdb_devn      acctdbN         wdk_dexp_qa       wdk_dexp_qa     webpatch        clinEpiSite       master
+
 q1.amoebadb.org                 ameb-inc           apicommDevS       acctdbs        webwww            webwww          webwww          apiSite           api-legacy-68-g
 q1.cryptodb.org                 cryp-inc           apicommDevS       acctdbs        webwww            webwww          webwww          apiSite           api-legacy-68-g
 q1.fungidb.org                  fung-inc           apicommDevS       acctdbs        webwww            webwww          webwww          apiSite           api-legacy-68-g
@@ -63,24 +79,6 @@ q1.restricted.clinepidb.org     eda-inc            cecommDevS        acctdbS    
 q1.vectorbase.org               vect-inc           apicommDevS       acctdbS        webwww            webwww          webwww          apiSite           api-legacy-68-g
 q1.veupathdb.org                eupa-inc           apicommDevS       acctdbS        webwww            webwww          webwww          apiSite           api-legacy-68-g
 q1.orthomcl.org                 rm51069            apicommDevS       acctdbS        webwww            webwww          webwww          orthoSite         api-legacy-68-g
-
-q2.amoebadb.org                 ameb068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.cryptodb.org                 cryp068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.fungidb.org                  fung068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.giardiadb.org                giar068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.hostdb.org                   host068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.microsporidiadb.org          micr068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.piroplasmadb.org             piro068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.plasmodb.org                 plas068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-f
-q2.toxodb.org                   toxo068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.trichdb.org                  tvag068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.tritrypdb.org                tryp068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.microbiomedb.org             eda-inc            cecommDevN        acctdbN        webwww            webwww          webwww          microbiomeSite    api-legacy-68-f
-q2.clinepidb.org                eda068n            cecommdevN        acctdbN        webwww            webwww          webwww          clinEpiSite       api-legacy-68-f
-q2.restricted.clinepidb.org     eda-inc            cecommdevN        acctdbN        webwww            webwww          webwww          clinEpiSite       api-legacy-68-g
-q2.vectorbase.org               vect068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.veupathdb.org                eupa068n           apicommdevN       acctdbN        webpatch          webwww          webwww          apiSite           api-legacy-68-g
-q2.orthomcl.org                 orth070n           apicommdevN       acctdbN        webwww            webwww          webwww          orthoSite         api-legacy-68-f
 
 w1.amoebadb.org                 ameb068s           apicommS          acctdbS        webwww            webwww          webwww          apiSite           api-legacy-68-f
 w1.cryptodb.org                 cryp068s           apicommS          acctdbS        webwww            webwww          webwww          apiSite           api-legacy-68-f
