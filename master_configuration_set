@@ -51,7 +51,7 @@ q2.cryptodb.org                 genomicsdb_devn    userdb_devn      acctdbN     
 q2.giardiadb.org                genomicsdb_devn    userdb_devn      acctdbN         wdk_giar_qa       wdk_giar_qa     webpatch        apiSite           master
 q2.microsporidiadb.org          genomicsdb_devn    userdb_devn      acctdbN         wdk_micr_qa       wdk_micr_qa     webpatch        apiSite           master
 q2.piroplasmadb.org             genomicsdb_devn    userdb_devn      acctdbN         wdk_piro_qa       wdk_piro_qa     webpatch        apiSite           master
-q2.plasmodb.org                 genomicsdb_devn    userdb_devn      acctdbN         wdk_plas_qa       wdk_plas_qa     webpatch        apiSite           api-build-71
+q2.plasmodb.org                 genomicsdb_devn    userdb_devn      acctdbN         wdk_plas_qa       wdk_plas_qa     webpatch        apiSite           master
 q2.toxodb.org                   genomicsdb_devn    userdb_devn      acctdbN         wdk_toxo_qa       wdk_toxo_qa     webpatch        apiSite           master
 q2.trichdb.org                  genomicsdb_devn    userdb_devn      acctdbN         wdk_tvag_qa       wdk_tvag_qa     webpatch        apiSite           master
 q2.tritrypdb.org                genomicsdb_devn    userdb_devn      acctdbN         wdk_tryp_qa       wdk_tryp_qa     webpatch        apiSite           master
@@ -60,7 +60,7 @@ q2.hostdb.org                   genomicsdb_devn    userdb_devn      acctdbN     
 q2.vectorbase.org               genomicsdb_devn    userdb_devn      acctdbN         wdk_vect_qa       wdk_vect_qa     webpatch        apiSite           master
 q2.veupathdb.org                genomicsdb_devn    userdb_devn      acctdbN         wdk_eupa_qa       wdk_eupa_qa     webpatch        apiSite           master
 q2.orthomcl.org                 genomicsdb_devn    userdb_devn      acctdbN         wdk_orth_qa       wdk_orth_qa     webpatch        orthoSite         master
-q2.dataexplorer.org             genomicsdb_devn    userdb_devn      acctdbN         wdk_dexp_qa       wdk_dexp_qa     webpatch        clinEpiSite       api-build-71
+q2.dataexplorer.org             genomicsdb_devn    userdb_devn      acctdbN         wdk_dexp_qa       wdk_dexp_qa     webpatch        clinEpiSite       master
 
 q1.amoebadb.org                 ameb-inc           apicommDevS       acctdbs        webwww            webwww          webwww          apiSite           api-legacy-68-g
 q1.cryptodb.org                 cryp-inc           apicommDevS       acctdbs        webwww            webwww          webwww          apiSite           api-legacy-68-g
